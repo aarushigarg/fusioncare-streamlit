@@ -1,0 +1,865 @@
+ORIGINAL ARTICLE
+Gastrointestinal tolerability of once-weekly semaglutide
+2.4 mg in adults with overweight or obesity, and the
+relationship between gastrointestinal adverse eventsand weight loss
+Sean Wharton MD1| Salvatore Calanna MD2| Melanie Davies MD3,4|
+Dror Dicker MD5| Bryan Goldman MS2| Ildiko Lingvay MD6|
+Ofri Mosenzon MD7| Domenica M. Rubino MD8| Mette Thomsen MD2|
+Thomas A. Wadden PhD9| Sue D. Pedersen MD10
+1York University, McMaster University and Wharton Weight Management Clinic, Toronto, Ontario, Canada
+2Novo Nordisk A/S, Søborg, Denmark
+3Diabetes Research Centre, University of Leicester, Leicester, UK
+4NIHR Leicester Biomedical Research Centre, Leicester, UK
+5Internal Medicine Department & Obesity Clinic, Hasharon Hospital-Rabin Medical Center, Petach-Tikva, Sackler Faculty of Medicine, Tel Aviv Unive rsity,
+Tel Aviv, Israel
+6Departments of Internal Medicine/Endocrinology and Population and Data Sciences, University of Texas Southwestern Medical Center, Dallas, Texas , USA
+7Diabetes Unit, Department of Endocrinology and Metabolism, Hadassah Medical Center; Faculty of Medicine, Hebrew University of Jerusalem, Jerusal em, Israel
+8Washington Center for Weight Management and Research, Arlington, Virginia, USA
+9Department of Psychiatry, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, USA
+10C-ENDO Diabetes & Endocrinology Clinic Calgary, Calgary, Alberta, Canada
+Correspondence
+Dr Sean Wharton, MD, Wharton MedicalClinic, 2951 Walker's Line, Burlington,
+ON L7M 4Y1, Canada.
+Email: sean@whartonmedicalclinic.comAbstract
+Aim: We evaluated gastrointestinal (GI) adverse events (AEs) with once-weekly
+semaglutide 2.4 mg in adults with overweight or obesity and their contribution to
+weight loss (WL).
+Materials and methods: AE analyses pooled data from the Semaglutide Treatment
+Effect in People With Obesity (STEP) 1-3 trials for participants randomized to
+68 weeks of semaglutide 2.4 mg (n =2117) or placebo (n =1262). WL was analysed
+by presence/absence of GI AEs. Mediation analysis estimated WL effects mediated
+by and unrelated to GI AEs. GI tolerability with semaglutide 2.4 mg maintenance and
+cessation after dose escalation was evaluated using STEP 4 data among 803 partici-pants tolerating 20 weeks of semaglutide run-in.
+Results: GI AEs were more common with semaglutide 2.4 mg than placebo, with most
+frequently nausea (43.9% vs. 16.1% of participants), diarrhoea (29.7% vs. 15.9%),
+All trials were registered with ClinicalTrials.gov (NCT03548935, NCT03552757, NCT03611582 and NCT03548987).Received: 21 June 2021 Revised: 27 August 2021 Accepted: 7 September 2021
+DOI: 10.1111/dom.14551
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use, distribution and repro duction in any
+medium, provided the original work is properly cited and is not used for commercial purposes.
+© 2021 The Authors. Diabetes, Obesity and Metabolism published by John Wiley & Sons Ltd.
+94 Diabetes Obes Metab. 2022;24:94 –105. wileyonlinelibrary.com/journal/dom
+vomiting (24.5% vs. 6.3%) and constipation (24.2% vs. 11.1%). Most GI AEs with
+semaglutide were non-serious (99.5% of AEs), mild-to-moderate (98.1%), transient andoccurred most frequently during/shortly after dose escalation. Few semaglutide-treated
+participants (4.3%) permanently discontinued treatment for GI AEs. In STEP 1-3, mean
+WL with semaglutide 2.4 mg was similar in participants without (9.6%-17.1%) versus
+with GI AEs (11.4%-17.7%). Consistent with this observation, mediation analysis found
+that GI AEs contributed little to semaglutide -induced WL: of the additional 7.6%-14.4%
+WL with semaglutide versus placebo, <1 percentage point was mediated by GI AEs. In
+STEP 4, semaglutide 2.4 mg maintenance was well tolerated.Conclusions: GI AEs were more common with semaglutide 2.4 mg than placebo, but
+typically mild-to-moderate and transient. Semaglutide-induced WL was largely inde-
+pendent of GI AEs.
+KEYWORDS
+antiobesity drug, GLP-1 analogue, obesity therapy, phase III study, randomized trial, weight
+control
+1|INTRODUCTION
+Obesity is a chronic, relapsing disease, leading to substantial burden on
+individuals and health care systems worldwide.1,2Weight management
+guidelines recommend pharmacotherapy as an adjunct to lifestyleinterventions in patients with a body mass index (BMI) ≥30 kg/m
+2,o r
+≥27 kg/m2with weight-related comorbidities.3-6
+Semaglutide is a glucagon-like peptide-1 receptor agonist
+(GLP-1RA) indicated for type 2 diabetes (T2D) and now approved by
+the US Food and Drug Administration for weight management in people
+with overweight or obesity at a once-weekly subcutaneous dose of2.4 mg.
+7In the phase III Semaglutide Treatment Effect in People with
+obesity (STEP) 1-4 studies, weekly semaglutide 2.4 mg demonstrated
+substantial, clinically meaningful weight losses and improvements in car-diometabolic parameters and patient-reported outcomes.
+8-11
+Gastrointestinal (GI) adverse eve nts (AEs), most co mmonly mild-to-
+moderate nausea, are a dose-dependent class effect of GLP-1RAs.12-14
+We conducted a pooled analysis of the STEP 1-3 trials to evaluate the GI
+AE profile of semaglutide 2.4 mg. In addition, we explored whether GI
+AEs contributed to the weight-loss e ffects of semaglutide in STEP 1-3.
+Data from the STEP 4 withdrawal trial were analysed separately andused to evaluate the incidence of GI AEs after achievement of the target
+2.4 mg maintenance dose. These analyses may inform understanding of
+both weight loss and GI tolerab ility with semaglutide 2.4 mg.
+2|MATERIALS AND METHODS
+2.1 |Trial designs and populations
+The STEP 1-4 trial designs have been published.8-11,15In brief,
+STEP 1, 3 and 4 enrolled adults aged ≥18 years with a BMI
+≥27 kg/m2(with ≥1 weight-related comorbidity) or ≥30 kg/m2,without diabetes. Participants in STEP 2 had a BMI of ≥27 kg/m2
+plus T2D.
+In STEP 1, semaglutide 2.4 mg wa sc o m p a r e dw i t hp l a c e b oo na
+background of lifestyle intervention. In STEP 2, semaglutide 2.4 mg wascompared with placebo or semaglutide 1.0 mg, plus lifestyle intervention
+(as semaglutide 1.0 mg was not developed for weight management, data
+for this dose are included in File S 1). STEP 3 compared semaglutide
+2.4 mg with placebo, as adjunct to intensive behavioural therapy. Studydesigns were similar, consisting of a 68-week, randomized, placebo-
+controlled treatment period (Figur e S1), enabling pooling of data. The
+68-week STEP 4 trial used a withdrawal design: after a 20-week run-inperiod with open-label semaglutide, participants were randomized to
+continued semaglutide 2.4 mg versus switch to placebo (both as adjunct
+to lifestyle intervention) (Figure S1). Only those who tolerated the2.4 mg dose at week 20 were eligible for randomization. All trials wereconducted according to the International Conference on Harmonisation
+Good Clinical Practice guidelines and the Declaration of Helsinki.
+2.2 |Study protocol and titration schedule
+Each STEP trial included an initial dose escalation for semaglutide, with
+initiation at 0.25 mg once weekly for 4 weeks, increased at 4-weekly
+intervals to 0.5 mg, 1.0 mg, 1.7 mg and finally 2.4 mg at week 16.8-11,15
+Participants unable to tolerate 2.4 mg (i.e. would otherwise discontinue
+treatment) were permitted to remain at lower maintenance doses, with
+at least one attempt to re-escalate to 2.4 mg. Participants discontinuingtreatment prematurely remained in each trial.
+AE information, including onset and end date, was collected through-
+out each trial, using open-ended, non -leading verbal questions. Reported
+A E sw e r ep r o a c t i v e l yf o l l o w e du pa te a c hs u b s e q u e n tv i s i t / c o n t a c t .A E swere coded using the current version of the Medical Dictionary for Regu-
+latory Activities (Version 22.1) an d categorized based on severity andWHARTON ET AL. 95
+seriousness, using stand ard definitions (File S1). AE incidence was assessed
+as a supportive secondary safety endpoint in each trial.
+2.3 |Statistical considerations
+On-treatment GI AE incidence was evaluated in post-hoc analyses
+performed using pooled STEP 1-3 data for semaglutide 2.4 mg andplacebo arms. STEP 4 was not included in the pooled analysis because
+of the differences in study design. For AE analyses, participants were
+considered to be on treatment if any dose of trial product was admin-istered within the previous 49 days. The percentage of participantsthat experienced GI AEs and the event rate per 100 patient-years of
+exposure were adjusted using Cochran-Mantel-Haenszel weights to
+account for differences between trials.
+16Median durations of GI AEs
+were estimated using the Kaplan-Meier estimator.
+The effect of GI AEs on weight loss was explored using two dif-
+ferent post-hoc analyses:
+1. A descriptive analysis of percentage change in body weight from
+baseline to week 68 among participants who did or did not experi-ence GI AEs during STEP 1-3, using observed body weight data
+from participants who were on treatment and had a body weight
+assessment at week 68 (on treatment was defined as any dose oftrial product within the previous 2 weeks). Analyses were per-formed separately among participants with/without (i) any GI AEs
+and (ii) a subset of common GI AEs that were probably considered
+to influence weight loss (nausea, diarrhoea and vomiting).
+2. Mediation analysis used a natural effects model with imputation-
+based estimation, as described previously.
+17-19This analysis aimed
+to separate the overall effects on body weight into effects medi-ated by GI AEs (indirect effects) and those unrelated to GI AEs
+(direct effects), for the STEP 1-3 trials. Changes in body weight
+were analysed addressing the effect of treatment (if taken asintended) using a mixed model for repeated measurements.
+20
+GI AE incidence in the STEP 4 trial was analysed with a methodologysimilar to that used for the STEP 1-3 pooled analysis, with the excep-tion that no adjustment of AE incidence or event rate was performed.
+Data from participants able to tolerate the semaglutide 2.4 mg dose
+during the 20-week run-in period who were subsequently randomizedwere used to evaluate the effect of continued semaglutide 2.4 mg or
+cessation of treatment (switch to placebo) on GI AE incidence.
+3|RESULTS
+3.1 |Demographics and baseline characteristics
+(STEP 1-4)
+In total, 2117 participants were randomized to semaglutide 2.4 mg
+and 1262 to placebo within the STEP 1-3 trials. In STEP 4, 902participants entered the initial 20-week semaglutide run-in period; of
+these, 803 participants were subsequently randomized to continuedsemaglutide 2.4 mg (n =535) or placebo (n =268).
+Baseline characteristics were similar in each trial, except that the
+STEP 2 population included fewer female participants, had lower BMIand higher age and glycated haemoglobin compared with STEP 1 and
+3 (Table S1). In STEP 4, participant characteristics at randomization
+(week 20) were comparable between the continued semaglutide2.4 mg and placebo arms (Table S1).
+The majority of participants randomized to semaglutide 2.4 mg
+remained on treatment at week 68 in STEP 1-3 (84.0%) and in STEP4 (94.2%). Among these, most were receiving 2.4 mg once weekly(STEP 1-3: 87.0%; STEP 4: 89.5%).
+3.2 |Incidence, timing and severity of any type
+of gastrointestinal adverse event (STEP 1-3 pooled
+analysis)
+A greater proportion of participants reported GI AEs in the
+semaglutide 2.4 mg arm compared with placebo: 72.9% and 47.1%,respectively (Table S2). Most GI AEs were non-serious (99.5% of
+AEs) and mild or moderate in severity (98.1%) (Table S2). Severe GI
+AEs (namely nausea, abdominal pain, diarrhoea and vomiting) werereported by more participants in the semaglutide 2.4 mg arm (4.1%of participants) compared with the placebo arm (0.9%) (Table S2). GI
+AEs were reported more frequently within the dose-escalation
+period, with the cumulative incidence of participants experiencingtheir first GI AE plateauing after week 20 (Figure 1A). Data for the
+1.0 mg dose of semaglutide (STEP 2) are shown in Table S3 and
+Figure S2.
+3.3 |Incidence, timing and severity of most
+common gastrointestinal adverse events(STEP 1-3 pooled analysis)
+The most commonly reported GI AEs with semaglutide 2.4 mg were
+nausea, diarrhoea, vomiting and constipation (Table S2). Relative to
+the placebo arm, the prevalence of nausea, diarrhoea, vomiting and
+constipation in the semaglutide 2.4 mg arm were elevated through-out the 68-week treatment period (Figure 2A-D). The prevalence of
+nausea, diarrhoea and vomiting in the semaglutide 2.4 mg arm
+peaked at about week 20 and decreased thereafter, with the mostprominent decline found for nausea (Figure 2A-C). Individual nau-
+sea, diarrhoea and vomiting events were relatively short-lived: in
+the semaglutide 2.4 mg arm, the median durations of nausea, diar-rhoea and vomiting were 8, 3 and 2 days, respectively, and weresimilar to placebo (Figure 2A-C). The median duration of constipa-
+tion was longer: 47 days in the semaglutide arm and 35 days for
+placebo, with the prevalence plateauing at approximately week10 (Figure 2D).96 WHARTON ET AL.
+3.4 |Impact of gastrointestinal adverse events on
+dose and treatment adherence (STEP 1-3 pooled analysis)
+GI AEs led to dose reduction or temporary treatment interruption in
+12.5% of participants in the semaglutide 2.4 mg arm versus 1.7% ofparticipants in the placebo arm. GI AEs led to permanent treatment
+discontinuation in more participants in the semaglutide 2.4 mg arm
+(4.3%) than in the placebo arm (0.7%), with most discontinuationsoccurring during the dose-escalation period in both arms (Figure 1B).
+Almost all participants who experienced GI AEs in the semaglutide
+2.4 mg arm continued and completed t he trial (95.5%), with a similar com-
+pletion rate among those who did not experience GI AEs (93.0%). The pro-portion of participants in the semaglutide 2.4 mg arm who completed the
+trials on treatment was similar for participants who experienced GI AEs(83.1%) and for those who did not (86.7%); most of these participants
+(83.7% and 96.0%, respectively) we re receiving the 2.4 mg dose at week
+68 (Table 1). Among the participants in the semaglutide arm who experi-
+enced a dose reduction or temporary treatment interruption owing to GI
+AEs, 74.0% subsequently completed the study on treatment(at completion, 60.2% reported taking a dose of ≥1.7 mg and 36.7% the
+2.4 mg dose) (Table 1).
+3.5 |Impact of gastrointestinal adverse events on
+weight loss (STEP 1-3)
+Among participants on treatment at week 68 with a body weight
+assessment, the observed placebo-corrected weight loss from0
+0 10 20 30 40
+Time since first dose of trial product (weeks)Time to onset of first
+gastrointestinal adverse event(A)
+Proportion of participants (%)
+50 60 6875
+2116
+1261No. of participants
+Semaglutide 2.4 mg
+Placebo980
+883670
+766601
+705558
+656534
+619504
+578484
+563173
+189102030405060708090100 Semaglutide 2.4 mg
+Placebo
+Semaglutide 2.4 mg
+Placebo
+0
+0 8 20 36
+Time since randomization (weeks)Time to permanent treatment discontinuation
+due to gastrointestinal adverse events(B)
+Proportion of participants (%)
+Proportion of participants (%)
+52 68
+2116
+1261No. of participants
+Semaglutide 2.4 mg
+Placebo2068
+12501987
+12011926
+11351870
+10721781
+1017102030405060708090100
+0
+08 20 36
+Time since randomization52 68246810
+FIGURE 1 In the STEP 1-3 trials: (A) Time to onset of first gastrointestinal adverse event; (B) Gastrointestinal adverse events leading to
+permanent treatment discontinuation. Data are on-treatment adverse events (participants were considered to be on treatment if any dose of trialproduct was administered within the previous 49 days). Numbers below the plots represent the number of participants at risk. Equivalent data forthe individual treatment arms (including semaglutide 1.0 mg) in the STEP 2 trial are shown in Figure S2WHARTON ET AL. 97
+Semaglutide
+run inRandomized
+period
+1.0
+NARun-in
+period
+Semaglutide 2.4 mg
+PlaceboMedian duration,
+daysSemaglutide
+run inRandomized
+period
+46.0
+NARun-in
+period
+42.0
+8.0Randomized
+period
+Semaglutide 2.4 mg
+PlaceboMedian duration,
+daysSemaglutide
+run inRandomized
+period
+4.0
+NARun-in
+period
+4.0
+5.0Randomized
+period
+1.0
+2.0Randomized
+periodSemaglutide 2.4 mg
+PlaceboMedian duration,
+days0
+0 10 20 30 40
+Time since first dose of trial product (weeks)Nausea in STEP 1–3 (A) (B) 
+(C) (D) 
+(E) (F) 
+(G) (H) Proportion of participants (%)
+50 60 68 75
+2116
+1261No. of participants
+Semaglutide 2.4 mg
+Placebo2080
+12422015
+12051963
+11681921
+11241883
+10891839
+10441785
+1017626
+3471020304050
+Semaglutide 2.4 mg Placebo0
+0 10 20 30 40
+Time since first dose of trial product (weeks)Diarrhoea in STEP 1–3Proportion of participants (%)
+50 60 68 75
+2116
+12612080
+12422015
+12051963
+11681921
+11241883
+10891839
+10441785
+1017626
+3471020304050 Median duration
+Semaglutide 2.4 mg: 8 days
+Placebo: 7 daysMedian duration
+Semaglutide 2.4 mg: 3 days
+Placebo: 4 days
+0
+0 10 20 30 40
+Time since first dose of trial product (weeks)Constipation in STEP 1–3Proportion of participants (%)
+50 60 68 75
+2116
+1261No. of participants
+Semaglutide 2.4 mg
+Placebo2080
+12422015
+12051963
+11681921
+11241883
+10891839
+1044
+Sema glutide 2.4 m g Sema glutide run in Placebo1785
+1017626
+3471020304050
+0
+0 10 20 30 40
+Time since first dose of trial product (weeks)Vomiting in STEP 1–3Proportion of participants (%)
+50 60 68 75
+2116
+12612080
+12422015
+12051963
+11681921
+11241883
+10891839
+10441785
+1017626
+3471020304050 Median duration
+Semaglutide 2.4 mg: 47 daysPlacebo: 35 daysMedian duration
+Semaglutide 2.4 mg: 2 daysPlacebo: 2 days
+0
+0 10 20 30 40
+Time since first dose of trial product (weeks)Nausea in STEP 4Proportion of participants (%)
+50 60 68 75
+902No. of participants
+Semaglutide 2.4 mg
+Placebo886 577
+268534
+266524
+260518
+254511
+249506
+240212
+75902 886 577
+268534
+266524
+260518
+254511
+249506
+240212
+75
+902 886 577
+268534
+266524
+260518
+254511
+249506
+240212
+75902 886 577
+268534
+266524
+260518
+254511
+249506
+240212
+751020304050 Semaglutide
+run inRandomized
+period
+0
+0 10 20 30 40
+Time since first dose of trial product (weeks)Diarrhoea in STEP 4Proportion of participants (%)
+50 60 68 751020304050
+15.0
+NARun-in
+period
+8.0
+5.0Randomized
+period
+0
+0 10 20 30 40
+Time since first dose of trial product (weeks)Constipation in STEP 4Proportion of participants (%)
+50 60 68 75
+No. of participants
+Semaglutide 2.4 mg
+Placebo1020304050
+0
+0 10 20 30 40
+Time since first dose of trial product (weeks)Vomiting in STEP 4Proportion of participants (%)
+50 60 68 751020304050Semaglutide 2.4 mg
+PlaceboMedian duration,
+days
+FIGURE 2 Prevalence of adverse events (nausea, diarrhoea, constipation and vomiting) over time in the (A-D) STEP 1-3 trials and (E-H) STEP
+4 trial. NA, not applicable. Data are on-treatment adverse events (participants were considered to be on treatment if any dose of trial product wasadministered within the previous 49 days)98 WHARTON ET AL.
+TABLE 1 Participant disposition in the STEP 1-3 trials (pooled data) for: (i) the overall population; (ii) participants with or without GI AEs and (iii) parti cipants with dose reductions or temporary
+treatment interruptions in response to a GI AE
+Semaglutide 2.4 mg once weekly Placebo
+n (%)All participants
+(N=2117)Participants with GI
+AEs (N =1562)Participants without
+GI AEs (N =555)Participants who reduced
+dose or temporarilyinterrupted treatment in
+response to a
+GI AE (N =265)All participants
+(N=1262)Participants with
+GI AEs (N =581)Participants without
+GI AEs (N =681)Participants who reduced
+dose or temporarilyinterrupted treatment
+in response to a
+GI AE (N =22)
+In trial at week 68 2007 (94.8) 1491 (95.5) 516 (93.0) 252 (95.1) 1183 (93.7) 546 (94.0) 637 (93.5) 21 (95.5)
+On treatment at
+week 681779 (84.0) 1298 (83.1) 481 (86.7) 196 (74.0) 1021 (80.9) 464 (79.9) 557 (81.8) 14 (63.6)
+After ≥1
+temporaryinterruption
+a199 (9.4) 171 (10.9) 28 (5.0) 88 (33.2) 109 (8.6) 67 (11.5) 42 (6.2) 8 (36.4)
+Permanent
+treatment
+discontinuation338 (16.0) 264 (16.9) 74 (13.3) 69 (26.0) 241 (19.1) 117 (20.1) 124 (18.2) 8 (36.4)
+Primary reason for permanent treatment discontinuation
+AE 143 (6.8) 133 (8.5) 10 (1.8) 38 (14.3) 40 (3.2) 27 (4.6) 13 (1.9) 3 (13.6)Safety concern
+(investigator)17 (0.8) 12 (0.8) 5 (0.9) 4 (1.5) 2 (0.2) 2 (0.3) 0 2 (9.1)
+Withdrawal of
+consent15 (0.7) 8 (0.5) 7 (1.3) 2 (0.8) 20 (1.6) 9 (1.5) 11 (1.6) 0
+Lost to follow-up 49 (2.3) 30 (1.9) 19 (3.4) 6 (2.3) 35 (2.8) 15 (2.6) 20 (2.9) 1 (4.5)
+Other 114 (5.4) 81 (5.2) 33 (5.9) 19 (7.2) 144 (11.4) 64 (11.0) 80 (11.7) 2 (9.1)
+Last dose for treatment completers, mg
+2.4 1548/1779
+(87.0)
+b1086/1298 (83.7)b462/481 (96.0)b72/196 (36.7)b994/1021
+(97.4)b446/464 (96.1)b548/557 (98.4)b10/14 (71.4)b
+1.7 to <2.4 90/1779 (5.1)b84/1298 (6.5)b6/481 (1.2)b46/196 (23.5)b10/1021 (1.0)b9/464 (1.9)b1/557 (0.2)b3/14 (21.4)b
+<1.7 129/1779
+(7.3)b120/1298 (9.2)b9/481 (1.9)b77/196 (39.3)b11/1021 (1.1)b6/464 (1.3)b5/557(0.9)b1/14 (7.1)b
+Other/not
+reported12/1779 (0.7)b8/1298 (0.6)b4/481 (0.8)b1/196 (0.5)b6/1021 (0.6)b3/464 (0.7)b3/557 (0.5)b0
+Note : Proportion of participants (%) stated among the total number of participants in each group, unless indicated otherwise.
+Abbreviations: AE, adverse event; GI, gastrointestinal.
+aTemporary treatment interruptions for any reason.
+bProportion of participants (%) stated among those who were on treatment at week 68.WHARTON ET AL. 99
+baseline to week 68 for semaglutide 2.4 mg was 14.4 percentage
+points in the STEP 1 trial, 7.6 percentage points in the STEP 2 trial
+and 12.7 percentage points in the STEP 3 trial. Weight loss appearednearly as great in those without versus with GI AEs (Figure 3). In the
+semaglutide 2.4 mg arms, the mean change observed from baseline to
+week 68 in body weight in those with versus without GI AEs was–17.3–15.7–2.9–3.3
+–17.8–15.6–2.9 –3.1n=774 n=285 n=240 n=259 n=611 n=448 n=135 n=364Gastrointestinal adverse events(A) STEP 1
+–20Change from baseline in body weight (%)–16–12–8–40Nausea, diarrhoea and/or vomiting
+–11.4–9.6–3.0 –3.1
+–11.6–9.9–2.9 –3.1Gastrointestinal adverse events(B) STEP 2
+–20Change from baseline in body weight (%)–16–12–8–40Nausea, diarrhoea and/or vomiting
+–17.7 –17.1–6.2 –5.9
+–18.2–16.3–6.3–5.9Gastrointestinal adverse events(C) STEP 3
+–20Change from baseline in body weight (%)–16–12–8–40Nausea, diarrhoea and/or vomitingSemaglutide 2.4 mg with event
+Semaglutide 2.4 mg without eventPlacebo with eventPlacebo without event
+n=221 n=130 n=115 n=225 n=163 n=188 n=67 n=273
+n=278 n=56 n=103 n=61 n=234 n=100 n=61 n=103FIGURE 3 Change in body
+weight from baseline to week68 among participants with andwithout gastrointestinal adverseevents in: (A) STEP 1; (B) STEP 2;and (C) STEP 3. Bars present themean percentage change frombaseline in body weight± standard error of the mean.
+Body weight data are observed
+on-treatment data (any dose oftrial product within previous2 weeks) among participants whohad a week 68 body weightassessment. Gastrointestinaladverse events comprise any typeof gastrointestinal disorder,including on-treatment adverseevents (for assessment of adverseevents, participants wereconsidered to be on treatment ifany dose of trial product wasadministered within the previous49 days). Additional informationon these analyses is included inTable S4100 WHARTON ET AL.
+(A) Mediation analysis for gastrointestinal adverse events
+–16 –12 –8
+ETD for the change from baseline to week 68 in body weight (%)
+(semaglutide 2.4 mg vs placebo) [95% CI]ETD [95% CI]
+–13.94 [–14.74, –13.13]
+–0.45 [–0.73, –0.18]
+–14.39 [–15.15, –13.63]
+–7.08 [–8.03, –6.13]
+–0.49 [–0.88, –0.10]–7.57 [–8.45, –6.70]
+–12.42 [–13.99, –10.85]
+–0.39 [–0.84, 0.12]
+–12.78 [–14.28, –11.28]STEP 1
+Effect unrelated to GI AEs
+Effect mediated by GI AEs
+Total effect
+STEP 2
+Effect unrelated to GI AEs
+Effect mediated by GI AEs
+Total effect
+STEP 3
+Effect unrelated to GI AEs
+Effect mediated by GI AEs
+Total effect
+–4 0
+(B) Mediation analysis for nausea, vomiting and diarrhoea
+–16 –12 –8
+ETD for the change from baseline to week 68 in body weight (%)
+(sema glutide 2.4 m g vs placebo ) [95% CI]ETD [95% CI]
+–13.71 [–14.51, –12.90]
+–0.69 [–0.98, –0.39]
+–14.39 [–15.15, –13.64]
+–7.17 [–8.11, –6.23]
+–0.40 [–0.76, –0.05]
+–7.57 [–8.44, –6.70]
+–11.83 [–13.46, –10.21]
+–0.94 [–1.59, –0.29]
+–12.77 [–14.27, –11.28]STEP 1
+Effect unrelated to
+nausea/vomiting/diarrhea 
+Effect mediated by
+nausea/vomiting/diarrhea 
+Total effect
+STEP 2
+Effect unrelated to
+nausea/vomiting/diarrhea 
+Effect mediated by
+nausea/vomiting/diarrhea 
+Total effect
+STEP 3
+Effect unrelated to
+nausea/vomiting/diarrhea 
+Effect mediated by
+nausea/vomiting/diarrhea
+Total effect
+–4 0
+FIGURE 4 Mediation analysis of body weight changes mediated by or unrelated to GI AEs in the STEP 1-3 trials. AE, adverse event; CI,
+confidence interval; ETD, estimated treatment difference; GI, gastrointestinal; HbA1c, glycated haemoglobin. Based on the on-treatment dataexcluding measurements after initiation of antiobesity therapy (other obesity pharmacotherapy or bariatric surgery) from all randomizedparticipants. Changes in body weight were analysed using a mixed model for repeated measurements, which included randomized treatment,stratification groups and their interaction (for STEP 2 only, including oral antihyperglycaemic drug treatment status and HbA1c category atscreening) as factors, and baseline body weight as covariate, all nested within visit. Effects were estimated using a natural effects model(interaction between treatment and any GI AEs together with the baseline variables of body weight and stratification factors [STEP 2 only] asmain effects, assuming no interaction between natural effects and baseline variables) with imputation-based estimation. CIs are 95% Wald CIs. GIAEs comprise any type of GI disorder, including on-treatment AEs (participants were considered to be on treatment if any dose of trial productwas administered within the previous 49 days)WHARTON ET AL. 101
+/C017.3% versus /C015.7% in STEP 1, /C011.4% versus /C09.6% in STEP
+2 and /C017.7% versus /C017.1% in STEP 3. Results were similar when
+weight change was analysed in participants with or without any of the
+three common GI AEs that were considered to possibly influence
+weight loss (nausea, diarrhoea and/or vomiting) (Figure 3).
+Mediation analysis found that the vast majority of the weight-loss
+effects of semaglutide 2.4 mg were because of effects unrelated to GI
+AEs. Overall, <1 percentage point of semaglutide-induced weight lossversus placebo was mediated by GI AEs, whether analysed based on
+the occurrence of any GI AE (Figure 4A) or the occurrence of nausea,
+diarrhoea and/or vomiting (Figure 4B). There was no notable differ-ence in the magnitude of weight loss effect mediated by GI AEsbetween the STEP 1, 2 and 3 trials (Figure 4).
+3.6 |Effect of treatment maintenance on
+gastrointestinal adverse event incidence (STEP 4)
+Of the 902 participants enrolled in the initial 20-week run-in period,
+71.4% reported GI AEs, with type, severity and chronology similar
+to that reported in STEP 1-3 (Table S2; Figure 2E-H). In total,99 participants (11.0%) enrolled in the run-in did not attain the tar-
+get dosage required to participate in the randomized period at week
+20, with AEs cited as the most common reason (48 of 99 partici-pants [48.4%]) .
+Among the 803 participants randomized at week 20, GI AEs with
+onset during the randomized period were reported in 41.9% of partici-
+pants receiving continued semaglutide 2.4 mg treatment, comparedwith 26.1% of participants that switched to placebo (Table S2). In par-
+ticipants receiving continued semaglutide 2.4 mg treatment, the prev-
+alence of nausea, diarrhoea and constipation decreased over time, andthe prevalence of vomiting remained low (Figure 2E-H).
+Almost all cases of permanent treatment discontinuation because
+of GI AEs occurred during the run-in period (in 44 enrolled partici-pants [4.9%]). After randomization, few participants in either armexperienced dose adjustments or temporary or permanent discontinu-
+ations of treatment because of GI AEs (Table S2).
+4|DISCUSSION
+These analyses provide a robust assessment of the GI tolerability of
+semaglutide 2.4 mg in /C242650 adults over 68 weeks and show that
+weight loss with semaglutide 2.4 mg was mostly attributable toeffects unrelated to GI AEs.
+Pooled data from the STEP 1-3 trials demonstrate frequent
+reports of GI AEs in both semaglutide 2.4 mg and placebo arms, withnausea, diarrhoea, vomiting and constipation the most common sideeffects with semaglutide. The relatively high incidence of GI AEs in
+the placebo arms was not unexpected and may in part reflect the
+known underlying increased risk of GI disorders associated with obe-sity.
+21While not assessed directly in our study, crude comparison of
+the incidences of GI AEs reported in the individual STEP 1, 2 and3 trials8-10indicates between-trial variation in incidences for both
+semaglutide 2.4 mg and placebo arms, which may reflect trial-specificdifferences in design and patient populations.
+Although GI AEs occurred more frequently with semaglutide
+2.4 mg than with placebo across STEP 1-4, the vast majority of GI AEsreported were non-serious and mild-to-moderate in severity, and did
+not necessitate dose reduction or discontinuation. GI AEs were most
+prevalent during or shortly after dose escalation, declining in preva-lence thereafter. While rates of nausea, diarrhoea and vomiting with
+semaglutide remained elevated compared with placebo throughout
+treatment, participants typically recovered from each event within afew days. Constipation tended to last longer, and may be because ofthe effects of GLP-1RAs on GI motility.
+22Among the participants who
+reported any GI AEs, the vast majority experienced their first event
+during the dose-escalation period, suggesting that the elevated preva-lence of GI AEs with semaglutide versus placebo after dose escalation
+is primarily because of additional events being reported by partici-
+pants who have previously experienced a GI AE. Collectively, theseresults should reassure patients and physicians alike that GI AEs asso-
+ciated with semaglutide 2.4 mg are unlikely to be serious and will typi-
+cally be transient, although a small proportion of patients maycontinue to experience GI AEs throughout treatment. Importantly, in
+STEP 1-3, only 4.3% of participants in the semaglutide arm discon-
+tinued treatment prematurely because of GI AEs, with very few dis-continuations occurring after dose escalation.
+STEP 4 provides additional insight and reassurance on the GI tol-
+erability profile of semaglutide 2.4 mg. Participants able to tolerate
+semaglutide 2.4 mg utilizing the standard escalation regimen duringthe 20-week run-in were typically able to tolerate continued treat-
+ment for the remainder of the trial, with only two discontinuations
+because of GI AEs after week 20. Furthermore, for those who hadongoing GI side effects, the prevalence of nausea, diarrhoea and
+constipation decreased gradually over time.
+GI disorders are well-known side effects of GLP-1RAs, leading
+clinicians to query whether weight losses are a result of these sideeffects. Across STEP 1-3, we observed that reductions in body weight
+from baseline to week 68 with semaglutide 2.4 mg were nearly as
+great in participants without versus with GI AEs: in the descriptiveanalysis, weight loss with semaglutide 2.4 mg ranged from 9.6% to
+17.1% in participants without GI AEs and from 11.4% to 17.7% in
+those with GI AEs. Consistent with these observations, the mediationanalysis (which formally estimates the contribution of GI AEs to
+weight loss) found that GI AEs appeared to contribute little to the
+weight-loss benefit of semaglutide: of the additional 7.6%-14.4%weight loss provided by semaglutide 2.4 mg over placebo in STEP 1-3,
+<1 percentage point was estimated to be mediated by GI AEs (for GI
+disorders overall and specifically for the occurrence of nausea, diar-rhoea and/or vomiting). Thus, the mediation analysis found thatweight loss with semaglutide 2.4 mg was mostly attributable to treat-
+ment effects unrelated to GI AEs. These results are consistent with
+previous analyses of the weight-loss effects of GLP-1RAs in peoplewith obesity and/or T2D, which typically showed a small contribution
+of GI AEs to GLP-1RA-induced weight loss.
+13,17,18,23,24The ability of102 WHARTON ET AL.
+semaglutide to lower body weight appears to relate to increased sati-
+ety, appetite regulation, improved hedonic and homeostatic control ofeating and reduced energy intake, mediated by direct and indirect
+central nervous system effects, particularly on the hypothalamus and
+hindbrain.
+25-27
+The GI AE profile of semaglutide 2.4 mg in the STEP trials is
+consistent with previous observations with lower semaglutide doses
+and the established AE profile of GLP-1RAs.14,28,29Direct comparison
+of GI AE incidence with semaglutide 1.0 and 2.4 mg in adults with
+T2D and overweight or obesity in STEP 2 found only a slightly higher
+incidence of GI AEs with semaglutide 2.4 mg (63.5% of participants)versus 1.0 mg (57.5%), despite the more than doubling of dose, andfew patients discontinued treatment because of GI AEs in either
+group (4.2% of participants vs. 3.5%, respectively).
+9These findings are
+consistent with the established dose dependence of GI AEs with theGLP-1RA class and semaglutide specifically.
+12,14,30-32As higher inci-
+dences of GI AEs tend to be experienced with higher doses of
+GLP-1RAs, gradual dose escalation and dose adjustment may helpmitigate the impact of GI AEs in clinical practice.
+29,30
+Almost all approved obesity pharmacotherapies are commonly
+associated with GI AEs, including orlistat (e.g. faecal urgency),phentermine-topiramate (e.g. constipation) and naltrexone-bupropion
+(e.g. nausea and constipation).
+1,3Use of liraglutide 3.0 mg, another
+GLP-1RA, approved for treatment of overweight or obesity, can alsoresult in mild-or-moderate GI AEs of a nature similar to those reportedin the STEP trials, primarily during initial dose escalation.
+33-37
+The mechanism of action through which GI AEs arise with
+GLP-1RAs remains uncertain. Delayed gastric emptying may be a poten-tial contributor, particularly with short-acting GLP-1RAs; longer-acting
+agents do not appear to be associated with notable delays in gastric emp-
+tying.
+14,26,30A 12-week study of semaglutide 1.0 mg in adults with obe-
+sity using the paracetamol absorption test identified a delay in first-hour
+gastric emptying after a meal versu s placebo; however, a 20-week study
+of semaglutide 2.4 mg did not identify such a delay in paracetamol-assessed gastric emptying.
+26,38Changes in the rate of lower GI transit
+may be responsible for constipation and/or diarrhoea, although evidence
+is lacking. The mechanism for GLP-1RA-induced nausea may primarily
+relate to central effects; studies in animal models suggest that nausearesponses associated with peripher al GLP-1RA administration involve
+activation of GLP-1 receptors in the central nervous system.
+39,40
+In clinical practice, GI AEs (most commonly nausea) are known to
+be a common reason for discontinuation of GLP-1RA treatment.41
+People with overweight or obesity must balance the typically short-term impact of potential GI AEs against the significant health benefitsoffered by long-term GLP-1RA treatment. While physicians must
+establish a differential diagnosis to exclude other potential causes of
+GI symptoms (particularly if symptoms are prolonged/severe),adopting strategies to mitigate the impact of GI AEs and aid resolutionis important to optimize persistence with GLP-1RA treatment. A range
+of complementary approaches has been proposed, including: patient
+education and counselling on topics such as meal size and stoppingeating when feeling full
+29,42; gradual dose escalation7,43-46; and dose
+adjustment with re-escalation upon AE resolution.15This study has some limitations. First, the pooled analysis and medi-
+ation analyses were post hoc and should, therefore, be considered asexploratory analyses. Second, the time course of GI AEs was not fully
+accounted for in the analyses of contribution to weight loss. In addition,
+the descriptive analyses of the impact of GI AEs on body weightchanges were only conducted in those who remained on treatment at
+week 68, and thus those who discontinued treatment before this time
+were excluded. Furthermore, the mediation analysis should be inter-preted with caution, as it assumes no confounding factors beyond those
+included in the model (baseline body weight and stratification factors),
+which may not be the case, given that post-randomization events(GI AEs) are used in the analysis. For the STEP 4 analyses, while the ran-domization to continued semaglutide or placebo was double-blinded,
+participants were aware of this randomized withdrawal trial design,
+which could influence AE reporting. Finally, it should be noted that theSTEP trials represent a controlled clinical trial environment with regular
+follow-up, which may differ from routine clinical practice.
+In conclusion, while GI AEs were common with semaglutide 2.4 mg
+across the STEP 1-4 trials, effects were typically mild-to-moderate, non-
+serious and transient, with few events leading to treatment discontinua-
+tion. The substantial weight-lowering effects of semaglutide 2.4 mgappeared to be largely independent of GI AEs, both for any type of GI
+AE and for nausea, diarrhoea and/or vomiting specifically.
+ACKNOWLEDGMENTS
+The authors thank the participants, investigators and site staff
+involved in the STEP 1-4 trials. In addition, the authors thank Meir
+Schechter, MD, PhD (Diabetes Unit, Department of Endocrinologyand Metabolism, Hadassah Medical Center; Faculty of Medicine,
+Hebrew University of Jerusalem, Israel), Maria Oxenbøll, MSc
+(an employee of Novo Nordisk A/S) and Hanna Kristina Hedman, PhD(previously an employee of Novo Nordisk A/S) for review of and input
+to the manuscript, and Nicola Beadle of Axis, a division of Spirit Medi-
+cal Communications Group Ltd., and Melanie Jones, a contract writerworking on behalf of Axis, for medical writing and editorial assistance(funded by Novo Nordisk A/S, Denmark). The STEP 1-4 trials were
+funded by Novo Nordisk A/S.
+CONFLICT OF INTEREST
+SW reports research funding, advisory/consulting fees and/or other
+support from AstraZeneca, Bausch Health Inc., Boehringer Ingelheim,CIHR, Janssen, Lilly and Novo Nordisk. SC is an employee of and
+shareholder at Novo Nordisk A/S. MD is a consultant, advisory board
+member and speaker for AstraZeneca, Boehringer Ingelheim, Janssen,Lilly, Merck Sharp & Dohme, Novo Nordisk and Sanofi-Aventis; advi-
+sory board member for Gilead Sciences Ltd. and Servier; speaker for
+Mitsubishi Tanabe Pharma Corporation, NAPP and Takeda Pharma-ceuticals International Inc.; received research funding fromAstraZeneca, Boehringer Ingelheim, Janssen, Lilly, Novo Nordisk and
+Sanofi-Aventis. MD is also co-funded by the NIHR Leicester Biomedi-
+cal Research Centre. DD is a consultant, advisory board member andspeaker for AstraZeneca, Boehringer Ingelheim, Eli Lilly, Merck
+Sharp & Dohme, Novo Nordisk and Sanofi-Aventis; received researchWHARTON ET AL. 103
+funding from AstraZeneca, Boehringer Ingelheim, Eli Lilly, Novo
+Nordisk and Sanofi-Aventis. BG is an employee of and shareholder atNovo Nordisk A/S. IL reports research funding, advisory/consulting
+fees and/or other support from AstraZeneca, Bayer, Boehringer
+Ingelheim, Eli Lilly, GI Dynamics, Intarcia, Intercept, Janssen,Mannkind, Merck, Mylan, Novartis, Novo Nordisk, Pfizer, Sanofi,
+TARGETPharma, Valeritas and Zealand Pharma. OM is an advisory
+board member for AstraZeneca, Boehringer Ingelheim, BOL Pharma,Eli Lilly, Merck Sharp & Dohme, Novo Nordisk and Sanofi; received
+research grant support through Hadassah Hebrew University Hospital
+from AstraZeneca and Novo Nordisk; speaker's bureau forAstraZeneca, Boehringer Ingelheim, Eli Lilly, Janssen, Merck Sharp &Dohme, Novo Nordisk and Sanofi. DMR is a consultant, advisory
+board member, speaker and clinical investigator for Novo Nordisk;
+clinical investigator for AstraZeneca and Boehringer Ingelheim;received honoraria from Medscape; received research funding from
+Obesinov and SARL; holds stock/shares in Novo Nordisk. MT is an
+employee of and shareholder at Novo Nordisk A/S. TAW serves onadvisory boards for Novo Nordisk and WW (formerly Weight
+Watchers) and has received grant support, on behalf of the University
+of Pennsylvania, from Novo Nordisk. SDP has received consultingfees and/or speaking honoraria from Abbott, AstraZeneca, Bausch,
+Bayer, Boehringer Ingelheim, Dexcom, Eli Lilly, HLS, Janssen, Merck,
+Novo Nordisk and Sanofi; was involved in research studies for Abbott,AstraZeneca, Bausch, Boehringer Ingelheim, Eli Lilly, Janssen, Merck,Novo Nordisk and Sanofi.
+AUTHOR CONTRIBUTIONS
+All authors were responsible for the acquisition, analysis or interpreta-
+tion of data and critical revision of the manuscript for important intel-
+lectual content. SW, DD and SDP drafted the manuscript. SW, SC,BG, IL, MT and SDP supervised the study. SC, DD, BG, IL and MT
+were involved in the concept and design. BG and MT performed the
+statistical analysis. SC, BG and MT were responsible for administra-tive, technical or material support.
+PEER REVIEW
+The peer review history for this article is available at https://publons.com/publon/10.1111/dom.14551.
+DATA AVAILABILITY STATEMENT
+Data will be shared with bona fide researchers submitting a research
+proposal approved by the independent review board. Access request
+proposals can be found at novonordisk-trials.com. Data will be madeavailable after research completion, and approval of the product and
+product use in the European Union and the USA. Individual participant
+data will be shared in data sets in a de-identified/anonymized format.
+ORCID
+Sean Wharton
+https://orcid.org/0000-0003-0111-1530
+Melanie Davies https://orcid.org/0000-0002-9987-9371
+Ildiko Lingvay https://orcid.org/0000-0001-7006-7401
+Ofri Mosenzon https://orcid.org/0000-0002-5702-7584REFERENCES
+1. Bessesen DH, Van Gaal LF. Progress and challenges in anti-obesity
+pharmacotherapy. Lancet Diabetes Endocrinol . 2018;6(3):237-248.
+https://doi.org/10.1016/S2213-8587(17)30236-X
+2. Frühbeck G, Busetto L, Dicker D, et al. The ABCD of obesity: an
+EASO position statement on a diagnostic term with clinical and scien-tific implications. Obes Facts . 2019;12(2):131-136. https://doi.org/10.
+1159/000497124
+3. American Diabetes Association. 8. Obesity management for the treat-
+ment of type 2 diabetes: Standards of Medical Care in Diabetes-2020. Diabetes Care . 2020;43(suppl 1):S89-S97 [Addendum in: Diabe-
+tes Care . 2020;43(8):1980]. https://doi.org/10.2337/dc20-S008
+4. Garvey WT, Mechanick JI, Brett EM, et al. American Association of
+Clinical Endocrinologists and American College of Endocrinology
+comprehensive clinical practice guidelines for medical care of patientswith obesity. Endocr Pract . 2016;22(suppl 3):1-203. https://doi.org/
+10.4158/EP161365.GL
+5. Wharton S, Lau DCW, Vallis M, et al. Obesity in adults: a clinical prac-
+tice guideline. CMAJ . 2020;192(31):E875-E891. https://doi.org/10.
+1503/cmaj.191707
+6. Yumuk V, Tsigos C, Fried M, et al. European guidelines for obesity
+management in adults. Obes Facts . 2015;8(6):402-424 [Erratum in:
+Obes Facts . 2016;9(1):64]. https://doi.org/10.1159/000442721
+7. U.S. Food & Drug Administration WEGOVY
+®(semaglutide) prescribing
+information. June 2021. https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/215256s000lbl.pdf. Accessed June 10, 2021.
+8. Wilding JPH, Batterham RL, Calanna S, et al. Once-weekly
+semaglutide in adults with overweight or obesity. N Engl J Med . 2021;
+384:989-1002. https://doi.org/10.1056/NEJMoa2032183
+9. Davies M, Færch L, Jeppesen OK, et al. Semaglutide 2.4 mg once a
+week in adults with overweight or obesity, and type 2 diabetes (STEP2): a randomised, double-blind, double-dummy, placebo-controlled,
+phase 3 trial. Lancet . 2021;397(10278):971-984. https://doi.org/10.
+1016/S0140-6736(21)00213-0
+10. Wadden TA, Bailey TS, Billings LK, et al. Effect of subcutaneous
+semaglutide vs placebo as an adjunct to intensive behavioral therapyon body weight in adults with overweight or obesity: the STEP 3 ran-
+domized clinical trial. JAMA . 2021;325(14):1403-1413. https://doi.
+org/10.1001/jama.2021.1831
+11. Rubino D, Abrahamsson N, Davies M, et al. Effect of continued
+weekly subcutaneous semaglutide vs placebo on weight loss mainte-
+nance in adults with overweight or obesity: the STEP 4 randomized
+clinical trial. JAMA . 2021;325(14):1414-1425. https://doi.org/10.
+1001/jama.2021.3224
+12. Bettge K, Kahle M, Abd El Aziz MS, Meier JJ, Nauck MA. Occurrence
+of nausea, vomiting and diarrhoea reported as adverse events in clini-
+cal trials studying glucagon-like peptide-1 receptor agonists: a sys-
+tematic analysis of published clinical trials. Diabetes Obes Metab .
+2017;19(3):336-347. https://doi.org/10.1111/dom.12824
+13. Horowitz M, Aroda VR, Han J, Hardy E, Rayner CK. Upper and/or
+lower gastrointestinal adverse events with glucagon-like peptide-1
+receptor agonists: incidence and consequences. Diabetes Obes Metab .
+2017;19(5):672-681. https://doi.org/10.1111/dom.12872
+14. Nauck MA, Meier JJ. Management of endocrine disease: are all GLP-1
+agonists equal in the treatment of type 2 diabetes? Eur J Endocrinol .
+2019;181(6):R211-R234. https://doi.org/10.1530/EJE-19-0566
+1 5 . K u s h n e rR F ,C a l a n n aS ,D a v i e sM ,e ta l .S e m a g l u t i d e2 . 4m gf o rt h et r e a t -
+ment of obesity: key elements of the STEP trials 1 to 5. Obesity (Silver
+Spring) . 2020;28(6):1050-1061. http s://doi.org/10.1002/oby.22794
+16. Chuang-Stein C, Beltangady M. Reporting cumulative proportion of
+subjects with an adverse event based on data from multiple studies.
+Pharm Stat . 2011;10(1):3-7. https://doi.org/10.1002/pst.397
+17. Ahrén B, Atkin SL, Charpentier G, et al. Semaglutide induces weight
+loss in subjects with type 2 diabetes regardless of baseline BMI orgastrointestinal adverse events in the SUSTAIN 1 to 5 trials. Diabetes104 WHARTON ET AL.
+Obes Metab . 2018;20(9):2210-2219. https://doi.org/10.1111/dom.
+13353
+18. Lingvay I, Hansen T, Macura S, et al. Superior weight loss with once-
+weekly semaglutide versus other glucagon-like peptide-1 receptor
+agonists is independent of gastrointestinal adverse events. BMJ Open
+Diabetes Res Care . 2020;8(2):e001706. https://doi.org/10.1136/
+bmjdrc-2020-001706
+19. Vansteelandt S, Bekaert M, Lange T. Imputation strategies for the
+estimation of natural direct and indirect effects. Epidemiol Methods .
+2012;1(1):131-158. https://doi.org/10.1515/2161-962X.1014
+20. Wharton S, Astrup A, Endahl L, et al. Estimating and reporting treatment
+effects in clinical trials for weight management: using estimands to inter-pret effects of intercurrent events and missing data. Int J Obes (Lond) .
+2021;45(5):923-933. https://doi.org/10.1038/s41366-020-00733-x
+21. Camilleri M, Malhi H, Acosta A. Gastrointestinal complications of
+obesity. Gastroenterology . 2017;152(7):1656-1670. https://doi.org/
+10.1053/j.gastro.2016.12.052
+22. Marathe CS, Rayner CK, Jones KL, Horowitz M. Effects of GLP-1 and
+incretin-based therapies on gastrointestinal motor function. Exp Diabe-
+tes Res . 2011;2011:279530. https://doi.org/10.1155/2011/279530
+23. Lean ME, Carraro R, Finer N, et al. Tolerability of nausea and vomiting
+and associations with weight loss in a randomized trial of liraglutide inobese, non-diabetic adults. Int J Obes (Lond) . 2014;38(5):689-697.
+https://doi.org/10.1038/ijo.2013.149
+24. Trautmann ME, Han J, Ruggles J. Early pharmacodynamic effects of
+exenatide once weekly in type 2 diabetes are independent of weightloss: a pooled analysis of patient-level data. Clin Ther . 2016;38(6):
+1464-1473. https://doi.org/10.1016/j.clinthera.2016.03.039
+25. Blundell J, Finlayson G, Axelsen M, et al. Effects of once-weekly
+semaglutide on appetite, energy intake, control of eating, food prefer-ence and body weight in subjects with obesity. Diabetes Obes Metab .
+2017;19(9):1242-1251. https://doi.org/10.1111/dom.12932
+26. Friedrichsen M, Breitschaft A, Tadayon S, Wizert A, Skovgaard D. The
+effect of semaglutide 2.4 mg once weekly on energy intake, appetiteand gastric emptying in subjects with obesity. Diabetes Obes Metab .
+2021;23(3):754-762. https://doi.org/10.1111/dom.14280
+27. Gabery S, Salinas CG, Paulsen SJ, et al. Semaglutide lowers body
+weight in rodents via distributed neural pathways. JCI Insight . 2020;
+5(6):e133429. https://doi.org/10.1172/jci.insight.133429
+28. Aroda VR, Ahmann A, Cariou B, et al. Comparative efficacy, safety,
+and cardiovascular outcomes with once-weekly subcutaneoussemaglutide in the treatment of type 2 diabetes: insights from the
+SUSTAIN 1-7 trials. Diabetes Metab . 2019;45(5):409-418. https://doi.
+org/10.1016/j.diabet.2018.12.001
+29. Hinnen D. Glucagon-like peptide 1 receptor agonists for type 2 diabetes.
+Diabetes Spectr . 2017;30(3):202-210. https:// doi.org/10.2337/ds16-0026
+30. Knudsen LB, Lau J. The discovery and development of liraglutide and
+semaglutide. Front Endocrinol (Lausanne) . 2019;10:155. https://doi.
+org/10.3389/fendo.2019.00155
+31. O'Neil PM, Birkenfeld AL, McGowan B, et al. Efficacy and safety of
+semaglutide compared with liraglutide and placebo for weight loss in
+patients with obesity: a randomised, double-blind, placebo and active
+controlled, dose-ranging, phase 2 trial. Lancet . 2018;392(10148):637-
+649. https://doi.org/10.1016/S0140-6736(18)31773-2
+32. Wilding JP, Overgaard RV, Jacobsen LV, Jensen CB, le Roux CW. Expo-
+sure-response analyses of liraglutide 3.0 mg for weight management. Dia-
+b e t e sO b e sM e t a b . 2016;18(5):491-499. http s://doi.org/10.1111/dom.
+12639
+33. Davies MJ, Bergenstal R, Bode B, et al. Efficacy of liraglutide for
+weight loss among patients with type 2 diabetes: the SCALE diabetesrandomized clinical trial. JAMA . 2015;314(7):687-699. https://doi.
+org/10.1001/jama.2015.9676
+34. Garvey WT, Birkenfeld AL, Dicker D, et al. Efficacy and safety of
+liraglutide 3.0 mg in individuals with overweight or obesity and type2 diabetes treated with basal insulin: the SCALE insulin randomizedcontrolled trial. Diabetes Care . 2020;43(5):1085-1093. https://doi.
+org/10.2337/dc19-1745
+35. Mehta A, Marso SP, Neeland IJ. Liraglutide for weight management: a
+critical review of the evidence. Obes Sci Pract . 2017;3(1):3-14.
+https://doi.org/10.1002/osp4.84
+36. Pi-Sunyer X, Astrup A, Fujioka K, et al. A randomized, controlled trial
+of 3.0 mg of liraglutide in weight management. N Engl J Med . 2015;
+373(1):11-22. https://doi.org/10.1056/NEJMoa1411892
+37. Wadden TA, Tronieri JS, Sugimoto D, et al. Liraglutide 3.0 mg and
+intensive behavioral therapy (IBT) for obesity in primary care: theSCALE IBT randomized controlled trial. Obesity (Silver Spring) . 2020;
+28(3):529-536. https://doi.org/10.1002/oby.22726
+38. Hjerpsted JB, Flint A, Brooks A, Axelsen MB, Kvist T, Blundell J.
+Semaglutide improves postprandial glucose and lipid metabolism, and
+delays first-hour gastric emptying in subjects with obesity. Diabetes
+Obes Metab . 2018;20(3):610-619. https://doi.org/10.1111/dom.13120
+39. Kanoski SE, Rupprecht LE, Fortin SM, De Jonghe BC, Hayes MR. The
+role of nausea in food intake and body weight suppression by peripheral
+GLP-1 receptor agonists, exendin-4 and liraglutide. Neuropharmacology .
+2012;62(5 –6):1916-1927. https://doi.org /10.1016/j.neuropharm.2011.
+12.022
+40. Kanoski SE, Hayes MR, Skibicka KP . GLP-1 and weight loss: unraveling
+the diverse neural circuitry. Am J Physiol Regul Integr Comp Physiol . 2016;
+310(10):R885-R895. https://doi. org/10.1152/ajpregu.00520.2015
+41. Sikirica MV, Martin AA, Wood R, Leith A, Piercy J, Higgins V. Reasons
+for discontinuation of GLP1 receptor agonists: data from a real-worldcross-sectional survey of physicians and their patients with type 2 dia-
+betes. Diabetes Metab Syndr Obes . 2017;10:403-412. https://doi.org/
+10.2147/DMSO.S141235
+42. Fitch A, Ingersoll AB. Patient initiation and maintenance of GLP-1
+RAs for treatment of obesity: narrative review and practical consider-ations for primary care providers. Postgrad Med . 2021;133(3):310-
+319. https://doi.org/10.1080/00325481.2020.1845534
+43. Fineman MS, Shen LZ, Taylor K, Kim DD, Baron AD. Effectiveness of
+progressive dose-escalation of exenatide (exendin-4) in reducing dose-limiting side effects in subjects with type 2 diabetes. Diabetes Metab
+Res Rev . 2004;20(5):411-417. https://doi.org/10.1002/dmrr.499
+44. Frias JP, Nauck MA, Van J, et al. Efficacy and tolerability of
+tirzepatide, a dual glucose-dependent insulinotropic peptide andglucagon-like peptide-1 receptor agonist in patients with type 2 diabe-tes: a 12-week, randomized, double-blind, placebo-controlled studyto evaluate different dose-escalation regimens. Diabetes Obes Metab .
+2020;22(6):938-946. https://doi.org/10.1111/dom.13979
+45. Papathanasiou T, Strathe A, Agersø H, Lund TM, Overgaard RV. Impact
+of dose-escalation schemes and drug discontinuation on weight loss out-comes with liraglutide 3.0 mg: a model-based approach. Diabetes Obes
+Metab . 2020;22(6):969-977. https://doi.org/10.1111/dom.13985
+46. U.S. Food & Drug Administration SAXENDA
+®(liraglutide) prescribing
+information. March 2020. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/206321s011lbl.pdf. Accessed June 10, 2021
+SUPPORTING INFORMATION
+Additional supporting information may be found in the online versionof the article at the publisher's website.
+How to cite this article: Wharton S, Calanna S, Davies M,
+et al. Gastrointestinal tolerability of once-weekly semaglutide
+2.4 mg in adults with overweight or obesity, and the
+relationship between gastrointestinal adverse events andweight loss. Diabetes Obes Metab . 2022;24(1):94-105. doi:
+10.1111/dom.14551WHARTON ET AL. 105

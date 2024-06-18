@@ -1,0 +1,668 @@
+662     Obesity | VOLUME 29 | NUMBER 4 | APRIL 2021 www.obesityjournal.org
+ObesitySelection of Antiobesity Medications Based on 
+Phenotypes Enhances Weight Loss: A Pragmatic Trial  in an Obesity Clinic
+Andres Acosta1, Michael Camilleri1, Barham Abu Dayyeh1, Gerardo Calderon1, Daniel Gonzalez1,  
+Alison McRae1, William Rossini1, Sneha Singh1, Duane Burton1, and Matthew M. Clark2
+Objective: Little is known about the predictors of response to obesity 
+interventions.
+Methods: In 450 participants with obesity, body composition, resting en-
+ergy expenditure, satiety, satiation, eating behavior, affect, and physical activity were measured by validated studies and questionnaires. These variables were used to classify obesity phenotypes. Subsequently, in a 12- month, pragmatic, real- world trial performed in a weight management 
+center, 312 patients were randomly assigned to phenotype- guided treat-
+ment or non- phenotype- guided treatment with antiobesity medications: 
+phentermine, phentermine/topiramate, bupropion/naltrexone, lorcaserin, and liraglutide. The primary outcome was weight loss at 12 months.Results: Four phenotypes of obesity were identified in 383 of 450 par -
+ticipants (85%): hungry brain (abnormal satiation), emotional hunger (he-donic eating), hungry gut (abnormal satiety), and slow burn (decreased metabolic rate). In 15% of participants, no phenotype was identified. Two or more phenotypes were identified in 27% of patients. In the prag-matic clinical trial, the phenotype- guided approach was associated with 
+1.75- fold greater weight loss after 12 months with mean weight loss of 
+15.9% compared with 9.0% in the non- phenotype- guided group (differ -
+ence −6.9% [95% CI −9.4% to −4.5%], P < 0.001), and the proportion of 
+patients who lost >10% at 12 months was 79% in the phenotype- guided 
+group compared with 34% with non- phenotype- guided treatment group.
+Conclusions: Biological and behavioral phenotypes elucidate human 
+obesity heterogeneity and can be targeted pharmacologically to enhance weight loss.
+Obesity (2021) 29, 662-671. 
+Introduction
+Obesity is a chronic, relapsing, multifactorial disease (1), the prevalence of which contin-
+ues to increase worldwide (2). The complexities of obesity result in redundant, adaptive mechanisms to preserve energy (1); consequently, obesity is a remarkably heterogeneous 
+disease, and sustained weight loss with current treatment paradigms remains a challenge in 
+clinical practice (3,4). The heterogeneity among patients with obesity is particularly appar -
+ent in the varied weight loss response to obesity interventions, such as diets, medications, devices, and surgery (1).
+© 2021 The Authors. Obesity published by Wiley Periodicals LLC on behalf of The Obesity Society (TOS). 1 Precision Medicine for Obesity Program, Division of Gastroenterology and Hepatology, Department of Medicine, Mayo Clinic, Rochester, Minnesota, USA. 
+Correspondence: Andres Acosta (acosta.andres@mayo.edu) 2 Department of Psychology and Psychiatry, Mayo Clinic, Rochester, Minnesota, USA.Original Article
+CLINICAL TRIALS AND INVESTIGATIONS
+Study Importance
+What is already known?
+►	Obesity is a chronic, relapsing, 
+ multifactorial disease, the prevalence of 
+which continues to increase worldwide. Obesity is a remarkably heterogeneous 
+disease, and sustained weight loss with 
+current treatment paradigms remains a challenge in clinical practice.
+►	The heterogeneity among patients with obe-sity is particularly apparent in weight loss 
+response to obesity interventions, such as 
+diets, medications, devices, and surgery.
+►	Little is currently known about the predic-tors of response to obesity interventions.
+What does this study add?
+►	We stratified obesity into four pheno-types: hungry brain (abnormal satia-tion), emotional hunger (hedonic eating), 
+hungry gut (abnormal satiety), and slow 
+burn (decreased metabolic rate).
+►	In a clinical cohort prescribed antiobes-ity medication, the phenotype- guided 
+approach was associated with 1.75- fold 
+greater weight loss after 1 year, and the proportion of patients who lost >10% at 1 year was 79% compared with 34% with non- phenotype- guided treatment.
+How might these results change the 
+direction of research or the focus of clinical practice?
+►	We have identified actionable pheno-
+types of obesity based on pathophysiol-ogy and behavior that elucidate human 
+obesity heterogeneity and can be tar -
+geted to enhance weight loss outcomes 
+of pharmacotherapy.
+This is an open access article under the terms of the Creat ive Commo ns Attri butio n- NonCo mmerc ial- NoDerivs License, which permits use and distribution in any medium, 
+provided the original work is properly cited, the use is non- commercial and no modifications or adaptations are made.
+Received: 26 August 2020; Accepted: 17 December 2020; Published online 24 March 2021. doi:10.1002/oby.23120
+
+Obesity
+www.obesityjournal.org  Obesity | VOLUME 29 | NUMBER 4 | APRIL 2021      663
+Original Article
+CLINICAL TRIALS AND INVESTIGATIONS
+Thus, antiobesity medications (AOMs) have a variable weight loss 
+response rate (1,5). In a network meta- analysis, the proportion of patients 
+who lost more than 10% with AOMs ranged from 20% to 54% compared 
+with placebo (9%), and weight loss at 1 year with AOMs ranged from 
+2.6 to 8.8 kg compared with placebo (5). Early response, defined as >5% 
+weight loss in the first 3 months, is the only current predictor of long- term 
+weight loss with AOMs (6,7). Thus, the current standard of care is for 
+providers to initially select AOMs based on physician/patient preference, 
+medication interactions, comorbidities, risk of potential adverse events, 
+or insurance coverage (1,8,9). Other than identifying responders by trial 
+and error (6,7), little is currently known about the predictors of response 
+to obesity interventions (3).
+Current obesity classifications based on BMI (10), abnormal waist 
+circumference, metabolically abnormal obesity (11), or the obesity staging system (12) identify cardiometabolic disease and mortality 
+risk. However, these severity- based classifications or staging systems 
+predominantly address cardiometabolic risk and do not address patho-
+physiological or etiological heterogeneity of obesity (13- 15). There is a 
+critical need to develop a valid classification of obesity based on patho-genesis and to ascertain its utility in obesity management to improve 
+outcomes (1,16). In fact, the National Institutes of Health (NIH) has 
+recognized the need to identify predictors of response to obesity treatment as a key approach to successfully manage this epidemic. The NIH’s initiative, titled “Accumulating Data to Optimally Predict Obesity Treatment Core Measures” (17), aims to collect data on behav-
+ioral, biological, environmental, and psychosocial variables to identify 
+predictors of response (17). To date, interrogations of large databases from biobanks or clinical trials have not identified predictors of signifi-cantly improved clinical outcomes to treatment (3).
+Obesity is a disease of energy balance dysregulation (1) (Figure 1A) 
+that results in excessive storage of calories in the form of fat (1). With 
+regard to energy intake, the key determinants of eating behavior are the homeostatic and hedonic drives to eat (18). Homeostatic eating behavior, mainly controlled by the brain- gut axis, involves hunger 
+(desire to eat), satiation (calories needed to reach fullness), and satiety (duration of fullness) (19). Hedonic eating behavior is the desire to 
+eat to cope with positive or negative emotions (20,21). With regard to energy expenditure, the key drivers are resting energy expenditure (REE), nonexercise physical activity, and the thermogenic effect of food and exercise (22). It is essential to elucidate differences among patients in some of these measurable components of food intake and energy expenditure and to assess their potential for individualizing therapy for obesity.
+We hypothesized that pathophysiological characterization elucidates 
+obesity subgroups and enhances response to obesity pharmacotherapy. Our aim was to characterize the obesity phenotypes and to assess the efficacy of phenotype- guided AOMs compared with non- phenotype- 
+guided pharmacotherapy. Our long- term goal is to develop a personal-
+ized approach to obesity management.
+Methods
+Study participants and phenotyping tests
+We studied two separate cohorts: (1) obesity phenotype characteriza-tion and classification (n = 450 participants) and (2) prospective, prag-
+matic trial of phenotype- guided AOMs (n = 84 cases and 228 controls). 
+The studies were approved by the Mayo Clinic Institutional Review Board, and all participants gave written informed consent.
+Obesity phenotyping tests
+Participants were recruited from the community by standard adver -
+tising, and all the tests were performed at the Mayo Clinic Clinical Research Trials Unit after an 8- hour fasting period. All methods used 
+are described in detail in the online Supporting Information.
+All participants completed the following validated tests:1. Homeostatic eating behavior (18) was divided into three stages: 
+hunger, satiation, and satiety.
+Figure 1  Pathophysiological classification of obesity. (A) Illustration of obesity pathophysiology based on energy balance and key components 
+that contribute to human obesity. (B) Distribution of participants based on pathophysiological phenotypes in 450 patients with obesity 
+(BMI > 30 kg/m2). NEAT, nonexercise activity thermogenesis.
+ 1930739x, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/oby.23120, Wiley Online Library on [12/12/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Obesity
+664     Obesity | VOLUME 29 | NUMBER 4 | APRIL 2021 www.obesityjournal.org
+Obesity Phenotypes Enhance Weight loss Acosta et al.a Hunger, defined as desire to eat (23), studied by visual analog 
+scale for hunger and desire to eat (100- mm scale) at baseline be-
+fore breakfast and lunch.
+b Satiation, defined as calories consumed to reach fullness and ter -
+minate meal (23), studied by ad libitum buffet meal (kilocalories consumed to reach maximal fullness) (24).
+c Satiety, defined as duration of fullness or return of hunger (23), 
+studied by visual analog scale for appetite (100- mm scale) at 
+baseline and postprandially every 15 minutes for 2 hours after 
+a standard 320- kcal meal (23,25) and by a quantifiable variable 
+gastric emptying of solids that could impact both magnitude of postprandial fullness and time to return of hunger (26- 28). 
+Gastric emptying is summarized by the half- emptying time, T
+1/2, 
+in minutes.
+2. Hedonic eating behavior (18) was assessed by the Hospital Anxiety 
+and Depression Score (HADS) (26) and Three Factor Eating 
+Questionnaire (TFEQ- 21) (29); there is significant correlation be-
+tween HADS and the emotional eating domain of the TFEQ- 21 
+(30). Emotional eating was assessed by additional validated behav-
+ioral questionnaires (24,29,31).
+3. Energy expenditure was studied by REE (indirect calorimetry) 
+(32), reported nonexercise physical activity, and reported exercise (33,34). Body composition was measured by dual- energy x- ray ab-
+sorptiometry (35).
+Obesity phenotype classification
+Obesity phenotype classification was based on a cutoff of the 25th or 75th percentile of each measurement (applied separately for females and males) recorded in the first 100 participants who completed phe-
+notype measurements (Table 1). The cutoffs were as follows: abnormal 
+ad libitum buffet meal: 75th percentile for females >894 kcal and males >1,376 kcal, defined as “hungry brain”; abnormal behavioral question-naire for anxiety: 75th percentile for both genders ≥7 points on HADS scale, defined as “emotional hunger”; accelerated gastric emptying of the radiolabeled solid 320- kcal, 30% fat meal: 25th percentile for fe-
+males <101 minutes and males <86 minutes, defined as “hungry gut”; and measured REE: 25th percentile for females <96% and males <94% 
+of predicted REE based on Harris- Benedict equation, defined as “slow 
+burn.” Visual analog scales for appetite were not considered in the clas-
+sification because of small interindividual variability when measuring satiation and the lack of correlation with calories consumed, a more objective measurement. These cutoffs were applied in order to classify 
+the phenotype(s) on the other 350 participants in the first study aim. See 
+Strengthening the Reporting of Observational studies in Epidemiology (STROBE) guidelines checklist in online Supporting Information.
+Phenotype- guided antiobesity pharmacotherapy
+Patients with obesity were recruited between June 1, 2017, and June 30, 2019, for a comprehensive, prospective, pragmatic trial (36) of phenotype- guided AOMs in a multidisciplinary weight loss clinic. 
+Patients were assigned appointments to physician groups that selected AOM treatments based on phenotype or to physicians who recom-mended AOMs based on their own and/or patient preferences or re-lated comorbidities; the latter approach was defined as standard of care 
+for AOM selection (1,8,9). Thus, this design constituted a pragmatic, 
+real- world study. The Consolidated Standards of Reporting Trials 
+(CONSORT) flow of participation and allocation of treatment appears in Supporting Information Figure S1. See the CONSORT- extension 
+guidelines checklist in Supporting Information (36).
+The multidisciplinary program in the Obesity Clinic involves a team 
+of providers, registered dietitians, and behavioral psychologists. The detailed description of the weight management program is provided in 
+online Supporting Information. Participants in the phenotype- guided 
+group had their phenotype measured by clinically available tests (sati-
+ation test [nutrient drink test]; satiety test [gastric emptying by scin-tigraphy]; emotional hunger [validated questionnaires]; and energy 
+TABLE 1  Summary of key energy balance variables studied, intermediary end point, and results based on first 100 patients who 
+completed all the phenotyping tests
+Obesity category Phenotype TestResults
+All cohort Females Males
+Food intake– homeostatic Satiation (hungry brain) Ad libitum buffet meal, 
+kcal803 (660- 1,054) 762 (631- 894) 1,104 (802- 1,376)
+VAS– Satisfaction 30 min 
+postprandial, 0- 100 mm97 (93- 100) 98 (94- 100) 95 (90- 100)
+Satiety (hungry gut) VAS– Fullness 120 min 
+postprandial, 0- 100 mm64 (44- 82) 63 (42- 83) 66 (49- 80)
+Gastric emptying T 1/2, min 118 (99- 139) 123 (101- 142) 99 (86- 113)
+Food intake– hedonic eating Emotional eating TEFQ– Emotional Restraint 
+(4- 16 scale)7 (4- 13) 7 (4- 13) 7 (4- 12)
+HADS- A (0- 21 scale) 4 (2- 7) 4 (2- 7) 4 (2- 7)
+Energy expenditure Basal metabolic rate Predicted REE (HB) % 101 (95- 108) 102 (96- 110) 97 (94- 103)
+Nonexercise physical 
+activitySelf- reported steps, # 3,375 (3,000- 9,000) 3,000 (3,000- 8,500) 5,350 (3,000- 10,000)
+Exercise Self- reported exercise 
+(PASC), 0- 8 scale6 (5- 7) 5 (5- 7) 6 (5- 8)
+The demographics of this cohort were median (IQR): age 38 (30- 44) years, BMI 36 (33- 42) kg/m2, and 73% females. Data shown in median (IQR).
+HADS- A, Hospital Anxiety and Depression Score- Anxiety; HB, Harris- Benedict equation; IQR, interquartile range; PASC, Physical activity stage of change assessment tool; REE, 
+resting energy expenditure; TEFQ, Three Factor Eating Questionnaire; VAS, visual analog scale.
+ 1930739x, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/oby.23120, Wiley Online Library on [12/12/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Obesity
+www.obesityjournal.org  Obesity | VOLUME 29 | NUMBER 4 | APRIL 2021      665
+Original Article
+CLINICAL TRIALS AND INVESTIGATIONS
+expenditure [indirect calorimetry REE]). Participants in the nonpheno-
+typed group had no test prior to medication selection.
+Rationale for a priori phenotype- guided AOM approach.   
+Treatment decisions in the phenotype- guided group were determined by 
+an a priori management approach based on the medications’ predominant 
+mechanism of action (9) and supported by previously completed 
+randomized, placebo- control trials (26,37,38). Those prior trials showed 
+that a phenotype- tailored application may predict best responders for 
+the following medications: phentermine- topiramate extended release for 
+the hungry brain phenotype (26) and exenatide and liraglutide for the hungry gut phenotype (37,38). Lorcaserin was selected for the hungry brain phenotype as the predominant mechanism of action is to induce satiation by activating (5- HT)
+2C  receptors in the hypothalamus (9). 
+Naltrexone/bupropion sustained release was selected for the emotional hunger phenotype as bupropion is a dopamine/norepinephrine reuptake 
+inhibitor  and naltrexone is an  opioid receptor agonist; together they 
+modulate appetite, mood, and cravings (9). Phentermine was selected for the slow burn phenotype for its secondary effect on energy expenditure (9).
+Based on the obesity phenotype classification, AOMs were selected as 
+follows:
+1. abnormal satiation (“hungry brain”): phentermine- topiramate 
+extended release (Qsymia, Campbell, California) at a dose of 
+7.5/46 mg daily or lorcaserin (Belviq, Arena Pharmaceuticals, 
+San Diego, California) at 20 mg daily (patients were told to discontinue in February 2020 based on U.S. Food and Drug Administration [FDA] recall);
+2. abnormal hedonic eating (“emotional hunger”): oral naltrexone/bu-propion sustained release (Contrave, Nalpropion Pharmaceuticals, Morristown, New Jersey ) at a dose of 16/180 mg twice daily;
+3. abnormal satiety (“hungry gut”): liraglutide (Saxenda, Novo Nordisk, Plainsboro, New Jersey) 3 mg subcutaneous daily; or
+4. low predicted energy expenditure (“slow burn”): phentermine 15 mg daily plus increased resistance training.
+When patients had two or more phenotypes, the providers selected the 
+medication based on the predominant phenotype. Patients were excluded 
+if no phenotype was identified, when patients had contraindications, or if there was a lack of insurance coverage for the “assigned” medication.
+Design of clinical trial and eligibility criteria.  We report the 
+outcomes of 84 patients who received phenotype- guided treatment 
+compared with 228 patients who received standard of care weight loss 
+treatment with medications not based on phenotype characterization.
+Participants included in the analysis met these inclusion criteria: (1) 
+patients with BMI ≥ 27 kg/m2 with adiposity- related comorbidities 
+or patients with BMI ≥ 30 kg/m2 with or without adiposity- related 
+comorbidities; (2) patients prescribed FDA- approved AOMs; (3) fol-
+low- up of at least 3 months; and (4) two or more face- to- face visits 
+with one of the physicians at the Mayo Clinic Weight Management Program.
+We excluded all patients who (1) had prior major gastrointestinal sur -
+gery, (2) had prior endoscopic weight loss intervention, (3) did not 
+fill the medication prescription because of health insurance coverage denial and/or high drug cost, and (4) were taking FDA- approved AOMs 
+prior to the first visit to the Mayo Clinic Weight Management Program, because such a prior prescription may conceivably confound the weight loss outcomes. All the information was collected from physician’s doc-umentation, including outcomes and adverse events.
+End points and statistical analysis
+In the pragmatic trial, the primary end point was the percentage of total body weight loss (TBWL) during 1- year follow- up. Secondary end 
+points included the proportion of patients who had a reduction from 
+baseline body weight of ≥ 5%, ≥ 10%, ≥ 15%, and ≥ 20%. See online 
+Supporting Information materials and protocol for details.
+All continuous data are summarized as means and SEMs or group mean 
+differences with 95% confidence intervals unless otherwise stated. 
+Categorical data are presented as frequencies and percentages. We used unpaired two- tailed t test for between- group comparisons for baseline 
+nominal and ordinal variables and χ² for categorical variables. Additional 
+details of sample size, primary and secondary end points, and detailed 
+statistical analysis are provided in the Methods section of the online 
+Supporting Information. P  < 0.05 was considered statistically significant.
+Results
+Obesity phenotypes classification
+We studied a total of 450 participants with obesity (defined as BMI > 30 kg/m
+2) with the following demographics (mean [SEM]): age 
+39 (0.5) years old, BMI 37 (0.3) kg/m2, 72% females, 93% White, 
+waist circumference 105 (0.1) cm, and fasting glucose 103 (1.4) mg/dL (Table 2). We classified obesity in four distinct phenotypes: hungry brain 
+(abnormal satiation), emotional hunger (hedonic eating), hungry gut 
+(abnormal satiety), slow burn (decreased metabolic rate), and no phe-notype. The phenotype distribution and overlap are shown in Figure 1B.
+The prevalence of each phenotype was hungry brain 32% (n = 143/450), 
+emotional hunger 21% (n = 96/450), hungry gut 32% (n = 144/450), slow 
+burn 21% (n = 82/400), and no identified phenotype 15% (n = 68/450). 
+Two or more phenotypes were documented in 27% of patients (mixed 
+group). The prevalence of participants with only one phenotype was 
+hungry brain 16%, emotional hunger 12%, hungry gut 18%, and slow 
+burn 12% (Figure 1B). Among these phenotype groups, there were statistical differences in gender (ANOV A P < 0.01) and race (ANOV A 
+P < 0.01), with the percentage of males being higher in the hungry gut 
+and slow burn phenotypes and the percentage of White race being lower in the hungry gut compared with the other groups. There was no sta-tistical difference in age, height, body weight, BMI, waist or hip cir -
+cumference, pulse, blood pressure, fasting glucose, and prevalence of comorbidities (Table 2).
+Based on the selected cutoffs in each phenotype, the differences in 
+each phenotype compared with participants without that specific phe-notype were as follows: the hungry brain group consumed 62% more 
+calories prior to reaching fullness; the emotional hunger group reported 
+2.8 times higher levels of anxiety; the hungry gut group emptied the stomach contents 31% faster; and the slow burn group had 12% lower predicted REE when compared with the other groups of obesity (Table 2 and Figures 2A- 2D).
+Individuals with the emotional hunger obesity phenotype had higher levels of symptoms of anxiety (P < 0.001), symptoms of depression 
+(P < 0.001), emotional restraint– TEFQ21 (30% higher, P = 0.04), and 
+emotional eating (Disinhibition on the Eating Inventory, P = 0.007) 
+ 1930739x, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/oby.23120, Wiley Online Library on [12/12/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Obesity
+666     Obesity | VOLUME 29 | NUMBER 4 | APRIL 2021 www.obesityjournal.org
+Obesity Phenotypes Enhance Weight loss Acosta et al.and lower levels of self- esteem (P = 0.002) and body image (P < 0.001) 
+compared with non- emotional- eating obesity phenotypes.
+In female participants with hungry gut obesity, the mean gastric emp-
+tying T 1/2 was accelerated by 30% for solids (P < 0.001) and by 22% 
+for liquids (P = 0.01) compared with non- hungry- gut obesity among 
+females. In male participants with hungry gut obesity, mean gastric emp-
+tying T 1/2 was accelerated by 38% for solids (P < 0.001) and 33% for 
+liquids (P = 0.05) compared with non- hungry- gut obesity among males.
+Participants with slow burn obesity had a lower muscle mass (non- slow 
+burn obesity phenotype 50.7% ± 0.6%, compared with slow burn obesity 
+phenotype 46.7% ± 0.7%, P < 0.001), reported to be less frequently active 
+(P = 0.048), less engaged in structured exercise (P = 0.05), and among those 
+who engaged in structured exercise, they performed exercise for fewer 
+minutes (P = 0.04) compared with participants with non- slow burn obesity.
+Pragmatic trial of phenotype- guided compared 
+with standard of care selection of AOMs
+Participant characteristics.  There were statistical differences in 
+the demographics and comorbidities among the groups. Patients in the phenotype- guided group were younger (mean difference 7.2 years 
+[95% CI −4 to −10.4], P < 0.001) and had lower systolic blood pressure (SBP) (mean difference 6.2 mmHg [95% CI −11 to −1.5], P = 0.01) 
+and lower fasting glucose (mean difference 21 mg/dL [95% CI −37 to −3.2], P = 0.02) compared with the nonphenotyped (standard of 
+care use of medications) group (Table 3). There were no statistically significant differences in gender, race, anthropometric measurements, 
+diastolic blood pressure (DBP), hemoglobin A1c (HbA1c), number 
+of comorbidities, average length of follow- up, or number of visits 
+with providers, psychologists, and registered dietitians between the phenotype- guided group compared with the non- phenotype- guided 
+group (Table 3). Importantly, there was no statistically significant 
+difference in the prevalence of type 2 diabetes (phenotype- guided group, 
+25% compared with the non- phenotype- guided group, 29%, P = 0.41). 
+In patients with a prior diagnosis of diabetes, the HbA1c was lower in 
+the phenotype- guided group compared with the non- phenotype- guided 
+group (mean difference 1.2% [95% CI −2 to −0.3], P = 0.02). There was 
+no difference in fasting glucose or number of diabetes medications used among the groups (Supporting Information Table S1).
+In the phenotype- guided group, the prevalence of participants’ pheno-
+types was hungry brain (40%), emotional hunger (30%), hungry gut 
+(18%), and slow burn (12%), and medications were selected for each 
+phenotype as described in the methods. In the nonphenotyped group, medications were selected based on AOM side effect profile (30%), glycemic control (21%), patient preference (16.5%), cravings (10%), TABLE 2  Participant characteristics including demographics, anthropometric measurements, and comorbidities in all the 
+cohorts and per obesity phenotype (showing the demographics in abnormal phenotype compared with normal phenotype)
+All cohortPhenotype
+Hungry brain Hungry gut Emotional hunger Slow burn None ANOVA P
+Demographics
+Prevalence, n (%) 450 (100%) 143/450 (32%) 144/450 (32%) 96/450 (21%) 82/400 (21%) 68/450 (15%)
+Age, y 39 ± 0.5 37 ± 0.9 39 ± 0.9 37 ± 1.2 39 ± 1.2 40 ± 1.3 0.19
+Gender (F), % 72 78 67 75 57 83 0.009#
+Race (White), % 93 96 89 96 95 100 0.01#
+Weight, kg 107 ± 1.0 108 ± 1.7 106 ± 1.7 111 ± 2.2 115 ± 3.2 106 ± 2.4 0.09
+Height, cm 169 ± 0.4 170 ± 0.8 169 ± 0.8 169 ± 0.9 171 ± 1.1 168 ± 1.0 0.16
+BMI, kg/m237 ± 0.3 37 ± 0.5 36 ± 0.5 39 ± 0.7 39 ± 0.8 38 ± 0.8 0.07
+Waist, cm 105 ± 0.1 106 ± 1.3 107 ± 1.1 108 ± 2.0 104 ± 2.3 105 ± 1.1 0.82
+Hip, cm 120 ± 0.1 121 ± 1.1 121 ± 1.0 122 ± 1.9 117 ± 1.4 120 ± 1.3 0.80
+Pulse, beats/min 74 ± 0.6 74 ± 1.0 73 ± 0.9 74 ± 1.3 75 ± 1.5 77 ± 2.0 0.25
+SBP , mmHg 131 ± 0.7 132 ± 1.3 133 ± 1.3 130 ± 1.4 131 ± 2.0 131 ± 2.1 0.15
+DBP , mmHg 82 ± 0.6 80 ± 0.9 81 ± 1.0 79 ± 1.1 81 ± 1.4 83 ± 1.4 0.45
+Fasting glucose, mg/dL 103 ± 1.4 101 ± 2.8 103 ± 1.5 98 ± 1.8 97 ± 2.2 102 ± 1.9 0.55
+Comorbidities^1.1 ± 0.1 1.1 ± 0.1 1.0 ± 0.2 1.3 ± 0.3 1.3 ± 0.1 0.9 ± 0.4 0.19
+Phenotyping tests
+Ad libitum buffet meal, kcal 929 ± 16 1,224 ± 25 996 ± 26 990 ± 34 918 ± 35 700 ± 21 < 0.001
+Gastric emptying T½, min 110 ± 1.4 107 ± 2.2 83 ± 1.4 111 ± 2.7 117 ± 3.3 133 ± 3.4 < 0.001
+HADS- Anxiety (0- 21 scale) 4 ± 0.1 4 ± 0.3 3.7 ± 0.2 8.1 ± 0.2 3.9 ± 0.1 2.4 ± 0.2 < 0.001
+Predicted REE (HB), % 100 ± 0.6 102 ± 1.4 100 ± 1.4 103 ± 1.1 89 ± 0.6 106 ± 0.8 < 0.001
+Bold numbering represents the phenotype matched with its respective phenotype test. Data shown as mean ± SEM.
+#Pearson test.
+^Obesity- related comorbidities: type 2 diabetes, gastroesophageal reflux disease, high blood pressure, hyperlipidemia, obstructive sleep apnea, degenerative joint disease, 
+asthma, other).
+HADS- A, Hospital Anxiety and Depression Score- Anxiety; REE, resting energy expenditure; HB, Harris- Benedict equation.
+ 1930739x, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/oby.23120, Wiley Online Library on [12/12/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Obesity
+www.obesityjournal.org  Obesity | VOLUME 29 | NUMBER 4 | APRIL 2021      667
+Original Article
+CLINICAL TRIALS AND INVESTIGATIONS
+insurance preference (10%), previous successful attempts with same 
+medication (6.5%), abnormal satiation (1%), and other/unknown reason (5%). Metformin was prescribed, as an adjunct weight loss medication, 
+in 10% of the phenotyped group and in 26.8% of the nonphenotyped 
+group (P = 0.015). There was a significant difference in the proportion 
+of AOMs used in each group (Table 3, P < 0.001). There was no statis-
+tical difference in the most common prescribed dose for naltrexone- 
+bupropion sustained release (16- 180 mg twice daily), lorcaserin (10 mg 
+daily), and phentermine- topiramate ER (7.5- 46 mg daily). The propor -
+tion of patients who received phentermine 37.5- mg prescription was 
+numerically different with 0% in the phenotyped group compared with 
+29% of the nonphenotyped group (P = 0.07). Liraglutide 1.8- mg dose 
+was less commonly used in the phenotyped group (43%) compared with the nonphenotyped group (79%, P = 0.02).Comparison of efficacy of two treatment strategies.  Mean 
+weight loss (SEM) at 6 months of treatment, with more than 93% retention in both groups, was −10.5% (0.8%) in the phenotype- guided 
+group and −6.3% (0.4%) in the non- phenotype- guided group (mean 
+difference −4.1% [95% CI −5.9% to −2.5%], P < 0.001). At 12 months, 
+mean weight loss was −15.9% (1.1%) in the phenotype- guided group 
+compared with −9.0%  (0.6%) in the non- phenotype- guided group 
+(mean difference −6.9% [95% CI −9.4% to −4.5%], P < 0.001) (Figure 
+3B, Table 3). Using the last observation carried forward, mean weight loss was −12.1% (0.9%) in the phenotype- guided group compared with 
+−7.8% (0.5%) in the non- phenotype- guided group (mean difference 
+−4.3% [95% CI −6.2% to −2.3%], P < 0.001]. Phenotype- guided 
+obesity pharmacotherapy resulted in 79%, 43%, and 30% of patients achieving clinically significant absolute weight loss of >10%, >15%, Figure 2  Obesity phenotype characteristics per gender. Obesity phenotypes are associated with pathophysiological characteristics; 
+(A) hungry brain, increased food intake until fullness during ad libitum buffet meal; (B) emotional hunger; increased HADS- anxiety 
+level; (C) hungry gut, rapid gastric emptying rate; (D) slow burn, lower than predicted REE. Red triangles = participants without 
+specified obesity phenotype, blue squares = participants with specified obesity phenotype. HADS, Hospital Anxiety and Depression 
+Score; REE, resting energy expenditure.
+ 1930739x, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/oby.23120, Wiley Online Library on [12/12/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Obesity
+668     Obesity | VOLUME 29 | NUMBER 4 | APRIL 2021 www.obesityjournal.org
+Obesity Phenotypes Enhance Weight loss Acosta et al.and >20%, respectively, at 1 year compared with 35%, 17%, and 8% 
+of patients in the nonphenotype approach (Figure 3A, P  < 0.001). The 
+failure rate (defined as less than 5% TBWL) was 2% in the phenotype-  
+guided group compared with 26% in the non- phenotype- guided group 
+(P < 0.001).
+Individual weight loss in the whole cohort and per medication is 
+reported in Supporting Information Figure S2. The weight loss for each 
+medication at 12 months in the phenotype- guided group compared 
+with the non- phenotype- guided group was statistically significant for 
+phentermine- topiramate extended release, lorcaserin, and liraglutide; 
+there was a positive trend for bupropion- naltrexone sustained release 
+(P = 0.07) (Supporting Information Figure S3). There was no statistical difference in early response rate (proportion of patients with >5% TBWL at 3 months) in the phenotyped group (56.1%) compared with the non-phenotyped group (51.8%). For the early responders, the weight loss at 12 
+months was −18.3% (1.6%) TBWL in the phenotype- guided group com-
+pared with 13.98% (1.1%) in the non- phenotype- guided group (P = 0.03).
+In patients with diabetes, the mean weight loss at 6 months of treat-ment was −9.7% (1.4%) in the phenotype- guided group and −5.3% 
+(0.7%) in the non- phenotype- guided group (mean difference −4.4% 
+[95% CI −7.7 to −1.1], P = 0.01) and at 12 months was −12% (1.7%) 
+in the phenotype- guided group compared with −6.3% (1%) in the non- 
+phenotype- guided group (mean difference −5.7% [95% CI −9.8 to 
+−1.5], P = 0.009) (Supporting Information Table S1).TABLE 3  Participant characteristics and outcomes of antiobesity pharmacotherapy in a phenotype- guided intervention vs. non- 
+phenotype- guided intervention (standard of care)
+Characteristic VariablePhenotype- guided 
+therapyNon- phenotype- guided 
+therapyDifference  
+(95% CI) P
+Patient demographics N 84 228
+Age, y 43 ± 1.4 50 ± 0.9 7.2 (−4 to −10.4) < 0.001
+Gender (F), % 74 73 0.26
+Race (White), % 94 98 0.10
+Weight (kg) 121 ± 2.6 118 ± 1.8 3.3 (−2.8 to 9.4) 0.28
+Height (cm) 169 ± 0.9 168 ± 0.6 0.9 (−1.3 to 3) 0.42
+BMI, kg/m242 ± 0.7 41 ± 0.5 0.69 (−1.1 to 2.5) 0.44
+Blood pressure (SBP), mmHg 124 ± 2.1 130 ± 1.1 6.2 (−11 to −1.5) 0.01
+Blood pressure (DBP), mmHg 79.4 ± 1.4 79 ± 0.8 0.6 (−2.7 to 3.9) 0.71
+Fasting glucose, mg/dL 106 ± 6 127 ± 7 21 (−37 to −3.2) 0.02
+Hemoglobin A1c, % 6.3 ± 0.3 7 ± 0.2 0.7 (−1.5 to 0.1) 0.10
+Comorbidities, n 2 ± 0.2 2.4 ± 0.1 0.37 (−0.8 to 0.02) 0.06
+Medication use Naltrexone- bupropion SR 24 (29%) 17 (8%) < 0.001
+Liraglutide 13 (16%) 48 (21%)
+Lorcaserin 10 (12%) 8 (4%)
+Phentermine 11 (13%) 39 (17%)
+Phentermine- topiramate ER 26 (30%) 116 (50%)
+Intervention Follow- up, mo 8.2 ± 0.5 8.1 ± 0.3 0.17 (−1 to 1.4) 0.78
+No. follow- up visits 3.3 ± 0.1 3.1 ± 0.1 0.2 (−0.3 to 0.4) 0.38
+Pts with >1 follow- up visit 
+with physician in 0-6 months78 (93%) 206 (93%) 0.97
+Pts with ≥1 follow- up visit 
+with physician in 6-12 months50 (59.4%) 122 (54%) 0.29
+Pts with >1 dietitian visit 24 (29%) 82 (37%) 0.37
+No. dietitian visits 0.78 ± 0.2 0.66 ± 0.1 0.12 (−0.2 to 0.5) 0.45
+Pts with >1 psychiatric visit 19 (23%) 74 (33%) 0.32
+No. behavioral psychiatric 
+visits0.56 ± 0.3 1.2 ± 0.2 −0.6 (−1.2 to 0.02) 0.06
+Intervention outcomes Weight loss at 3 months, % −5.4 ± 0.5 −5.1 ± 0.3 −0.3 (−1.4 to 0.8) 0.61
+Weight loss at 6 months, % −10.5 ± 0.8 −6.3 ± 0.4 −4.1 (−5.9 to −2.5) < 0.001
+Weight loss at 12 months, % −15.9 ± 1.1 −9 ± 0.6 −6.9 (−9.4 to −4.5) < 0.001
+Weight loss at LOCF , % −12.1 ± 0.9 −7.8 ± 0.5 −4.3 (−6.2 to −2.3) < 0.001
+Adverse events Documented adverse events 11 (14%) 46 (20%) 0.23
+Data shown as mean ± SEM. Bolding denotes statistical significance (P < 0.05).
+LOCF, last observation carried forward; ER, extended release; SR, sustained release
+ 1930739x, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/oby.23120, Wiley Online Library on [12/12/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Obesity
+www.obesityjournal.org  Obesity | VOLUME 29 | NUMBER 4 | APRIL 2021      669
+Original Article
+CLINICAL TRIALS AND INVESTIGATIONS
+When adjusted for age, gender, HbA1c, and SBP, the mean weight loss 
+difference at 12 months was −13.6% (2.2%) in the phenotype- guided 
+group compared with −6.6% (1.1%) in the nonphenotyped group (mean 
+difference −6.97 [95% CI −12.1 to −1.9], P = 0.009). Baseline pheno-
+type and HbA1c were the only significant covariates.
+Adverse events.  There were no significant differences in AOM-  
+induced adverse events among the groups. There was a numerically 
+lower incidence of adverse events to phentermine and liraglutide 
+in the phenotyped group (14%) compared with the nonphenotyped 
+group (30%).
+Discussion
+Our study of participants with obesity has shown clinically meaningful phenotype- based groups identified by validated biological and behav-
+ioral testing of the key components of energy balance. This phenotype- 
+based classification reduces the heterogeneity of obesity and facilitates 
+further understanding of the pathophysiology within each phenotype. Phenotype- guided obesity pharmacotherapy enhanced weight loss in a 
+precision medicine, pragmatic trial.
+Despite considerable attempts to address the obesity heterogeneity 
+and predictors for weight loss in the literature, there are no established predictors of response to obesity interventions (3,16). The phenotype-  
+based classification proposed addresses, at least in part, the underlying 
+pathophysiology of energy balance and considers gender as the initial 
+key variable in obesity phenotype stratification. We identify within four obesity- related phenotypes the associated pathophysiological perturba-
+tions that underpin, at least in part, the phenotype as summarized here: 
+(a)“hungry brain,” characterized by excessive calories consumed to ter -
+minate meal; (b) “emotional hunger,” characterized by negative mood, 
+emotional eating, cravings, and reward- seeking behaviors, despite having 
+normal homeostatic eating behavior (39); (c) “hungry gut,” characterized by reduced duration of fullness, quantified objectively by rapid gastric emptying; and (d) “slow burn,” characterized by reduced REE, reduced 
+reported physical activity and exercise, and with lower muscle mass.
+Fifteen percent of participants did not meet the criteria for any sin-
+gle phenotype, which suggests that more variables must be studied to fully understand the complexity of obesity in a minority of patients. 
+Furthermore, the fact that 27% of participants have two or more phe-
+notypes of obesity illustrates this complexity, which may indicate that some patients with obesity might need combination therapy to treat the underlying aberrant mechanisms (40).
+The utility of the phenotype- based classification of obesity is sup-
+ported by the observed responses to phenotype- guided weight loss 
+therapy. Currently, FDA- approved AOMs are usually prescribed 
+based on physician and patient preferences, related comorbidities, 
+insurance coverage, or potential risk profile (1,8,9). Here, we propose a new treatment approach whereby phenotypes guide AOM selection, based on and in accordance with the mechanism of action (9). This is 
+supported by prior experience from three prior single- center, random-
+ized, double- blinded, placebo- controlled clinical trials that identified 
+best responders according to the phenotypes of increased food intake 
+and accelerated gastric emptying (24,35,37). Thus, the proposed phenotype- guided approach consists of using the FDA- approved 
+AOMs based on potential mechanism of action in relation to the 
+phenotype(s): phentermine- topiramate extended release for hungry 
+brain, bupropion- naltrexone sustained release for emotional hunger, 
+liraglutide for hungry gut, and low- dose phentermine plus resis-
+tance training for the slow burn phenotype. In the current pragmatic 
+clinical trial, with this a priori– defined approach, we observed that 
+phenotype- guided pharmacotherapy more than doubled the responder 
+rate when adjusted for age, gender, SBP, and HbA1c and increased the total weight loss by an average 75% compared with standard care, which also used the AOMs without consideration of the phenotype.
+These outcomes require replication and validation in larger, more 
+racially and metabolically diverse cohorts, preferably in multicenter, Figure 3  PG pharmacotherapy for obesity management improves weight loss outcomes. (A) Percentage of patients achieving levels of weight 
+loss after 1 year of either non- PG (n = 228) or PG (n = 84) treatment. (B) The average percentage of total body weight loss from BSL in non- PG 
+(red circles) and PG (blue squares) treatment at 3, 6, and 12 months. **P < 0.01, ***P < 0.001. BSL, baseline; PG, phenotype guided.
+ 1930739x, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/oby.23120, Wiley Online Library on [12/12/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Obesity
+670     Obesity | VOLUME 29 | NUMBER 4 | APRIL 2021 www.obesityjournal.org
+Obesity Phenotypes Enhance Weight loss Acosta et al.randomized studies. However, the real- world, pragmatic trial design 
+may be perceived as a strength of the study, which may accelerate the 
+applicability of the research findings to patient management and AOM 
+selection. Additional studies are needed to identify best responders for participants with two or more phenotypes or those with no phenotype, 
+which may require a low- calorie diet challenge to trigger a metabolic 
+adaptation or weight- loss- induced phenotype. Additional, further stud-
+ies are needed to understand whether AOMs with multiple mechanisms 
+of action may have a positive outcome in other phenotypes, for exam-ple, using bupropion- naltrexone sustained release to induce satiation 
+(41) or liraglutide for food cravings (42). However, the benefits seen 
+with a phenotype- guided approach over standard of care warrant the 
+additional testing in the management of obesity. Such confirmation 
+would be a step toward a mechanistic and evidence- based, personalized 
+approach to obesity. Furthermore, this classification may also reduce the stigma associated with obesity (43), reduce or eliminate the trial and error (standard of care) selection for AOMs, potentially increase 
+provider confidence and patient engagement in the treatment journey, and facilitate patient– provider discussion and individualized choice of 
+treatment for obesity.
+We perceive that other etiologies of obesity may be considered in future 
+pathophysiological classifications, and therefore it is essential to further 
+interrogate the roles of genetics, epigenetics, microbiome, and expo-
+some in obesity phenotypes, and in outcomes to obesity treatments, including nonpharmacological approaches. Additionally, the outcome 
+with phenotype- guided pharmacotherapy has limitations that deserve 
+further studies in the future, including appraising a “testing” bias such that participants who underwent additional testing may be conditioned 
+to greater responsiveness based on clinical education and consent, lack of blinded randomization, and potential group- difference confounders 
+such as age and comorbidities. Despite these limitations, the weight loss 
+difference was almost doubled when adjusting for potential confound-
+ers. It is worth noting that there was persistent weight loss observed in 
+this pragmatic trial in both groups of patients and that there was con-
+tinued weight loss with AOM treatment administered for 12 months. 
+A prior real- world report of AOM efficacy has shown similar effects 
+of continued weight loss at 6 months (44), which differs from larger 
+randomized trials in which weight loss is typically seen in the first 3  months (1,5- 7). However, early response seems to also determine 
+overall weight loss over 12 months in the phenotype- guided approach 
+to AOM treatment, as previously described in randomized trials (6,7).
+In summary, we have identified actionable phenotypes of obesity based 
+on pathophysiology and behavior that elucidate human obesity hetero-
+geneity and that can be targeted to enhance weight loss outcomes of 
+pharmacotherapy. This phenotype- based classification reduces the het-
+erogeneity of obesity, and it may serve as a valuable tool to understand 
+the pathogenesis that leads to human obesity and to accelerate the trans-
+lation of discovery into phenotype- specific targeted trials. In the era of 
+individualized medicine, the proposed phenotype- guided stratification 
+and treatment approach, in addition to the positive outcomes reported in previous randomized trials (24,35,37), represents a step toward a mech-
+anistic, precision medicine approach to optimize obesity therapy.O
+Acknowledgements
+We thank participants in the studies, the nurses and staff of the Mayo 
+Clinic Clinical Research Trials Unit (supported by Mayo Clinic Center 
+for Clinical and Translational Science [CCaTS] grant UL1- TR000135), 
+and Michael Ryks and Deborah Rhoten for excellent technical support. Data collected for the study, including individual deidentified partic-
+ipant data, as well as the study protocol and informed consent, will be available to interested parties with publication, after signing of a 
+data access agreement. Data may be requested by contacting Dr. Andres 
+Acosta MD, PhD, at acosta.andres@mayo.edu
+Funding agencies: AA is supported by the NIH (NIH K23- DK114460, C- Sig 
+P30DK84567), American Neurogastro enterology and Motility Society (ANMS) Career 
+Development Award, Mayo Clinic Center for Individualized Medicine– Gerstner Career 
+Development Award, and Magnus Trust. MC receives funding related to obesity from 
+the NIH (NIH RO1- DK67071). The funding source had no involvement in the study 
+design, in collection, analysis, and interpretation of the data, in writing the report, or in the decision to submit the paper for publication. The corresponding author had full 
+access to all the data in the study and takes responsibility for the integrity of the data, 
+the accuracy of the data analysis, and the decision to submit for publication.
+Disclosure: Phenomix Sciences has obtained an exclusive license to AA and MC’s 
+biomarker technology, submitted patent, and know- how to develop a biomarker to 
+predict response to obesity pharmacotherapy. Additionally, AA is a stockholder in 
+Gila Therapeutics and Phenomix Sciences; he serves as a consultant for Rhythm Pharmaceuticals and General Mills. MC is a stockholder in Phenomix Sciences and Enterin and serves as a consultant to Takeda, Allergan, Kallyope, GlaxoSmithKline, Rhythm, and Arena with compensation to Mayo Clinic. MMC is a consultant for Roche Diabetes Care GmbH. BAD has served as a consultant for Boston Scientific, Metamodix, BFKW, DyaMx, and USGI Medical; has received research support for 
+Boston Scientific, Apollo Endosurgery, USGI, Spatz Medical, GI Dynamics, Caim 
+Diagnostics, Aspire Bariatrics, and Medtronic; and has been a speaker for Johnson & Johnson, Endogastric Solutions, and Olympus. The other authors declared no conflict of interest.
+Author contributions: AA, MC, BAD, and MMC: concept development, phenotyping, 
+study design, data interpretation, manuscript writing/editing. GC, AM, DG, SS, WR, and DB: data collection and analysis, manuscript writing/editing. The corresponding author had full access to all the data in the study and takes responsibility for the integrity of the data, the accuracy of the data analysis, and the decision to submit for publication.
+Clinical trial registration: ClinicalTrials.gov identifier NCT03374956.Supporting information: Additional Supporting Information may be found in the 
+ online version of this article.
+References
+ 1. Heymsfield SB, Wadden TA. Mechanisms, pathophysiology, and management of obe-
+sity. N Engl J Med 2017;376:254- 266.
+ 2. GBD 2015 Obesity Collaborators; Afshin A, Forouzanfar MH, Reitsma MB, et al. 
+Health effects of overweight and obesity in 195 countries over 25 years. N Engl J Med 
+2017;377:13- 27.
+ 3. Loos RJF, Janssens A. Predicting polygenic obesity using genetic information. Cell 
+Metab 2017;25:535- 543.
+ 4. MacLean PS, Blundell JE, Mennella JA, Batterham RL. Biological control of appetite: 
+a daunting complexity. Obesity (Silver Spring) 2017;25(suppl 1):S8- S16.
+ 5. Khera R, Murad MH, Chandar AK, et al. Association of pharmacological treatments 
+for obesity with weight loss and adverse events: a systematic review and meta- analysis. 
+JAMA 2016;315:2424- 2434.
+ 6. Fujioka K, O’Neil PM, Davies M, et al. Early weight loss with liraglutide 3.0 mg 
+predicts 1- year weight loss and is associated with improvements in clinical markers. 
+Obesity (Silver Spring) 2016;24:2278- 2288.
+ 7. Fujioka K, Plodkowski R, O’Neil PM, Gilder K, Walsh B, Greenway FL. The relation-
+ship between early weight loss and weight loss at 1 year with naltrexone ER/bupropion 
+ER combination therapy. Int J Obes(Lond) 2016;40:1369- 1375.
+ 8. Igel LI, Kumar RB, Saunders KH, Aronne LJ. Practical use of pharmacotherapy for 
+obesity. Gastroenterology 2017;152:1765- 1779.
+ 9. Acosta A, Streett S, Kroh MD, et al. White paper AGA: POWER -  practice guide on 
+obesity and weight management, education, and resources. Clin Gastroenterol Hepatol 
+2017;15:631- 649.E10.
+ 10. Nuttall FQ. Body mass index: obesity, BMI, and health: a critical review. Nutr Today 
+2015;50:117- 128.
+ 11. Phillips CM, Dillon C, Harrington JM, et al. Defining metabolically healthy obesity: 
+role of dietary and lifestyle factors. PLoS One 2013;8:e76188. doi:10.1371/journ al.pone.007618
+ 12. Sharma AM, Kushner RF. A proposed clinical staging system for obesity. Int J Obes 
+(Lond)  2009;33:289- 295.
+ 13. Hebebrand J, Holm JC, Woodward E, et al. A proposal of the European Association 
+for the Study of Obesity to improve the ICD- 11 diagnostic criteria for obesity based 
+on the three dimensions etiology, degree of adiposity and health risk. Obes Facts 
+2017;10:284- 307.
+ 1930739x, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/oby.23120, Wiley Online Library on [12/12/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Obesity
+www.obesityjournal.org  Obesity | VOLUME 29 | NUMBER 4 | APRIL 2021      671
+Original Article
+CLINICAL TRIALS AND INVESTIGATIONS
+ 14. Mechanick JI, Hurley DL, Garvey WT. Adiposity- based chronic disease as a new di-
+agnostic term: the American Association of Clinical Endocrinologists and American 
+College of Endocrinology position statement. Endocr Pract 2017;23:372- 378.
+ 15. Blundell JE, Dulloo AG, Salvador J, Frühbeck G, EASO SAB Working Group on BMI. 
+Beyond BMI– phenotyping the obesities. Obes Facts 2014;7:322- 328.
+ 16. Field AE, Camargo CA Jr, Ogino S. The merits of subtyping obesity: one size does not 
+fit all. JAMA 2013;310:2147- 2148.
+ 17. Rosenbaum M, Agurs- Collins T, Bray MS, et al. Accumulating Data to Optimally 
+Predict obesity Treatment (ADOPT): recommendations from the biological domain. 
+Obesity (Silver Spring) 2018;26(suppl 2):S25- S34.
+ 18. Blundell JE, Finlayson G. Is susceptibility to weight gain characterized by homeostatic 
+or hedonic risk factors for overconsumption? Physiol Behav 2004;82:21- 25.
+ 19. Camilleri M. Peripheral mechanisms in appetite regulation. Gastroenterology 
+2015;148:1219- 1233.
+ 20. Avena NM. Hedonic Eating: How the Pleasure of Food Affects our Brains and Behavior, 
+vol. 1. Oxford (New York): Oxford University Press; 2015.
+ 21. Tulloch AJ, Murray S, Vaicekonyte R, Avena NM. Neural responses to macronutrients: 
+hedonic and homeostatic mechanisms. Gastroenterology 2015;148:1205- 1218.
+ 22. Hopkins M, Blundell JE. Energy balance, body composition, sedentariness and appetite 
+regulation: pathways to obesity. Clin Sci (Lond) 2016;130:1615- 1628.
+ 23. Blundell J, de Graaf C, Hulshof T, et al. Appetite control: methodological aspects of the 
+evaluation of foods. Obes Rev 2010;11:251- 270.
+ 24. Acosta A, Camilleri M, Shin A, et al. Quantitative gastrointestinal and psychological 
+traits associated with obesity and response to weight- loss therapy. Gastroenterology 
+2015;148:537- 546.E4.
+ 25. Kadouh H, Chedid V , Halawi H, et al. GLP- 1 analog modulates appetite, taste pref-
+erence, gut hormones, and regional body fat stores in adults with obesity. J Clin 
+Endocrinol Metab 2020;105:1552- 1563.
+ 26. Acosta A, Camilleri M, Shin A, et al. Quantitative gastrointestinal and psychological 
+traits associated with obesity and response to weight- loss therapy. Gastroenterology 
+2015;148:537- 546.e4.
+ 27. Pajot G, Camilleri M, Calderon G, et al. Association between gastrointestinal pheno-
+types and weight gain in younger adults: a prospective 4- year cohort study. Int J Obes 
+(Lond) 2020;44:2472- 2478.
+ 28. Halawi H, Camilleri M, Acosta A, et al. Relationship of gastric emptying or accom-
+modation with satiation, satiety, and postprandial symptoms in health. Am J Physiol Gastrointest Liver Physiol 2017;313:G442- G447.
+ 29. Karlsson J, Persson LO, Sjostrom L, Sullivan M. Psychometric properties and factor 
+structure of the Three- Factor Eating Questionnaire (TFEQ) in obese men and women. Results from the Swedish Obese Subjects (SOS) study. Int J Obes Relat Metab Disord 2000;24:1715- 1725.
+ 30. Stunkard AJ, Messick S. The three- factor eating questionnaire to measure dietary re-
+straint, disinhibition and hunger. J Psychosom Res 1985;29:71- 83.
+ 31. Yanovski SZ, Marcus MD, Wadden TA, Walsh BT. The Questionnaire on Eating and 
+Weight Patterns- 5: an updated screening instrument for binge eating disorder. Int J Eat 
+Disord 2015;48:259- 261.
+ 32. Cooper JA, Watras AC, O’Brien MJ, et al. Assessing validity and reliability of resting 
+metabolic rate in six gas analysis systems. J Am Diet Assoc 2009;109:128- 132.
+ 33. Sarkin JA, Johnson SS, Prochaska JO, Prochaska JM. Applying the transtheoretical 
+model to regular moderate exercise in an overweight population: validation of a stages of change measure. Prev Med 2001;33:462- 469.
+ 34. Davis J, Camilleri M, Eckert D, Burton D, Joyner M, Acosta A. Physical activ-
+ity is associated with accelerated gastric emptying and increased ghrelin in obesity. 
+Neurogastroenterol Motil 2020:32:e13879. doi:10.1111/nmo.13879
+ 35. Halawi H, Khemani D, Eckert D, et al. Effects of liraglutide on weight, satiation, 
+and gastric functions in obesity: a randomised, placebo- controlled pilot trial. Lancet 
+Gastroenterol Hepatol 2017;2:890- 899.
+ 36. Zwarenstein M, Treweek S, Gagnier JJ, et al. Improving the reporting of pragmatic trials: 
+an extension of the CONSORT statement. BMJ 2008;337:a2390. doi:10.1136/bmj.a2390
+ 37. Acosta A, Camilleri M, Burton D, et al. Exenatide in obesity with accelerated gas-
+tric emptying: a randomized, pharmacodynamics study. Physiol Rep 2015;3:e12610. doi:10.14814/ phy2.12610
+ 38. Halawi H, Camilleri M, Acosta A, et al. Relationship of gastric emptying or accom-
+modation with satiation, satiety, and postprandial symptoms in health. Am J Physiol Gastrointest Liver Physiol 2017;313:G442- G447.
+ 39. Harrold JA, Dovey TM, Blundell JE, Halford JC. CNS regulation of appetite. 
+Neuropharmacology 2012;63:3- 17.
+ 40. Camilleri M, Acosta A. Combination therapies for obesity. Metab Syndr Relat Disord 
+2018;16:390- 394.
+ 41. Coulter AA, Rebello CJ, Greenway FL. Centrally acting agents for obesity: past, pres-
+ent, and future. Drugs 2018;78:1113- 1132.
+ 42. Chao AM, Wadden TA, Walsh OA, et al. Effects of liraglutide and behavioral weight 
+loss on food cravings, eating behaviors, and eating disorder psychopathology. Obesity 
+(Silver Spring) 2019;27:2005- 2010.
+ 43. Rubino F, Puhl RM, Cummings DE, et al. Joint international consensus statement for 
+ending stigma of obesity. Nat Med 2020;26:485- 497.
+ 44. Wharton S, Haase CL, Kamran E, et al. Weight loss and persistence with liraglutide 
+3.0 mg by obesity class in the real- world effectiveness study in Canada. Obes Sci Pract 
+2020;6:439- 444.
+ 1930739x, 2021, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/oby.23120, Wiley Online Library on [12/12/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

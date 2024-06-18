@@ -1,0 +1,708 @@
+Effect of Subcutaneous Semaglutide vs Placebo as an Adjunct to Intensive
+Behavioral Therapy on Body Weight in Adults With Overweight or ObesityThe STEP 3 Randomized Clinical Trial
+Thomas A. Wadden, PhD; Timothy S. Bailey, MD; Liana K. Billings, MD, MMSc; Melanie Davies, MD;
+Juan P. Frias, MD; Anna Koroleva, MD; Ildiko Lingvay, MD, MPH, MSCS; Patrick M. O’Neil, PhD;Domenica M. Rubino, MD; Dorthe Skovgaard, MD, PhD; Signe O. R. Wallenstein, MSc; W. Timothy Garvey, MD;for the STEP 3 Investigators
+IMPORTANCE
+Weight loss improves cardiometabolic risk factors in people with overweight or
+obesity. Intensive lifestyle intervention and pharmacotherapy are the most effectivenoninvasive weight loss approaches.
+OBJECTIVE To compare the effects of once-weekly subcutaneous semaglutide, 2.4 mg vs
+placebo for weight management as an adjunct to intensive behavioral therapy with initiallow-calorie diet in adults with overweight or obesity.
+DESIGN, SETTING, AND PARTICIPANTS Randomized, double-blind, parallel-group, 68-week,
+phase 3a study (STEP 3) conducted at 41 sites in the US from August 2018 to April 2020 inadults without diabetes (N = 611) and with either overweight (body mass index /H1135027) plus at
+least 1 comorbidity or obesity (body mass index /H1135030).
+INTERVENTIONS Participants were randomized (2:1) to semaglutide, 2.4 mg (n = 407) or
+placebo (n = 204), both combined with a low-calorie diet for the first 8 weeks and intensivebehavioral therapy (ie, 30 counseling visits) during 68 weeks.
+MAIN OUTCOMES AND MEASURES The co–primary end points were percentage change in body
+weight and the loss of 5% or more of baseline weight by week 68. Confirmatory secondaryend points included losses of at least 10% or 15% of baseline weight.
+RESULTS Of 611 randomized participants (495 women [81.0%], mean age 46 years [SD, 13],
+body weight 105.8 kg [SD, 22.9], and body mass index 38.0 [SD, 6.7]), 567 (92.8%)completed the trial, and 505 (82.7%) were receiving treatment at trial end. At week 68, theestimated mean body weight change from baseline was –16.0% for semaglutide vs –5.7% forplacebo (difference, −10.3 percentage points [95% CI, −12.0 to −8.6]; P< .001). More
+participants treated with semaglutide vs placebo lost at least 5% of baseline body weight(86.6% vs 47.6%, respectively; P< .001). A higher proportion of participants in the
+semaglutide vs placebo group achieved weight losses of at least 10% or 15% (75.3% vs 27.0%and 55.8% vs 13.2%, re spectively; P< .001). Gastrointestinal adverse events were more
+frequent with semaglutide (82.8%) vs placebo (63.2%). Treatment was discontinued owingto these events in 3.4% of semaglutide participants vs 0% of placebo participants.
+CONCLUSIONS AND RELEVANCE Among adults with overweight or obesity, once-weekly
+subcutaneous semaglutide compared with placebo, used as an adjunct to intensivebehavioral therapy and initial low-calorie diet, resulted in significantly greater weight lossduring 68 weeks. Further research is needed to assess the durability of these findings.
+TRIAL REGISTRATION ClinicalTrials.gov Identifier: NCT03611582
+JAMA . 2021;325(14):1403-1413. doi: 10.1001/jama.2021.1831
+Published online February 24, 2021.Visual Abstract
+Multimedia
+Related article page 1414
+Supplemental content
+CME Quiz at
+jamacmelookup.com
+Author Affiliations: Author
+affiliations are listed at the end of thisarticle.
+Group Information: A list of the
+STEP 3 Investigators appears ineAppendix 1 in Supplement 1 .
+Corresponding Author: Thomas A.
+Wadden, PhD, Perelman School ofMedicine at the University ofPennsylvania, 3535 Market St, Ste3027, Philadelphia, PA 19104(wadden@pennmedicine.upenn.
+edu).Research
+JAMA | Original Investigation
+(Reprinted) 1403
+© 2021 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Pankaj Rajvanshi on 02/07/2024
+Intensivebehavioralinterventionsforobesityproviding14
+or more counseling sessions in 6 months induce meanlosses of 5% to 10% of baseline body weight.
+1Weight loss
+can be increased by an additional 3 to 5 percentage points byincludingalow-calorie(1000-1200kcal/d)portion-controlleddiet composed of liquid shakes, meal bars, and preparedmeals.
+2,3Larger weight losses (eg, ≥10%) are desired because
+they produce greater improvements in several obesity-related cardiometabolic risk factors and diseases, includingtype2diabetes,hypertension,andsleepapnea.
+4-8
+AntiobesitymedicationsapprovedbytheFoodandDrug
+Administration also increase weight loss when used adjunc-tively with behavioral intervention. Once-daily liraglutide,3.0 mg, a glucagon-like peptide 1 receptor agonist approvedforweightmanagement,addedapproximately3to5percent-age points of additional weight loss to intensive behavioraltherapycomparedwithbehavioraltherapyalone.
+9,10Subcu-
+taneoussemaglutideisalong-actingglucagon-likepeptide1receptor agonist approved for the treatment of type 2 diabe-tesatonce-weeklydosesofupto1.0mg,
+11whichreducesbody
+weight by approximately 6% by 1 year in these patients.12,13
+In a 52-week, phase 2 trial, semaglutide produced a meanlossofupto13.8%ofbaselinebodyweight(with0.4mgoncedaily, equivalent to a weekly dose of 2.8 mg) comparedwith 2.3% for placebo (both combined with approximatelymonthlybehavioralcounseling)anddemonstratedanaccept-able tolerability profile.
+14Semaglutide as a 2.4-mg once-
+weeklydoseisbeingevaluatedforweightmanagementinthephase 3 Semaglutide Treatment Effect for People with obe-sity(STEP)program.
+15
+The present clinical trial was designed to maximize
+weight loss in adults with overweight or obesity without dia-betes. Its objective was to evaluate the effects on bodyweightandcardiometabolicriskfactorsofaddingsubcutane-ous semaglutide, 2.4 mg, to intensive behavioral therapy, thelatterofwhichwasalsocombinedwithaninitial8-weeklow-caloriediettoboosttotalweightloss.
+Methods
+Study Design and Oversight
+STEP 3 was a 68-week, randomized, double-blind, placebo-controlled,multicenterstudyconductedat41sitesintheUSfrom August 2018 to April 2020. The study design has beenpublished.
+15The protocol and amendments (available in
+Supplement2 )wereapprovedbyinstitutionalreviewboards
+orindependentethicscommitteesateachstudysite.Thestudywasconductedaccordingtoconsensusethicalprinciplesde-rived from guidelines, including the Declaration of Helsinki,the International Conference on Harmonization Good Clini-cal Practice Guideline, and applicable local laws and regula-tions.Allparticipantsprovidedwritteninformedconsent.
+Participants
+Eligibleparticipantswereaged18yearsorolder,reported1ormoreunsuccessfuldietaryeffortstoloseweight,andhadeitherbodymassindex(BMI)of27orhigherwithatleast1weight-relatedcomorbidity(cardiovasculardisease,dyslipidemia,hy-
+pertension,orobstructivesleepapnea)orBMIof30orhigher.Participantswereexcludediftheyhaddiabetes,glycatedhe-moglobin levels of 6.5% or more (≥48 mmol/mol), self-reportedbodyweightchangegreaterthan5kgwithin90daysbefore screening, or prior or planned obesity treatment withsurgeryoraweightlossdevice.Fulleligibilitycriteriaarepro-vided in eAppendix 3 in Supplement 1 . To meet regulatory
+requirements,
+16raceandethnicitywererecordedinthisstudy
+and determined by the participant according to fixed selec-tioncategories(withtheoptionofanswering“other,”“notap-plicable,”or“unknown”).
+Procedures
+Participants were randomized 2:1 with a blocking schema(blocksizeof9)viaaninteractiveweb-responsesystemtoonce-weekly subcutaneous semaglutide, 2.4 mg, or visually iden-tical placebo for 68 weeks, with an additional 7 weeks’ off-treatmentfollow-uptomonitoradverseevents.BasedonFoodandDrugAdministrationrecommendations,
+16a2:1random-
+izationwasselectedtoensurethatapproximately3000par-ticipantsacrossthephase3clinicalprogramwereexposedtosemaglutide, 2.4 mg. Semaglutide was initiated at 0.25 mg,with dose escalation every 4 weeks until the target dose of2.4 mg/wk was reached at week 16 (eFigure 1 in Supple-
+ment1).Ifparticipantsdidnottoleratethe2.4-mgdose,they
+werepermittedtoreceive1.7mginstead(attheinvestigator’sdiscretion)andencouragedtomakeatleast1attempttorees-calatetothe2.4-mgdose.
+Forthefirst8weeksafterrandomization,participantsre-
+ceivedalow-caloriediet(1000-1200kcal/d)providedasmealreplacements (eg, liquid shakes, meal bars, portion-controlled meals [provided by Nutrisystem, supplied by thesponsor]). Participants subsequently transitioned to a hypo-caloricdiet(1200-1800kcal/d)ofconventionalfoodforthere-mainderofthe68weeks,withprescribedcalorieintakebasedon randomization body weight. At randomization, partici-pants were prescribed 100 minutes of physical activity perweek (spread across 4-5 days), which increased by 25 min-utesevery4weeks,toreach200min/wk.Duringthe68weeks,Key Points
+Question In adults with overweight or obesity without diabetes,
+what effect does once-weekly subcutaneous semaglutide, 2.4 mg,have on body weight when added to intensive behavioral therapywith an initial low-calorie diet?
+Findings In this randomized clinical trial that included 611 adults
+with overweight or obesity, 68 weeks’ treatment withonce-weekly subcutaneous semaglutide vs placebo, combinedwith intensive behavioral therapy (and a low-calorie diet for theinitial 8 weeks), resulted in reductions in body weight of 16.0% vs5.7%, respectively; the difference was statistically significant.
+Meaning When used as an adjunct to intensive behavioral therapy
+and initial low-calorie diet, once-weekly subcutaneoussemaglutide produced significantly greater weight loss thanplacebo during 68 weeks in adults with overweight or obesity.Research Original Investigation Effect of Subcutaneous Semaglutide on Body Weight in Adults With Obesity
+1404 JAMA April 13, 2021 Volume 325, Number 14 (Reprinted) jama.com
+© 2021 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Pankaj Rajvanshi on 02/07/2024
+participants were provided with 30 individual intensive be-
+havioral therapy visits with a registered dietitian, who in-structedthemindiet,physicalactivity,andbehavioralstrat-egies.Detailsofthesecounselingvisits,andoftheassessmentschedule, are provided in eAppendix 4 and eAppendix 5 inSupplement1 .
+End Points
+Theco–primaryendpoints,intheorderplannedforsequen-
+tial hierarchic testing, were the percentage change in bodyweightandtheproportionofparticipantswholostatleast5%of baseline weight by week 68 (eAppendix 6 in Supple-
+ment1).Confirmatorysecondaryendpoints(inhierarchictest-
+ingorder)includedtheproportionsofparticipantsachievingweightreductionsofatleast10%or15%,andthechangefrombaselinetoweek68inwaistcircumference,systolicbloodpres-sure,andphysicalfunctioningscoreassessedbythe36-ItemShortFormHealthSurvey(SF-36),AcuteVersion(eAppendix7inSupplement1 ).Additionalsupportivesecondaryandex-
+ploratory end points are listed in eAppendix 8 in Supple-
+ment 1. Treatment-emergent adverse events and serious ad-
+verseeventswereassessedthroughouttreatmentandfollow-up.Selectedadverseevents(eg,cardiovascularevents,acutepancreatitis)anddeathswerereviewedbyanindependentex-ternaleventadjudicationcommittee.
+Statistical Analysis
+A sample size of 600 participants was calculated to providepowerof86%forthe7endpointsinthehierarchictestingpro-cedure,withgreaterthan99%powerfortheco–primaryendpoints(seeeAppendix6in Supplement1 fordetailsofthesta-
+tisticalanalysisand Supplement3 forthefullstatisticalanaly-
+sisplan).Efficacyendpointswereanalyzedwiththefullanaly-sis set (ie, all participants randomly assigned to a treatmentgroupregardlessofwhethertheyinitiatedtreatment),andad-verse event end points were analyzed with the safety analy-sisset(ie,allrandomizedparticipantsexposedtoatleast1doseofrandomizedtreatment).Observationperiodsincludedthein-trialperiod(whileintrial,regardlessoftreatmentdiscon-tinuation or rescue intervention) and the on-treatment pe-riod (in which any dose of trial product was administeredwithin the previous 2 weeks for efficacy analyses, or withinthe previous 49 days for adverse event analyses [ie, any pe-riodoftemporarytreatmentinterruptionwithtrialproductwasexcluded]). The superiority of subcutaneous semaglutide toplacebofortheprimaryandsecondaryconfirmatoryendpointswasassessedinhierarchicorder,withsuperiorityatasignifi-cance level of 5% required before testing of subsequent endpointsinthehierarchy.Allresultsfromstatisticalanalysesarereportedtogetherwiththeassociated2-sided95%CIandcor-responding Pvalue (significance defined as P< .05). Find-
+ings for analyses of supportive secondary end points shouldbeinterpretedasexploratorybecauseofthepotentialfortypeIerrorduetomultiplecomparisons.AllstatisticalanalyseswereperformedwithSASversion9.4TS1M5.
+Two estimands were used to address different scientific
+questions, as described elsewhere.
+17,18The primary hierar-
+chicstatisticalanalyseswerebasedonthetreatmentpolicyes-timand(similartoanintention-to-treatanalysis),whichquan-
+tified the average treatment effect among all randomizedparticipants, regardless of adherence to treatment or initia-tionofrescueinterventions(ie,antiobesitymedicationsorbar-iatricsurgery).Continuousandcategoricalendpointswereana-lyzed with analysis of covariance and logistic regression,respectively(bothwithrandomizedtreatmentasafactorandbaselinevalueasacovariate).Missingdatawereimputedwithamultipleimputationapproach,similartothatdescribedbyMcEvoy.
+19Missingbodyweightmeasurementswereimputed
+bysamplingfromavailablemeasurementsatweek68frompar-ticipantsreceivingrandomizedtreatmentintherelevantran-domized treatment group. Missing values were multiply im-puted (× 1000). Each of the 1000 complete data sets wasanalyzed,resultingin1000estimatesthatwerecombinedbyusingtheformulabyRubin
+20toobtainoverallestimates.
+The trial product estimand quantified the average treat-
+menteffectinallrandomizedparticipants,assumingtheyre-mainedreceivingrandomizedtreatmentforthedurationofthetrial(andwithoutrescueintervention).Forthisestimand,con-tinuousendpointswereanalyzedwithamixedmodelforre-peatedmeasurements.Categoricalendpointswereanalyzedwithlogisticregression,withtreatmentastheonlyfactor;formissing data, categorization was based on predicted valuesfrom the mixed model for repeated measurements. The trialproduct estimand, which models the data to assume that allparticipants were adherent to treatment, typically yields ahigherestimateofweightlossthanthetreatmentpolicyesti-mand, which includes data for all participants, regardless oftreatment adherence. All reported results are for the treat-mentpolicyestimand,unlessstatedotherwise.
+Results
+Study Participants
+From August 2018 to November 2018, 742 participants werescreened, and 611 were randomized to treatment: 407 tosemaglutide and 204 to placebo. Overall, 567 participants(92.8%) completed the trial, and 505 (82.7%) completed thetrial in the on-treatment period ( Figure 1). The proportion of
+participants permanently discontinuing trial product wassimilar between treatment groups (semaglutide, 16.7%; pla-cebo, 18.6%) (eFigure 2 in Supplement 1 ). The most frequent
+reasons for permanent discontinuation were adverse events(semaglutide, 6.4%; placebo, 2.9%), lost to follow-up (sema-glutide, 4.4%; placebo, 3.4%), and the category “other,”which included various personal reasons. Demographic andbaseline clinical characteristics were similar for the 2 groups(Table 1). Most participants were women (81.0%) and White
+individuals (76.1%), with a mean age of 46 years. Mean bodyweight was 105.8 kg, mean BMI was 38.0, and mean waistcircumference was 113.0 cm. At screening, 75.8% of partici-pantshad1ormorecomorbidities.
+Co–Primary End Points
+Atweek68,theestimatedmeanweightchangefrombaselinewas −16.0% with semaglutide vs –5.7% with placebo, bothEffect of Subcutaneous Semaglutide on Body Weight in Adults With Obesity Original Investigation Research
+jama.com (Reprinted) JAMA April 13, 2021 Volume 325, Number 14 1405
+© 2021 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Pankaj Rajvanshi on 02/07/2024
+combinedwithintensivebehavioraltherapyandmealreplace-
+ments (difference, −10.3 percentage points [95% CI, −12.0 to−8.6]; P< .001)( Table2,Figure2 A,andeFigure3in Supple-
+ment1).Forthetrialproductestimand,correspondingchanges
+were−17.6%withsemaglutidevs−5.0%withplacebo(differ-ence,−12.7percentagepoints[95%CI,−14.3to−11.0]; P< .001)
+(eTable 1 and eFigure 4 in Supplement 1 ). See eFigure 5 inSupplement 1 for cumulative distribution function plots for
+weightchange.
+Semaglutide-treated participants were significantly
+more likely to have lost at least 5% of baseline body weightat week 68 vs placebo ( P< .001 for both estimands) (Table 2
+and eTable 1 in Supplement 1 ), with 86.6% of participants
+in the semaglutide group vs 47.6% in the placebo groupFigure 1. Participant Flow in the STEP 3 Trial of Semaglutide in Adults With Overweight or Obesity
+742 Adults with overweight or obesity
+(without diabetes) screened for eligibility
+129 Did not meet screening criteriaa
+29Had any disorder, unwillingness, or inability, not covered
+by other exclusion criteria, which in the investigator'sopinion might jeopardize the participant's safety oradherence with the protocol43Had uncontrolled thyroid disease
+5Had Patient Health Questionnaire-9 score ≥15 at screening
+4Had history of suicide attempt
+4Had calcitonin ≥100 ng/L
+4Had kidney impairment (eGFR <15 mL/min/1.73 m
+2)
+16Other
+2Withdrew prior to randomization40Had HbA1c ≥6.5% (≥48 mmol/mol)
+611 Randomized (2:1)
+407 Included in the primary analysis28Discontinued treatment prematurelyb
+(and withdrew from trial)
+18Lost to follow-upc
+4Withdrew consent
+4Other
+2Adverse event
+3Withdrew from trial12Discontinued treatment prematurelyb
+(and withdrew from trial)
+7Lost to follow-upc
+3Withdrew consent
+2Other
+1Withdrew from trial407 Randomized to once-weekly
+semaglutide, 2.4 mg204 Randomized to placebo
+204 Included in the primary analysis376 Attended wk 75 visit and completed
+the trial
+339 Were receiving treatment at wk 68
+and completed treatment40Discontinued treatment prematurelyb
+24Adverse event
+13Other
+1Investigator’s discretion
+1Safety concern
+1Pregnancy191 Attended wk 75 visit and completed
+the trial
+166 Were receiving treatment at wk 68
+and completed treatment26Discontinued treatment prematurelyb
+14Other
+6Adverse event
+2Safety concern
+2Pregnancy
+1Protocol violation
+1Withdrew for lack of efficacy
+aParticipants could meet more than 1 exclusion or randomization criterion.
+bAdverse events leading to permanent discontinuation of trial product
+(participants may have discontinued due to /H113501 adverse event):
+(1) gastrointestinal disorders: constipation, n = 2 (semaglutide);diarrhea/explosive diarrhea, n = 2 (semaglutide); eructation/belching, n = 1(semaglutide); flatulence/excessive gas, n = 1 (semaglutide);nausea/worsening nausea, n = 7 (semaglutide); retching/dry heaves, n = 1(semaglutide); and vomiting/worsening vomiting/recurrent vomiting, n = 6(semaglutide). (2) General disorders and administration siteconditions/hepatobiliary disorders: biliary colic/gallbladder pain, n = 1(semaglutide); biliary dyskinesia, n = 1 (semaglutide); and injection sitehematoma, n = 1 (placebo). (3) Infections and infestations: diverticulitis, n = 1(placebo). (4) Injury, poisoning, and procedural complications: concussion,n = 1 (semaglutide). (5) Investigations: amylase increased/elevated amylase,n = 1 (semaglutide); blood creatine phosphokinase increased/elevated
+creatine kinase, n = 1 (semaglutide); and lipase increased/elevated lipase, n = 1(semaglutide). (6) Metabolism and nutrition disorders: loss of appetite, n = 1(semaglutide). (7) Musculoskeletal and connective tissue disorders:right-sided flank pain, n = 1 (placebo). (8) Nervous system disorders:headache, n = 1 (semaglutide); and worsening of migraine, n = 1 (semaglutide).(9) Psychiatric disorders: anxiety/worsening anxiety, n = 3 (semaglutide), n = 1(placebo). (10) Skin and subcutaneous tissue disorders: hair thinning, n = 1(semaglutide); hair loss, n = 1 (placebo); burning under skin of the right leg,n = 1 (semaglutide); and generalized pruritic rash, n = 1 (placebo).
+cA total of 5.6% of participants were lost to follow-up. In the semaglutide
+group, 12 were lost to follow-up by week 38, and in the placebo group, 5 werelost to follow-up by week 25.Research Original Investigation Effect of Subcutaneous Semaglutide on Body Weight in Adults With Obesity
+1406 JAMA April 13, 2021 Volume 325, Number 14 (Reprinted) jama.com
+© 2021 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Pankaj Rajvanshi on 02/07/2024
+achieving this threshold (in-trial period) (Figure 2B and
+eFigure4in Supplement1 ).
+Confirmatory Secondary End Points
+At week 68, participants in the semaglutide group were sig-
+nificantly more likely to have lost at least 10% or 15% ofbaseline body weight vs placebo ( P< .001 for both esti-
+mands) (Table 2 and eTable 1 in Supplement 1 ). TheseTable 1. Baseline Demographics and Clinical Characteristicsa
+CharacteristicNo. (%)
+Semaglutide, 2.4 mg
+(n = 407)Placebo
+(n = 204)
+Age, mean (SD), y 46 (13) 46 (13)
+Sex
+Women 315 (77.4) 180 (88.2)
+Men 92 (22.6) 24 (11.8)
+Raceb
+White 307 (75.4) 158 (77.5)
+Black or African American 80 (19.7) 36 (17.6)
+Other 11 (2.7) 4 (2.0)
+Asian 5 (1.2) 6 (2.9)
+Native Hawaiian
+or other Pacific Islander3 (0.7) 0
+American Indian
+or Alaska Native1 (0.2) 0
+Hispanic or Latino ethnic group 75 (18.4) 46 (22.5)
+Body weight, mean (SD), kg 106.9 (22.8) 103.7 (22.9)Body mass index, mean (SD) 38.1 (6.7) 37.8 (6.9)Body mass index categories
+≥27-<30 (overweight) 23 (5.7) 15 (7.4)
+≥30-<35 (class 1 obesity) 126 (31.0) 58 (28.4)
+≥35-<40 (class 2 obesity) 136 (33.4) 76 (37.3)
+≥40 (class 3 obesity) 122 (30.0) 55 (27.0)
+Waist circumference, mean (SD), cm 113.6 (15.1) 111.8 (16.2)Comorbidities at screening
+c
+Dyslipidemia 145 (35.6) 67 (32.8)
+Hypertension 145 (35.6) 67 (32.8)
+Knee osteoarthritis 76 (18.7) 31 (15.2)
+Asthma/COPD 67 (16.5) 25 (12.3)
+Obstructive sleep apnea 58 (14.3) 19 (9.3)
+Nonalcoholic fatty liver disease 23 (5.7) 12 (5.9)
+Polycystic ovary syndrome 17 (5.4) 10 (5.6)
+Coronary artery disease 6 (1.5) 4 (2.0)
+No. of comorbidities at screeningc
+None 99 (24.3) 49 (24.0)
+1 93 (22.9) 53 (26.0)
+2 96 (23.6) 43 (21.1)
+3 62 (15.2) 38 (18.6)
+4 31 (7.6) 14 (6.9)
+≥5 26 (6.4) 7 (3.4)
+Blood pressure, mean (SD), mm Hg
+Systolic 124 (15) 124 (15)
+Diastolic 80 (10) 81 (10)
+Pulse, mean (SD), /min 71 (10) 71 (10)Glycated hemoglobin,
+mean (SD), %
+d5.7 (0.3) 5.8 (0.3)
+Fasting plasma glucose,
+mean (SD), mg/dd93.9 (9.4)[n = 397]94.0 (9.8)
+[n = 200]
+Fasting serum insulin,
+geometric mean pmol/L (CV)d90.1 (59.5)[n = 388]92.6 (61.0)
+[n = 194]
+C-reactive protein,
+geometric mean (CV), mg/Ld4.52 (142.1)[n = 401]4.35 (129.9)
+[n = 202]
+Fasting lipid profile,
+geometric mean (CV), mg/dLe
+Cholesterol [n = 401] [n = 202]
+(continued)Table 1. Baseline Demographics and Clinical Characteristicsa(continued)
+CharacteristicNo. (%)
+Semaglutide, 2.4 mg
+(n = 407)Placebo
+(n = 204)
+Total 185.4 (19.8) 188.7 (20.6)
+LDL 107.7 (30.3) 111.8 (31.2)
+HDL 51.6 (24.0) 50.9 (22.6)
+VLDL 21.0 (49.7) 21.7 (44.5)
+Free fatty acids 11.9 (59.4)
+[n = 388]11.1 (64.8)
+[n = 195]
+Triglycerides 107.9 (50.3)
+[n = 401]110.9 (44.4)
+[n = 202]
+Kidney function
+eGFR, geometric mean (CV),
+mL/min/1.73 m296.6 (21.3) 96.5 (20.7)
+Normal (eGFR ≥90 mL/min/1.73 m2)280 (68.8) 133 (65.2)
+Mild impairment (eGFR ≥60 –
+<90 mL/min/1.73 m2)118 (29.0) 66 (32.4)
+Moderate impairment
+(eGFR ≥30 –<60 mL/min/1.73 m2)9 (2.2) 5 (2.5)
+SF-36f[n = 402] [n = 203]
+Physical functioning score 51.9 (6.7) 52.1 (6.8)
+Component summary score
+Physical 51.6 (6.9) 51.7 (7.3)
+Mental 55.7 (5.3) 55.4 (6.1)
+Abbreviations: COPD, chronic obstructive pulmonary disease; CV, coefficient of
+variation (in percentage); eGFR, estimated glomerular filtration rate;HDL, high-density lipoprotein; LDL, low-density lipoprotein; SF-36, 36-ItemShort Form Health Survey, Acute Version; VLDL, very low-density lipoprotein.
+SI conversion factors: To convert values for glucose to mmol/L, multiply by
+0.0555; and cholesterol to mmol/L, multiply by 0.0259. Body mass index iscalculated as weight in kilograms divided by height in meters squared.
+aBody weight, vital signs, and glycated hemoglobin were assessed at screening
+and randomization; all other laboratory measurements were assessed atrandomization only.
+bRace and ethnicity were determined by the participant according to fixedselection categories with options of “other,” “not applicable,” or “unknown.”
+cComorbidities included dyslipidemia, hypertension, coronary artery disease,
+cerebrovascular disease, obstructive sleep apnea, impaired glucosemetabolism, reproductive system disorders, liver disease, kidney disease,osteoarthritis, gout, thyroid disease, and asthma/COPD. Information aboutcomorbidities judged to be relevant and significant for the trial population wascollected at screening, using specific disease forms based on information fromthe participants (yes/no answers).
+dNormal value for glycated hemoglobin is <6.5%; for fasting plasma glucose,74-99 mg/dL; for fasting serum insulin, 11-220 pmol/L (in women) and<218 pmol/L (in men); for C-reactive protein, <5 mg/L.
+eNormal values: total cholesterol, <199.6 mg/dL; LDL, <99.2 mg/dL;HDL, >59.9 mg/dL; VLDL, <30.1 mg/dL; free fatty acids, 2.8-25.4 mg/dL;and triglycerides, <150.4 mg/dL.
+fSF-36 is a measure of health-related quality of life and general health status.
+It uses a norm-based score: greater than and less than 50 are greater than andless than the average, respectively, found in the 2009 US general population.Further information on the SF-36 is provided in eAppendix 7 in Supplement 1 .Effect of Subcutaneous Semaglutide on Body Weight in Adults With Obesity Original Investigation Research
+jama.com (Reprinted) JAMA April 13, 2021 Volume 325, Number 14 1407
+© 2021 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Pankaj Rajvanshi on 02/07/2024
+thresholds were achieved by 75.3% vs 27.0% and 55.8%
+vs 13.2% of participants in the semaglutide and placebogroups, respectively (in-trial period) (Figure 2B and eFig-u r e4i n Supplement 1 ). Reductions at week 68 in waist cir-
+cumference and systolic blood pressure were significantlygreater with semaglutide than with placebo (difference,
+–8.3 cm [95% CI, –10.1 to –6.6]; P< .001 and –3.9 mm Hg
+[95% CI, –6.4 to –1.5]; P= .001, respectively) (Table 2 and
+eTable 1 in Supplement 1 ). Physical function (measured by
+the SF-36 physical functioning score) improved similarly inTable 2. Primary and Secondary End Points at Week 68a
+End pointbSemaglutide, 2.4 mg
+(n = 407)Placebo
+(n = 204)Difference
+(95% CI)Odds ratio
+(95% CI) Pvalue
+Co–primary end pointsc
+Body weight, % reduction –16.0 –5.7 –10.3 (–12.0 to –8.6) <.001
+Body weight reduction ≥5%,
+proportion of participants at week 68, %86.6 47.6 6.1 (4.0 to 9.3) <.001
+Confirmatory secondary end points
+Waist circumference, cm –14.6 –6.3 –8.3 (–10.1 to –6.6) <.001
+Systolic blood pressure, mm Hg –5.6 –1.6 –3.9 (–6.4 to –1.5) .001
+SF-36 physical functioning scored2.4 1.6 0.8 (–0.2 to 1.9) .12
+Body weight reduction ≥10%,
+proportion of participants at week 68, %75.3 27.0 7.4 (4.9 to 11.0) <.001
+Body weight reduction ≥15%,
+proportion of participants at week 68, %55.8 13.2 7.9 (4.9 to 12.6) <.001
+Supportive secondary end pointse
+Body weight reduction ≥20%,
+proportion of participants at week 68, %35.7 3.7 13.7 (6.2 to 30.3) <.001
+Body weight, kg –16.8 –6.2 –10.6 (–12.5 to –8.8) <.001
+Body mass index –6.0 –2.2 –3.8 (–4.4 to –3.1) <.001
+Glycated hemoglobin, percentage points –0.51 –0.27 –0.24 (–0.29 to –0.19) <.001
+Fasting plasma glucose, mg/dL –6.73 –0.65 –6.09 (–8.13 to –4.04) <.001
+Diastolic blood pressure, mm Hg –3.0 –0.8 –2.2 (–3.9 to –0.6) .008
+SF-36d
+Physical component summary score 3.0 2.3 0.7 (–0.5 to 1.9) .27
+Mental component summary score –0.8 –2.9 2.1 (0.5 to 3.6) .011
+Fasting values, % change at week 68f
+Serum insulin –32.3 –15.0 –20.3 (–30.4 to –8.7)f.001
+Lipid profile
+Cholesterol
+Total –3.8 2.1 –5.8 (–8.4 to –3.2)f<.001
+HDL 6.5 5.0 1.5 (–1.8 to 4.9)f.39
+LDL –4.7 2.6 –7.1 (–10.9 to –3.2)f<.001
+VLDL –22.5 –6.6 –17.0 (–22.8 to –10.9)f<.001
+Free fatty acids –11.9 4.0 –15.3 (–25.0 to –4.3)f.008
+Triglycerides –22.5 –6.5 –17.0 (–22.8 to –10.8)f<.001
+C-reactive protein, % change at week 68f–59.6 –22.9 –47.6 (–55.0 to –39.0)f<.001
+Abbreviations: HDL, high-density lipoprotein; LDL, low-density lipoprotein;
+SF-36, 36-Item Short Form Health Survey, Acute Version; VLDL, verylow-density lipoprotein.
+aValues are estimated mean change from baseline to week 68 and estimated
+treatment difference (unless stated otherwise), based on the treatment policyestimand for the in-trial period (from randomization to last contact with thetrial site, regardless of treatment discontinuation or rescue intervention) forthe full analysis set, which includes all participants randomly assigned toa treatment group regardless of whether they initiated treatment; see eTable 1inSupplement 1 for corresponding data for the trial product estimand
+(assesses treatment effect assuming all participants adhered to treatment anddid not receive rescue intervention).
+bContinuous end points were analyzed with analysis of covariance, withrandomized treatment as a factor and baseline end point value as a covariate,and a multiple imputation approach for missing data.
+15Categorical end points
+were analyzed with logistic regression, with the same factor and covariate.cBaseline body weight was 106.9 kg (SD, 22.8) in the semaglutide group and
+103.7 kg (SD, 22.9) in the placebo group.
+dSF-36 is a measure of health-related quality of life and general health statusand uses a norm-based score. Norm-based scores greater than and less than50 are greater than and less than the average, respectively, found in the 2009US general population. Further information on the SF-36 is provided ineAppendix 7 in Supplement 1 .
+eSupportive secondary end point analyses were not adjusted for multiplicity.
+fThese parameters were initially analyzed on a log scale as estimated ratio to
+baseline (within treatment groups) and estimated treatment ratios (betweentreatment groups). For interpretation, these data are expressed as relativepercentage change and estimated relative percentage difference betweengroups, respectively, and were calculated with the following formula:(estimated ratio – 1) × 100.Research Original Investigation Effect of Subcutaneous Semaglutide on Body Weight in Adults With Obesity
+1408 JAMA April 13, 2021 Volume 325, Number 14 (Reprinted) jama.com
+© 2021 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Pankaj Rajvanshi on 02/07/2024
+both groups from baseline to week 68 (difference, 0.8 [95%
+CI, –0.2 to 1.9]; P= .12) (Table 2; eTable 1 and eFigures 6 and
+7inSupplement1 ).
+Supportive Secondary End Points
+Relativetotheplacebogroup,participantsinthesemaglutide
+group were more likely to have lost 20% or more of baselinebody weight by week 68 (Table 2 and eTable 1 in Supple-
+ment 1); 35.7% vs 3.7% achieved this weight-loss threshold
+with semaglutide vs placebo, respectively (in-trial period)(Figure 2B and eFigure 4 in Supplement 1 ). Semaglutide was
+associated with improvements vs placebo in BMI and dia-stolic blood pressure at week 68 (Table 2 and eTable 1 inSupplement 1 ). At week 68, levels of C-reactive protein and
+lipids had improved with semaglutide relative to placebo,with the exception of high-density lipoprotein cholesterol(Table 2 and eTable 1 in Supplement 1 ). Semaglutide was also
+associated with a reduction in glycated hemoglobin com-pared with placebo (Table 2 and eTable 1 in Supplement 1 ).
+From baseline to week 68, SF-36 physical component sum-mary score improved similarly in both groups, whereas themental component summary score favored semaglutide(Table2;eTable1andeFigure7in Supplement1 ).
+Adverse Events
+The proportion of participants reporting adverse events was
+similar in the semaglutide and placebo groups (95.8% and96.1%, respectively). Gastrointestinal disorders (typicallynausea, constipation, diarrhea, and vomiting) were the mostfrequent and occurred in more participants receiving sema-glutide(82.8%)thanplacebo(63.2%)( Table3).Mostgastroin-
+testinaleventsweremildtomoderateandofrelativelyshortdu-ration (median duration of events: nausea [5 days in both
+groups], vomiting [2 days in both groups], diarrhea [3 days inboth groups], and constipation [27 days with semaglutide vs16dayswithplacebo]),andthemajorityofparticipantsrecov-eredwithouttreatmentdiscontinuation(eFigure8in Supple-
+ment 1). The proportion of participants experiencing nausea
+with semaglutide peaked at approximately 25% at week 20and declined thereafter, remaining at approximately 15% forthedurationofthestudy.Atanygiventimeduringthestudy,theproportionofparticipantswhoexperiencedvomitingwaslessthan5%inbothtreatmentgroups.
+Seriousadverseeventswerereportedin9.1%and2.9%of
+participants in the semaglutide and placebo groups, respec-tively(Table3).Moreparticipantsdiscontinuedtreatmentdueto adverse events in the semaglutide group (5.9%) comparedwithplacebo(2.9%),mainlybecauseofgastrointestinalevents(Table3).Nodeathswerereportedduringthestudy.Gallbladder-related disorders (mainly cholelithiasis) were reported in 20participants (4.9%) treated with semaglutide and in 3 (1.5%)receiving placebo. Malignant neoplasms were reported in 3semaglutide-treated participants (0.7%; basal cell carci-noma, breast cancer, and papillary thyroid cancer) and 1placebo-treatedparticipant(0.5%;invasivelobularbreastcar-cinoma). There were no cases of acute pancreatitis, medul-larythyroidcarcinoma,orpancreaticcancerineithergroup.
+Atweek68,theestimatedchangeinpulsefrombaseline
+was3.1/minforsemaglutidevs2.1/minforplacebo(trialprod-uctestimanddifference,1.0/min[95%CI,–0.7to2.6])(eTable2inSupplement1 ).Atthefollow-upvisit(week75)aftertheoff-
+treatment period, mean pulse had neared the baseline level.AdditionaladverseeventfindingsaredescribedinTable3andeTable2in Supplement1 .Figure 2. Body Weight–Related Efficacy End Points
+0
+–4
+–8
+–12
+–16
+–20Body weight, % change from baseline
+Time since randomization, wkChange from baseline by week in body weightA
+0
+407
+2044
+398
+2008
+396
+19712
+385
+19016
+389
+19420
+385
+19424
+370
+18528
+380
+18932
+363
+18036
+373
+18940
+364
+18044
+364
+18448
+356
+17252
+367
+18356
+343
+17064
+346
+16660
+365
+18068
+373
+189100
+80
+60
+40
+20
+0Participants, %
+Achievement of categorical weight loss, %≥5 ≥10 ≥15 ≥20Weight loss at week 68B
+No. of participants
+Semaglutide,
+2.4 mg
+PlaceboPlacebo Semaglutide, 2.4 mg
+Placebo
+Semaglutide, 2.4 mg
+A, The observed mean percentage change in body weight over time for
+participants in the full analysis set for the in-trial period (from randomization tolast contact with the trial site, regardless of treatment discontinuation or rescueintervention). Error bars represent 95% CIs of the mean. B, The observedproportions of participants attaining at least 5% (co–primary end point), 10%,15%, and 20% reductions in baseline body weight by week 68 in the fullanalysis set. The proportions shown are cumulative, such that the 88.6% of
+semaglutide-treated participants who lost more than 5% of baseline bodyweight includes the 75.3% of participants who lost more than 10%, and so on.See eFigure 4 in Supplement 1 for corresponding on-treatment data (during
+treatment with the trial product [any dose of trial medication administeredwithin the previous 2 weeks]).Effect of Subcutaneous Semaglutide on Body Weight in Adults With Obesity Original Investigation Research
+jama.com (Reprinted) JAMA April 13, 2021 Volume 325, Number 14 1409
+© 2021 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Pankaj Rajvanshi on 02/07/2024
+Table 3. Adverse Eventsa
+EventSemaglutide, 2.4 mg (n = 407) Placebo (n = 204)
+Participants,
+No. (%)No. of
+eventsEvents per 100
+patient-yearsbParticipants,No. (%) No. of eventsEvents per 100
+patient-yearsb
+Participants with ≥1 adverse eventc390 (95.8) 4035 766.9 196 (96.1) 1325 506.9
+Adverse events leading to treatment discontinuation 24 (5.9) 34 6.5 6 (2.9) 6 2.3
+Gastrointestinal disorders 14 (3.4) 20 3.8 0
+Adverse events reported in ≥10% of participantsd
+Nausea 237 (58.2) 511 97.1 45 (22.1) 60 23
+Constipation 150 (36.9) 210 39.9 50 (24.5) 62 23.7
+Diarrhea 147 (36.1) 307 58.3 45 (22.1) 62 23.7
+Vomiting 111 (27.3) 212 40.3 22 (10.8) 25 9.6
+Nasopharyngitis 90 (22.1) 128 24.3 49 (24.0) 70 26.8
+Upper respiratory tract infection 85 (20.9) 115 21.9 44 (21.6) 65 24.9
+Headache 78 (19.2) 123 23.4 20 (9.8) 25 9.6
+Abdominal pain 54 (13.3) 76 14.4 10 (4.9) 11 4.2
+Back pain 54 (13.3) 68 12.9 22 (10.8) 24 9.2
+Dizziness 52 (12.8) 73 13.9 11 (5.4) 14 5.4
+Fatigue 52 (12.8) 69 13.1 15 (7.4) 19 7.3
+Flatulence 47 (11.5) 62 11.8 23 (11.3) 24 9.2
+Gastroenteritis viral 42 (10.3) 47 8.9 13 (6.4) 13 5
+Urinary tract infection 42 (10.3) 61 11.6 10 (4.9) 11 4.2
+Abdominal distention 41 (10.1) 55 10.5 20 (9.8) 28 10.7
+Sinusitis 39 (9.6) 51 9.7 26 (12.7) 34 13
+Adverse events of intereste
+Gastrointestinal disorders 337 (82.8) 1760 334.5 129 (63.2) 333 127.4
+Psychiatric disorders 60 (14.7) 97 18.4 24 (11.8) 31 11.9
+Cardiovascular disordersf40 (9.8) 50 8.9 22 (10.8) 27 9.5
+Allergic reactions 35 (8.6) 41 7.8 19 (9.3) 19 7.3
+Injection site reactions 22 (5.4) 31 5.9 12 (5.9) 16 6.1
+Gallbladder-related disorders 20 (4.9) 24 4.6 3 (1.5) 3 1.1
+Cholelithiasis 13 (3.2) 13 2.5 2 (1.0) 2 0.8
+Hepatic disorders 8 (2.0) 9 1.7 4 (2.0) 5 1.9
+Malignant neoplasmsf3 (0.7) 3 0.5 1 (0.5) 1 0.4
+Hypoglycemia 2 (0.5) 2 0.4 0
+Acute pancreatitisg00
+Acute renal failure 0 0
+Participants with ≥1 serious adverse eventh37 (9.1) 55 10.5 6 (2.9) 7 2.7
+Serious adverse events by SOC reported
+in >1% of participants
+Hepatobiliary disorders 10 (2.5) 13 2.5 0
+Cholelithiasis 7 (1.7) 7 1.3 0
+Acute cholecystitis 3 (0.7) 3 0.6 0
+Cholecystitis 2 (0.5) 2 0.4 0
+Biliary dyskinesia 1 (0.2) 1 0.2 0
+Infections and infestations 8 (2.0) 12 2.3 0
+Appendicitis 3 (0.7) 4 0.8 0
+Abdominal abscess 1 (0.2) 1 0.2 0
+Cellulitis 1 (0.2) 1 0.2 0
+Viral gastroenteritis 1 (0.2) 1 0.2 0
+Large intestine infection 1 (0.2) 1 0.2 0
+Pelvic inflammatory disease 1 (0.2) 1 0.2 0
+Pneumonia 1 (0.2) 1 0.2 0
+Sepsis 1 (0.2) 1 0.2 0
+Urinary tract infection 1 (0.2) 1 0.2 0
+(continued)Research Original Investigation Effect of Subcutaneous Semaglutide on Body Weight in Adults With Obesity
+1410 JAMA April 13, 2021 Volume 325, Number 14 (Reprinted) jama.com
+© 2021 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Pankaj Rajvanshi on 02/07/2024
+Discussion
+Inadultswithoverweightorobesity(withoutdiabetes),once-
+weeklysubcutaneoussemaglutideincreasedmeanweightlossby10.3percentagepointscomparedwithplacebowhenusedadjunctivelywithintensivebehavioraltherapycombinedwithaninitiallow-calorie,meal-replacementprogram.Aprevioustrial, which used a similar program of intensive behavioraltherapy(deliveredwithoutmealreplacements)combinedwithliraglutide,3.0mg,orplacebo,
+10observedmeanlossesof7.5%
+and4.0%ofbaselinebodyweight,respectively,at56weeks.Directcomparisonofeffectsizesinthese2studiesisnotpos-sible because they were obtained in separate trials. A head-to-head comparison of the 2 medicines is being conducted(STEP8,ClinicalTrials.govidentifier: NCT04074161 ).
+The present findings suggest that the addition of sema-
+glutide to intensive behavioral therapy may help patientsachieve more than the average 5% to 10% reduction in bodyweighttypicallyproducedbybehavioralinterventionsat6to12months.
+1,21Weightlosswithbehavioraltherapyoftenpla-
+teaus at this level, despite patients’ continuing to haveobesity.
+22Larger-than-expectedreductionsinrestingandnon-
+resting energy expenditure that occur with weight loss(ie, metabolic adaptation), compensatory changes in otherhomeostatic regulators of body weight, and patients’ behav-ioral fatigue in adhering to diet and activity recommenda-tionsmaycontributetothe5%to10%weightreductionpla-teauobservedwithbehavioraltherapy.
+23-25
+Preclinicalstudiessuggestthatweightlosswithsemaglu-
+tideresultsfromitseffectsonglucagon-likepeptide1recep-torsthatmediatedirectandindirecteffectsonthebrainareasinvolvedinregulationofappetite,includinginthehypothala-mus and hindbrain, ultimately leading to reduced energyintake.
+26A 20-week clinical study of participants with obe-sity found that treatment with once-weekly semaglutide,
+2.4 mg, compared with placebo reduced self-reported hun-gerandfoodcravingsanddecreasedenergyintakeduringanadlibitumlunchby35%.
+27
+Weight losses of 5% or more of baseline weight are asso-
+ciatedlinearlywithimprovementsinseveralobesity-relatedcardiometabolic risk factors and diseases.
+4-8The larger pro-
+portions of participants treated with semaglutide comparedwithplacebowhoachievedcategoricalweightlossesofatleast10%,15%,or20%translatedintogreaterimprovementsinwaistcircumference, blood pressure, glycated hemoglobin level,C-reactive protein level, and several lipid parameters. Ob-served benefits of weight loss might have been larger if par-ticipantshadbeenselectedbecauseofhavingelevatedriskfac-tors(eg,hypertension,hyperlipidemia),whichtheywerenotinthepresentstudy.
+The adverse event and tolerability profile of semaglutide
+inthistrialwasconsistentwiththatoftheglucagon-likepep-tide 1 receptor agonist class
+28,29; gastrointestinal disorders
+were the most commonly reported adverse events. The pro-portion of participants in the semaglutide group whoreported serious adverse events was greater than in the pla-cebogroup,inpartbecauseofahigherincidenceofhepatobi-liary disorders (mainly cholelithiasis). The incidence of hepa-tobiliarydisorderscouldbeattributed,atleastpartly,torapidweightloss,whichisaknownriskfactorforgallstones.
+30The
+remaining events that contributed to the imbalance betweenthe semaglutide and placebo groups were distributed acrossseveral system organ classes, without apparent biologicalrelationshiptosemaglutide.
+A question unanswered by the present study is whether
+intensive behavioral therapy and an initial low-calorie, meal-replacement diet were necessary to achieve the long-termreduction in baseline weight seen with semaglutide. TheSTEP 1 trial examined semaglutide, 2.4 mg, combined withTable 3. Adverse Eventsa(continued)
+EventSemaglutide, 2.4 mg (n = 407) Placebo (n = 204)
+Participants,
+No. (%)No. of
+eventsEvents per 100
+patient-yearsbParticipants,No. (%) No. of eventsEvents per 100
+patient-yearsb
+Musculoskeletal and connective tissue disorders 5 (1.2) 8 1.5 0
+Osteoarthritis 3 (0.7) 4 0.8 0
+Cervical spinal stenosis 2 (0.5) 2 0.4 0
+Back pain 1 (0.2) 1 0.2 0
+Intervertebral disk protrusion 1 (0.2) 1 0.2 0
+Abbreviation: SOC, system organ class.
+aAdverse events that occurred in participants in the safety analysis set are
+included and presented by their preferred terms according to the MedicalDictionary for Regulatory Activities version 22.1. Events were included if thedate of onset was during the on-treatment period (date of first trial productadministration to date of last trial product administration, excluding potentialoff-treatment intervals triggered by at least 2 consecutive missed doses),unless specified otherwise. The investigator (with study staff) was responsiblefor detecting, documenting, recording, and following up on events that metthe definition of an adverse event or serious adverse event. Events weredetected from participant reports at clinic visits or by telephone.
+bEvents per 100 patient-years are calculated as (number of events/patientyears) × 100.
+cIncludes serious adverse events.dMost common adverse events by preferred term reported in at least 10% ofparticipants in either treatment group.
+eIdentified via Medical Dictionary for Regulatory Activities searches.
+fEvent occurred during the in-trial period (time from randomization to last
+contact with trial site, irrespective of treatment discontinuation or rescueintervention).
+gEvent adjudication committee–confirmed event.
+hA serious adverse event was defined as an adverse event that fulfilled at least 1
+of the following criteria: resulted in death, was life threatening, requiredinpatient hospitalization or prolongation of existing hospitalization, resulted inpersistent disability/incapacity, was a congenital anomaly/birth defect, or wasan important medical event.Effect of Subcutaneous Semaglutide on Body Weight in Adults With Obesity Original Investigation Research
+jama.com (Reprinted) JAMA April 13, 2021 Volume 325, Number 14 1411
+© 2021 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Pankaj Rajvanshi on 02/07/2024
+a less-intensive lifestyle intervention program that provided
+behavioral counseling visits every 4 weeks (ie, 18 sessions in68 weeks) and no initial low-calorie, meal-replacementdiet.
+15,31Participants in STEP 1 lost 14.9% of baseline weight
+with semaglutide at 68 weeks, compared with 2.4% for pla-cebo plus the same lifestyle intervention.
+31These findings
+suggest that the inclusion of intensive behavioral therapyplus an 8-week low-calorie diet ultimately may not contrib-ute significant additional weight loss beyond that achievedby semaglutide and less-intensive lifestyle intervention. Fur-ther study is needed of the optimal program of lifestylemodificationrequiredwithsemaglutide,2.4mg.
+Limitations
+Thisstudyhasseverallimitations.First,itcouldnotidentifytheseparatecontributionstoweightlossofintensivebehav-ioral therapy and the initial low-calorie diet in the placebogroupor,aspreviouslyindicated,determinetherelativeben-efitofcombiningeitheroftheseenhancedinterventionswithsemaglutide.Second,thiswasarelativelybrieftrial,whichdid
+notaddresswhethersemaglutide-treatedparticipantswouldsustain their 16% weight reduction if they continued to re-ceivethemedicationpast68weeks.A2-yeartrialofsemaglu-tide,2.4mg,inparticipantswithoverweightorobesityiscur-rently underway (STEP 5, ClinicalTrials.gov Identifier:NCT03693430 ).Third,furtherstudyisneededoftheaccept-
+abilitytopatientsofaninjectablemedicationforobesitycom-paredwithtraditionaloraldelivery.
+Conclusions
+Among adults with overweight or obesity, once-weekly sub-cutaneoussemaglutidecomparedwithplacebo,usedasanad-junct to intensive behavioral therapy and initial low-caloriediet, resulted in significantly greater weight loss during 68weeks.Furtherresearchisneededtoassessthedurabilityofthesefindings.
+ARTICLE INFORMATION
+Accepted for Publication: February 4, 2021.
+Published Online: February 24, 2021.
+doi:10.1001/jama.2021.1831
+Author Affiliations: Department of Psychiatry,
+Perelman School of Medicine, University ofPennsylvania, Philadelphia (Wadden); AMCRInstitute, Escondido, California (Bailey);Department of Medicine, NorthShore UniversityHealthSystem/University of Chicago Pritzker Schoolof Medicine, Skokie, Illinois (Billings); DiabetesResearch Centre, University of Leicester, Leicester,United Kingdom (Davies); NIHR LeicesterBiomedical Research Centre, Leicester GeneralHospital, Leicester, United Kingdom (Davies);National Research Institute, Los Angeles, California(Frias); Novo Nordisk A/S, Søborg, Denmark(Koroleva, Skovgaard, Wallenstein); Departments ofInternal Medicine/Endocrinology and Populationand Data Sciences, University of TexasSouthwestern Medical Center, Dallas (Lingvay);Weight Management Center, Department ofPsychiatry and Behavioral Sciences, MedicalUniversity of South Carolina, Charleston (O’Neil);Washington Center for Weight Management andResearch, Arlington, Virginia (Rubino); Departmentof Nutrition Sciences, University of Alabama atBirmingham (Garvey).
+Author Contributions: Drs Wadden and Garvey
+had full access to all of the data in the study andtake responsibility for the integrity of the data andthe accuracy of the data analysis. All authors hadaccess to the trial results, and reviewed andapproved the final version of the manuscript forpublication.Acquisition, analysis, or interpretation of data: All
+authors.Drafting of the manuscript: Wadden, Billings,
+Koroleva, O'Neil, Rubino, Skovgaard, Garvey.Critical revision of the manuscript for importantintellectual content: All authors.
+Statistical analysis: Skovgaard, Wallenstein.
+Administrative, technical, or material support:Wadden, Rubino, Skovgaard.Supervision: Wadden, Bailey, Koroleva, Skovgaard.Conflict of Interest Disclosures: Dr Wadden
+reports receiving grants from Novo Nordisk (fromgrant support to the University of Pennsylvania)and personal fees from Novo Nordisk for service ona scientific advisory board during the conduct ofthe study, as well as personal fees from WWInternational (formerly Weight Watchers) forservice on a scientific advisory board outside thesubmitted work. Dr Bailey reports receiving grants,personal fees, and nonfinancial support (writingassistance) from Novo Nordisk during the conductof the study. Dr Billings reports receiving personalfees from Novo Nordisk, Sanofi, and Eli Lilly outsidethe submitted work. Dr Davies is co-funded by theNIHR Leicester Biomedical Research Centre andreports receiving consulting fees from NovoNordisk; advisory board member, speaker, andconsulting fees from Sanofi-Aventis, Eli Lilly, MerckSharp & Dohme, Boehringer Ingelheim,AstraZeneca, and Janssen; advisory board feesfrom Lexicon, Servier, and Gilead Sciences Ltd;speaker fees from Napp Pharmaceuticals; andgrants from Novo Nordisk, Sanofi-Aventis, Lilly,Boehringer Ingelheim, AstraZeneca, and Janssenoutside the submitted work. Dr Frias reportsreceiving research support grants from NovoNordisk during the conduct of the study; grants andpersonal fees from Boehringer Ingelheim, Eli Lilly,Merck, Novo Nordisk, and Sanofi; and grants fromJanssen and Pfizer outside the submitted work.Dr Koroleva reports being an employee of NovoNordisk A/S and holding shares in the company.Dr Lingvay reports receiving advisory board feesand consulting fees from AstraZeneca, consultingfees from Bayer HealthCare Pharmaceuticals, EliLilly and Company, Intarcia, InterceptPharmaceuticals, Janssen Global Services,MannKind Corporation, Target Pharma, Valeritas,and Zealand Pharma; advisory board fees fromBoehringer Ingelheim and Sanofi US Services; grantsupport, paid to UT Southwestern, from Merck;grant support, paid to her institution, from MylanPharmaceuticals and Pfizer; grant support, paid toUT Southwestern; and advisory board fees,consulting fees, and travel support from NovoNordisk. Dr O'Neil reports receiving grants fromNovo Nordisk during the conduct of the study;grants from Epitomee Medical, Eli Lilly, and WW
+International; and personal fees from Robard,Gedeon Richter, WebMD, and Novo Nordisk outsidethe submitted work. Dr Rubino reports receivingwriting assistance from Novo Nordisk during theconduct of the study; serving as a clinicalinvestigator for AstraZeneca, Boehringer Ingelheim,and Novo Nordisk; and reports owning NovoNordisk shares of stock outside the submittedwork. Dr Skovgaard reports spousal employment atNovo Nordisk. Dr Wallenstein reports receivingpersonal fees from Novo Nordisk during theconduct of the study and outside the submittedwork. Dr Garvey reports receiving grants from NovoNordisk; serving as site principal investigator for theclinical trial, which was sponsored by his universityduring the conduct of the study; receiving grantsfrom Lexicon and Pfizer outside the submittedwork; and serving as an ad hoc consultant onadvisory committees for Jazz Pharmaceuticals,Boehringer Ingelheim, Novo Nordisk, and Pfizer.In each instance, he received no financialcompensation, nor was there a financialrelationship. No other disclosures were reported.
+Funding/Support: This trial was funded by Novo
+Nordisk A/S.
+Role of the Funders/Sponsors: Representatives of
+the sponsor (Novo Nordisk A/S) were involved inthe design and conduct of the study; collection,management, analysis, and interpretation of thedata; and preparation, review, and approval of themanuscript. Data were gathered by the siteinvestigators, and the sponsor performed study siteoversight, data collation, and analysis. A medicalwriter (Nicola Beadle, PhD, of Axis, a division ofSpirit Medical Communications Group Ltd, fundedby the sponsor) assisted with drafting themanuscript, under the direction of the authors. Thesponsor did not have the right to veto publicationor to control the decision regarding to which journalthe manuscript was submitted. These decisionsresided with the authors.
+Group Information: A list of the STEP 3
+Investigators appears in eAppendix 1 inSupplement 1 .Research Original Investigation Effect of Subcutaneous Semaglutide on Body Weight in Adults With Obesity
+1412 JAMA April 13, 2021 Volume 325, Number 14 (Reprinted) jama.com
+© 2021 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Pankaj Rajvanshi on 02/07/2024
+Meeting Presentation: Presented at the 38th
+annual meeting of the Obesity Society, November5, 2020.
+Data Sharing Statement: SeeSupplement 4 .
+Additional Contributions: We thank all
+participants, investigators, and trial staff who wereinvolved in the conduct of the trial, as well as JenaTronieri, PhD, at the Perelman School of Medicine atthe University of Pennsylvania, who wascompensated by Novo Nordisk to supervise thedelivery of intensive behavioral therapy byregistered dietitians at the study sites. We alsothank Lisa von Huth Smith, PhD (an employee ofNovo Nordisk A/S) for review of and input toaspects related to patient-reported outcomes inthe manuscript.
+REFERENCES
+1. Jensen MD, Ryan DH, Apovian CM, et al;
+American College of Cardiology/American HeartAssociation Task Force on Practice Guidelines;Obesity Society. 2013 AHA/ACC/TOS guideline forthe management of overweight and obesity inadults: a report of the American College ofCardiology/American Heart Association Task Forceon Practice Guidelines and the Obesity Society.Circulation . 2014;129(25)(suppl 2):S102-S138. doi: 10.
+1161/01.cir. 0000437739.71477.ee
+2. Heymsfield SB, van Mierlo CA, van der Knaap
+HC, Heo M, Frier HI. Weight management using ameal replacement strategy: meta and poolinganalysis from six studies. Int J Obes Relat Metab
+Disord . 2003;27(5):537-549. doi: 10.1038/sj.ijo.
+0802258
+3. Wadden TA, Foster GD, Sarwer DB, et al. Dieting
+and the development of eating disorders in obesewomen: results of a randomized controlled trial. Am
+J Clin Nutr . 2004;80(3):560-568. doi: 10.1093/
+ajcn/80.3.560
+4. Wing RR, Lang W, Wadden TA, et al; Look
+AHEAD Research Group. Benefits of modest weightloss in improving cardiovascular risk factors inoverweight and obese individuals with type 2diabetes. Diabetes Care . 2011;34(7):1481-1486. doi:
+10.2337/dc10-2415
+5. Garvey WT, Mechanick JI, Brett EM, et al;
+Reviewers of the AACE/ACE Obesity ClinicalPractice Guidelines. American Association ofClinical Endocrinologists and American College ofEndocrinology comprehensive clinical practiceguidelines for medical care of patients with obesity.Endocr Pract . 2016;22(suppl 3):1-203. doi: 10.4158/
+EP161365.GL
+6. Ryan DH, Yockey SR. Weight loss and
+improvements in comorbidity: differences at 5%,10%, 15%, and over. Curr Obes Rep . 2017;6(2):187-
+194. doi: 10.1007/s13679-017-0262-y
+7. Gregg EW, Chen H, Wagenknecht LE, et al; Look
+AHEAD Research Group. Association of an intensivelifestyle intervention with remission of type 2diabetes. JAMA . 2012;308(23):2489-2496. doi: 10.
+1001/jama.2012.679298. Kuna ST, Reboussin DM, Strotmeyer ES, et al;
+Sleep AHEAD Research Subgroup of the LookAHEAD Research Group. Effects of weight loss onobstructive sleep apnea severity: ten-year results ofthe Sleep AHEAD study. Am J Respir Crit Care Med .
+2021;203(2):221-229. doi: 10.1164/rccm.201912-
+2511OC
+9. Wadden TA, Walsh OA, Berkowitz RI, et al.
+Intensive behavioral therapy for obesity combinedwith liraglutide 3.0 mg: a randomized controlledtrial. Obesity (Silver Spring) . 2019;27(1):75-86. doi:
+10.1002/oby.22359
+10. Wadden TA, Tronieri JS, Sugimoto D, et al.
+Liraglutide 3.0 mg and intensive behavioral therapy(IBT) for obesity in primary care: the SCALE IBTrandomized controlled trial. Obesity (Silver Spring) .
+2020;28(3):529-536. doi: 10.1002/oby.22726
+11. Food and Drug Administration. Ozempic
+(semaglutide) injection, for subcutaneous use[prescribing information]. Accessed September 25,2020. https://www.accessdata.fda.gov/drugsatfda_
+docs/label/2020/209637s003lbl.pdf
+12. Ahmann AJ, Capehorn M, Charpentier G, et al.
+Efficacy and safety of once-weekly semaglutideversus exenatide ER in subjects with type 2diabetes (SUSTAIN 3): a 56-week, open-label,randomized clinical trial. Diabetes Care . 2018;41(2):
+258-266. doi: 10.2337/dc17-0417
+13. Ahrén B, Masmiquel L, Kumar H, et al. Efficacy
+and safety of once-weekly semaglutide versusonce-daily sitagliptin as an add-on to metformin,thiazolidinediones, or both, in patients with type 2diabetes (SUSTAIN 2): a 56-week, double-blind,phase 3a, randomised trial. Lancet Diabetes
+Endocrinol . 2017;5(5):341-354. doi: 10.1016/S2213-
+8587(17)30092-X
+14. O’Neil PM, Birkenfeld AL, McGowan B, et al.
+Efficacy and safety of semaglutide compared withliraglutide and placebo for weight loss in patientswith obesity: a randomised, double-blind, placeboand active controlled, dose-ranging, phase 2 trial.Lancet . 2018;392(10148):637-649. doi: 10.1016/
+S0140-6736(18)31773-2
+15. Kushner RF, Calanna S, Davies M, et al.
+Semaglutide 2.4 mg for the treatment of obesity:key elements of the STEP trials 1 to 5. Obesity (Silver
+Spring) . 2020;28(6):1050-1061. doi: 10.1002/oby.
+22794
+16. Food and Drug Administration. Guidance for
+industry: developing products for weightmanagement. Accessed January 20, 2021. https://
+www.fda.gov/media/71252/download
+17. Food and Drug Administration. E9(R1) statistical
+principles for clinical trials: addendum: estimandsand sensitivity analysis in clinical trials. AccessedOctober 22, 2020. https://www.fda.gov/media/
+108698/download
+18. Wharton S, Astrup A, Endahl L, et al. Estimating
+and reporting treatment effects in clinical trials forweight management: using estimands to interpreteffects of intercurrent events and missing data. Int JObes (Lond) . Published online January 18, 2021. doi:
+10.1038/s41366-020-00733-x
+19. McEvoy BW. Missing data in clinical trials for
+weight management. J Biopharm Stat . 2016;26(1):
+30-36. doi: 10.1080/10543406.2015.1094814
+20. Rubin DB. Multiple Imputation for Nonresponse
+in Surveys . John Wiley & Sons; 1987. doi: 10.1002/
+9780470316696
+21. Webb VL, Wadden TA. Intensive lifestyle
+intervention for obesity: principles, practices, andresults. Gastroenterology . 2017;152(7):1752-1764.
+doi:10.1053/j.gastro.2017.01.045
+22. Hall KD, Kahan S. Maintenance of lost weight
+and long-term management of obesity. Med Clin
+North Am . 2018;102(1):183-197. doi: 10.1016/j.mcna.
+2017.08.012
+23. Leibel RL, Seeley RJ, Darsow T, Berg EG, Smith
+SR, Ratner R. Biologic responses to weight loss andweight regain: report from an American DiabetesAssociation research symposium. Diabetes . 2015;
+64(7):2299-2309. doi: 10.2337/db15-0004
+24. Heckman BW, Mathew AR, Carpenter MJ.
+Treatment burden and treatment fatigue as barriersto health. Curr Opin Psychol . 2015;5:31-36. doi: 10.
+1016/j.copsyc.2015.03.004
+25. Sumithran P, Prendergast LA, Delbridge E, et al.
+Long-term persistence of hormonal adaptations toweight loss. N Engl J Med . 2011;365(17):1597-1604.
+doi:10.1056/NEJMoa1105816
+26. Gabery S, Salinas CG, Paulsen SJ, et al.
+Semaglutide lowers body weight in rodents viadistributed neural pathways. JCI Insight . 2020;5(6):
+e133429. doi: 10.1172/jci.insight.133429
+27. Friedrichsen M, Breitschaft A, Tadayon S,
+Wizert A, Skovgaard D. The effect of semaglutide2.4 mg once weekly on energy intake, appetite,control of eating, and gastric emptying in adultswith obesity. Diabetes Obes Metab . 2021;23(3):754-
+762. doi: 10.1111/dom.14280
+28. Bettge K, Kahle M, Abd El Aziz MS, Meier JJ,
+Nauck MA. Occurrence of nausea, vomiting anddiarrhoea reported as adverse events in clinicaltrials studying glucagon-like peptide-1 receptoragonists: a systematic analysis of published clinicaltrials. Diabetes Obes Metab . 2017;19(3):336-347.
+doi:
+10.1111/dom.12824
+29. Nauck MA, Meier JJ. Management of endocrine
+disease: are all GLP-1 agonists equal in thetreatment of type 2 diabetes? Eur J Endocrinol .
+2019;181(6):R211-R234. doi: 10.1530/EJE-19-0566
+30. Weinsier RL, Wilson LJ, Lee J. Medically safe
+rate of weight loss for the treatment of obesity:a guideline based on risk of gallstone formation. Am
+J Med . 1995;98(2):115-117. doi: 10.1016/S0002-
+9343(99)80394-5
+31. Wilding JPH, Batterham RL, Calanna S, et al; the
+STEP 1 Study Group. Once-weekly semaglutide inadults with overweight or obesity. N Engl J Med .
+Published February 10, 2021. doi: 10.1056/
+NEJMoa2032183Effect of Subcutaneous Semaglutide on Body Weight in Adults With Obesity Original Investigation Research
+jama.com (Reprinted) JAMA April 13, 2021 Volume 325, Number 14 1413
+© 2021 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Pankaj Rajvanshi on 02/07/2024

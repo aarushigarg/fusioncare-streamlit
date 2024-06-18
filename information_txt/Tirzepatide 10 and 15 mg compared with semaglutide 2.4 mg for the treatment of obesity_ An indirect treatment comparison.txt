@@ -1,0 +1,596 @@
+ORIGINAL ARTICLE
+Tirzepatide 10 and 15 mg compared with semaglutide 2.4 mg
+for the treatment of obesity: An indirect treatment comparison
+Carel W. le Roux MD1| Emily R. Hankosky PhD2| Duzhe Wang PhD2|
+Raleigh Malik PhD2| Maria Yu MS2| Ana Hickey PhD2| Hong Kan PhD2|
+Mathijs C. Bunck MD2| Adam Stefanski MD2| Luis-Emilio Garcia-Perez MD2|
+Sean Wharton MD3
+1Diabetes Complications Research Centre,
+University College Dublin, Dublin, Ireland
+2Eli Lilly and Company, Indianapolis,
+Indiana, USA
+3McMaster University, York University and
+Wharton Weight Management Clinic, Toronto,
+Ontario, Canada
+Correspondence
+Carel W. le Roux, MD, PhD, Diabetes
+Complications Research Centre, University
+College Dublin, Dublin, Ireland.
+Email: carel.leroux@ucd.ie
+Funding informationEli Lilly and CompanyAbstract
+Aim: To compare the efficacy of tirzepatide 10 and 15 mg with semaglutide 2.4 mg
+using an indirect treatment comparison.
+Materials and Methods: Using SURMOUNT-1 and STEP 1 trial data, mean percent-
+age change in body weight from baseline and odds ratio (OR) of achieving 5% or
+greater weight loss were compared between tirzepatide 10 and 15 mg at week 72 andsemaglutide 2.4 mg at week 68 using matching-adjusted indirect comparison of the
+efficacy estimand. Sensitivity analyses were completed using different methods, includ-
+ing the Bucher method, also using different estimands and/or time points.
+Results: Greater reductions in percentage change in body weight were observed with
+tirzepatide 10 and 15 mg versus semaglutide 2.4 mg (tirzepatide 10 mg mean differ-ence: /C04.67% [95% CI /C05.91%, /C03.43%]; tirzepatide 15 mg mean difference:
+/C05.92% [95% CI /C07.16%, /C04.68%]; both P< .001). Similarly, more participants
+achieved 5% or greater weight loss with tirzepatide 10 mg (OR 2.61 [95% CI 1.48,
+4.57]; P< .001) and 15 mg (OR 2.75 [95% CI 1.57, 4.81]; P< .001) compared with
+semaglutide 2.4 mg. All sensitivity analyses were consistent, except for an OR of
+achieving 5% or greater weight loss with tirzepatide 10 mg using the Bucher method
+to analyse the treatment regimen estimand ( P=.074).
+Conclusions: Currently there are no direct comparisons of tirzepatide and semaglu-
+tide for weight management. Using the matching-adjusted indirect treatment com-
+parison method to compare the efficacy of tirzepatide and semaglutide for chronic
+weight management, this analysis showed greater weight loss with tirzepatide
+10 and 15 mg versus semaglutide 2.4 mg.
+KEYWORDS
+incretin-based therapies, obesity, semaglutide, tirzepatide, weight lossReceived: 27 January 2023 Revised: 2 May 2023 Accepted: 12 May 2023
+DOI: 10.1111/dom.15148
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any
+medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+© 2023 Eli Lilly & Company and The Authors. Diabetes, Obesity and Metabolism published by John Wiley & Sons Ltd.
+2626 Diabetes Obes Metab. 2023;25:2626 –2633. wileyonlinelibrary.com/journal/dom
+
+1|INTRODUCTION
+In the last 50 years, obesity has increased to pandemic levels.1
+The pathogenesis of obesity is comp lex, involving sociocultural,
+environmental, genetic, physiological and behavioural factors.Obesity is now recognized as a disease
+2and treatments that induce
+short-term weight loss often fail over time. Effective treatments are
+needed to address the complex and persistent hormonal, metabolicand neurochemical adaptations; poor adherence; and persistence
+experienced by those living with obesity.
+1
+Semaglutide 2.4 mg is a once-weekly glucagon-like peptide-1
+(GLP-1) receptor agonist (RA) that was approved for chronic weightmanagement in June 2021.
+3The phase 3 STEP 1 trial showed that, in
+people with obesity or overweight (without diabetes), semaglutide
+2.4 mg treatment resulted in 16.9% or 14.9% body weight loss usingthe efficacy and treatment regimen estimands, respectively, after
+68 weeks of treatment with mostly mild or moderate adverse events
+(the most frequently reported adverse events were gastrointestinal).
+4
+Tirzepatide is a once-weekly glucose-dependent insulinotropic poly-
+peptide (GIP)/GLP-1 RA that was recently approved in the
+United States for the treatment of people with type 2 diabetes (T2D)and is in development for chronic weight management.
+5In the phase
+3 SURMOUNT-1 study of people with obesity or overweight (without
+diabetes), tirzepatide treatment resulted in mean body weight reduc-tions of up to 22.5% or 20.9% using the efficacy and treatment regi-men estimands, respectively, at week 72, with mostly mild or
+moderate adverse events (the most frequently reported adverse
+events were gastrointestinal).
+6
+Currently, there are no head-to-head studies comparing tirzepa-
+tide with semaglutide for chronic weight management. This study
+aimed to use indirect treatment comparisons (ITCs)7,8using placebo
+as the common comparator to provide evidence on the comparative
+efficacy of tirzepatide 10 and 15 mg versus semaglutide 2.4 mg. As
+baseline characteristics such as gender, baseline body weight and pre-diabetes were hypothesized to be potential effect modifiers,
+9a
+population-adjusted indirect comparison was used to account for dif-
+ferences in the study populations.2|METHODS
+2.1 |Primary analysis
+A systematic literature review was used to identify trials eligible for
+inclusion in the ITC network comparing tirzepatide with semaglutide
+2.4 mg with placebo as the common comparator. The PICOS criteria
+and PRISMA diagram are provided in Table S1and Figure S1, respec-
+tively. The systematic literature review identified three studies eligible
+for inclusion: SURMOUNT-1, STEP 1 and STEP 8. STEP 8 was
+excluded from the analysis based on the pooled placebo arm, whichincluded two placebo arms with different administration schedules.
+10
+By design, the pooling of placebo arms with different administration
+schedules, as in STEP 8, may not be comparable with the
+SURMOUNT-1 and STEP 1 placebo arms.
+Matching-adjusted indirect comparison (MAIC) was conducted
+according to Signorovitch et al.11To reduce bias and enable valid treat-
+ment comparison across trials, we weighted the individualSURMOUNT-1 patient data to match the aggregate data in STEP 1. Indi-
+vidual patient data were not available for STEP 1, but were available for
+SURMOUNT-1. Aggregate published data were used for STEP 1. Thekey baseline characteristics of the participants enrolled in
+SURMOUNT-1 and STEP 1 are summarized in Table
+1. The baseline
+characteristics of patients enrolled in SURMOUNT-1 and STEP 1 wereassessed for differences, especially in variables that are possible effectmodifiers, including gender, prediabetes and baseline body weight.
+MAIC weights individual patient data to match the characteristics of the
+comparator's patient population to weight treatment effect modifiersthat differ between the studies. For the primary analysis, we matched
+for gender because of it being considered the only variable to have dif-
+fered meaningfully between the trials with a standardized difference of0.15. The rest of the baseline characteristics were quite balanced
+between the two studies, with standardized differences of less than 0.1.
+Baseline data for SURMOUNT-1 were reweighted using the method ofmoments to balance gender differences with semaglutide aggregatedata.
+9The MAIC was anchored to the common placebo arm. Figure 1
+shows the ITC network used in the primary and secondary analyses.
+TABLE 1 Key baseline characteristics in the SURMOUNT-1, STEP 1 and weighted SURMOUNT-1 trials
+SURMOUNT-1 ( N=2539) STEP 1 ( N=1961) WeightedaSURMOUNT-1 ( N=2490)
+Mean age (SD), y 44.9 (12.5) 46 (13) 44.9 (12.4)
+Female proportion 67.5% 74.1% 74.1%Mean body weight (SD), kg 104.8 (22.1) 105.3 (21.9) 103.8 (21.7)Mean BMI (SD), kg/m
+238.0 (6.8) 37.9 (6.7) 38.0 (6.8)
+Mean waist circumference (SD), cm 114.1 (15.2) 114.7 (14.6) 113.5 (14.9)Prediabetes proportion at randomization 40.6% 43.7% 40.2%
+Note : Prediabetes defined as fasting blood glucose 100-125 mg/dL (5.6-6.9 mmol/L), 2-hour blood glucose 140-199 mg/dL (7.8-11.0 mmol/L) during oral
+glucose tolerance test and/or HbA1c 5.7%-6.4% (39-47 mmol/mol).Abbreviations: BMI, body mass index; SD, standard deviation.
+aPatient data weights to balance the gender are 1.1 for female and 0.8 for male.le ROUX ET AL. 2627
+ 14631326, 2023, 9, Downloaded from https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.15148, Wiley Online Library on [07/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2.1.1 | Study and participant characteristics
+Study characteristics and key inclusion criteria of the SURMOUNT-1
+and STEP 1 trials are detailed in Table 1. Both trials were double-blind,
+parallel-group, randomized, placebo-controlled, phase 3, multinational
+trials with the same key inclusion criteria of a body mass index (BMI)
+of 30 kg/m2or greater, or a BMI of 27 kg/m2or greater with at least
+one weight-related complication, excluding diabetes.4,6In
+SURMOUNT-1 and STEP 1, background therapy to the treatment and
+placebo arms involved lifestyle interventions, including regular life-style counselling sessions, a deficit of 500 calories per day and at least150 minutes of physical activity per week. There was a difference
+between the studies regarding the timing of the primary endpoint
+(72 vs. 68 weeks for SURMOUNT-1 and STEP 1, respectively) (Table
+2). The titration of tirzepatide to 15 mg per week was 4 weeks longer
+than the titration to semaglutide 2.4 mg per week. For the primary
+analyses, the endpoints were compared at these two time points, con-sistent with the primary endpoints for these studies.
+Primary outcomes were based on the efficacy estimand (referred
+to as the ‘trial product estimand ’in the STEP programme). The effi-
+cacy estimand represented the average treatment effect of tirzepatiderelative to placebo for all participants who had undergone randomiza-
+tion, if the treatment was administered as intended (according to the
+hypothetical strategy in the ICH E9 [R1] addendum14). For continu-ous outcomes, the relative treatment effect was evaluated with the
+mean difference. For binary outcomes, the relative treatment effect
+was evaluated with the odds ratio (OR).
+MAIC was performed using R version 4.1.2.
+2.2 |Outcomes
+The co-primary endpoints were the percentage change in body weight
+from baseline to week 72 (SURMOUNT-1) or week 68 (STEP 1) and thepercentage of participants achieving at least 5% weight reduction at week
+72 (SURMOUNT-1) or week 68 (STEP 1). The predetermined primary
+outcomes for SURMOUNT-1 were with tirzepatide 10 and 15 mg; theoutcomes of the 5 mg dose were considered secondary endpoints. The
+co-primary endpoints were controlled for type 1 error rate in both trials.
+Mean treatment difference (95% CI) and OR (95% CI) are reported.2.3 |Sensitivity analysis
+Six different sensitivity analyses were conducted to assess the robust-
+ness of the findings of the primary analysis, as detailed in Table 3. The
+efficacy estimand was the base case, whereas the treatment regimen
+estimand was specifically evaluated in two sensitivity analyses. The
+treatment regimen estimand (termed ‘treatment policy estimand ’in
+STEP 1) assessed the average treatment effect of tirzepatide relative
+to placebo for all participants who had undergone randomization,
+regardless of treatment discontinuation. Week 72 (SURMOUNT-1)and week 68 (STEP 1) time points were the base case and other time
+points were specifically evaluated in some sensitivity analyses. As
+with the primary analysis, sensitivity analyses 1 and 2 were conductedwith the MAIC method. Sensitivity analysis 1 used the treatment regi-men estimand, while sensitivity analysis 2 compared 68-week data
+from SURMOUNT-1 with 68-week data for STEP 1. To test the
+robustness of the primary analysis and sensitivity analyses 1 and2, sensitivity analyses 3, 4 and 5 were conducted using the Bucher
+method,
+12where the relative treatment effect was directly calculated
+with the aggregate data. Sensitivity analyses 3 and 5 used
+FIGURE 1 Matching-adjusted indirect treatment comparison of
+tirzepatide 10 and 15 mg versus semaglutide 2.4 mg using placebo asthe common comparatorTABLE 2 Overview of the study characteristics and key inclusion
+criteria of the SURMOUNT-1 and STEP 1 trials
+Trial name SURMOUNT-1 STEP 1
+Study design Double-blind,
+parallel-group,randomized,placebo-controlled,phase 3,
+multinationalDouble-blind, parallel-
+group, randomized,placebo-controlled,phase 3,multinational
+Key inclusion
+criteriaBMI≥30 kg/m
+2or
+BMI≥27 kg/m2
+with ≥1 weight-
+relatedcomplication,
+excluding diabetesBMI≥30 kg/m
+2or
+BMI≥27 kg/m2
+with ≥1 weight-
+related complication,excluding diabetes
+Time of primary
+endpoint72 wk 68 wk
+Randomized
+treatmentTirzepatide 5, 10 and
+15 mgSemaglutide 2.4 mg
+No. of randomized
+patients (ratio)2539 (1:1:1:1) 1961 (2:1)
+Key regions of
+enrolmentUnited States,
+Argentina, Mexico,BrazilUnited States, France,
+Germany, India, UK
+Time of study
+conduct2019-2022 2018-2021
+Co-primary
+endpointPercentage change in
+body weight frombaseline to week72 and a weightreduction of 5% or
+more at week 72
+for 10- and 15-mgdosesPercentage change in
+body weight frombaseline to week 68and a weightreduction of 5% or
+more at week 68
+Abbreviation: BMI, body mass index.2628 le ROUX ET AL.
+ 14631326, 2023, 9, Downloaded from https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.15148, Wiley Online Library on [07/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+SURMOUNT-1 week-72 data (sensitivity analysis 3) and week-68
+data (sensitivity analysis 5). Sensitivity analysis 4 accounted for the
+treatment regimen estimand. Sensitivity analysis 6 used the same
+method (MAIC), estimand and analysis time as the primary analysis,reweighted for gender, prediabetes status and baseline weight. Allsensitivity analyses used week-68 data from STEP 1. Individual
+patient weight data of SURMOUNT-1 at week 68 were imputed by
+linear interpolation between individual weight data at week 60 andweek 72.
+3|RESULTS
+There were 1909 participants included in this analysis from the tirze-
+patide 10 and 15 mg and placebo arms from the SURMOUNT-1 study(tirzepatide 10 mg, N=636; tirzepatide 15 mg, N=630; placebo,
+N=643). There were 1961 participants included from STEP 1 (sema-
+glutide 2.4 mg, N=1306; placebo, N=655).
+After matching, baseline characteristics such as age, gender, body
+weight, BMI, prediabetes and waist circumference were balanced
+between the reweighted SURMOUNT-1 and STEP 1 populations withstandardized differences of less than 0.1 (Table
+1).
+Results of the comparison with placebo for percentage change
+from baseline in body weight and percentage of participants achieving5% or greater body weight reduction from baseline at endpoint, as
+reported in SURMOUNT-1 and STEP 1, are shown in Table S2.
+4,6
+3.1 |ITC for percentage change in body weight
+Primary analysis results showed tirzepatide 10 and 15 mg both
+resulted in significantly greater reductions in percentage change in
+body weight compared with semaglutide 2.4 mg (tirzepatide 10 mg
+mean difference: /C04.67% [95% CI /C05.91% to /C03.43%]; tirzepatide15 mg mean difference: /C05.92% [95% CI /C07.16% to /C04.68%];
+P< .001 for both) (Figure 2A).
+The results from the sensitivity analyses (detailed in Table 3)
+accounting for the treatment regimen estimand, SURMOUNT-1 dataat week 68, the Bucher method and/or adjusting for gender, baselineprediabetes status and baseline body weight, were consistent with
+those of the primary analysis (Figure
+2A). In particular, sensitivity anal-
+ysis 1, which examined the treatment regimen estimand, showed amean difference of /C05.56% (95% CI /C06.90% to /C04.22%; P< .001)
+between tirzepatide 10 mg and semaglutide 2.4 mg and a mean differ-
+ence of /C06.80% (95% CI /C08.14% to /C05.46%; P< .001) between tirze-
+patide 15 mg and semaglutide 2.4 mg.
+3.2 |ITC for participants achieving 5% or greater
+reduction in body weight from baseline
+Primary analysis results showed that significantly more participants
+achieved 5% or greater weight loss with tirzepatide 10 mg (OR 2.61,
+95% CI 1.48 to 4.57; P< .001) and 15 mg (OR 2.75, 95% CI 1.57 to
+4.81; P< .001) compared with semaglutide 2.4 mg (Figure 2B).
+The results from the sensitivity analyses (detailed in Table 3)
+accounting for the treatment regimen estimand, SURMOUNT-1 data
+at week 68, the Bucher method and/or adjusting for gender, baselineprediabetes status and baseline body weight, were consistent with
+those of the primary analysis (Figure
+2B). Sensitivity analysis 1, which
+examined the treatment regimen estimand, showed ORs of 3.71 (95%CI 2.39 to 5.70; P< .001) and 4.14 (95% CI 2.66 to 6.49; P< .001)
+between tirzepatide 10 and 15 mg, respectively, compared with sema-
+glutide 2.4 mg. The only sensitivity analysis that did not show a signif-
+icant OR of participants achieving 5% or greater weight loss wassensitivity analysis 4, which accounted for the treatment regimen esti-
+mand using the Bucher method between tirzepatide 10 mg and sema-
+glutide 2.4 mg using week-72 SURMOUNT-1 data ( P=.074).TABLE 3 Details of primary and sensitivity analyses
+Analysis Method Estimand Analysis time
+Primary analysis MAIC (reweight gender) Efficacy estimand Tirzepatide data at week 72 versus semaglutide 2.4 mg
+data at week 68
+Sensitivity analysis 1 MAIC (reweight gender) Treatment regimen estimand Tirzepatide data at week 72 versus semaglutide 2.4 mg
+data at week 68
+Sensitivity analysis 2 MAIC (reweight gender) Efficacy estimand Tirzepatide data at week 68 versus semaglutide 2.4 mg
+data at week 68
+Sensitivity analysis 3 Bucher method Efficacy estimand Tirzepatide data at week 72 versus semaglutide 2.4 mg
+data at week 68
+Sensitivity analysis 4 Bucher method Treatment regimen estimand Tirzepatide data at week 72 versus semaglutide 2.4 mg
+data at week 68
+Sensitivity analysis 5 Bucher method Efficacy estimand Tirzepatide data at week 68 versus semaglutide 2.4 mg
+data at week 68
+Sensitivity analysis 6 MAIC (reweight gender,
+prediabetes status and
+baseline weight)Efficacy estimand Tirzepatide data at week 72 versus semaglutide 2.4 mg
+data at week 68
+Abbreviation: MAIC, matching-adjusted indirect comparison.le ROUX ET AL. 2629
+ 14631326, 2023, 9, Downloaded from https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.15148, Wiley Online Library on [07/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4|DISCUSSION
+Semaglutide 2.4 mg and tirzepatide represent new classes of antiobe-
+sity medications with powerful efficacy, with weight loss of 15% orgreater.
+13This is the first comparison of tirzepatide 10 and 15 mg with
+semaglutide 2.4 mg on percentage change in body weight and partici-
+pants achieving 5% or greater reduction in body weight from baseline inpatients with obesity and overweight and no diabetes. Across analyses,
+additional weight reduction of 4.0%-5.6% and 5.4%-6.8% was observed
+for tirzepatide 10 and 15 mg, respectively, compared with semaglutide2.4 mg. Consistent with this, partici pants were more probable to achieve
+5% or greater body weight loss with either tirzepatide 10 or 15 mg than
+semaglutide 2.4 mg. In the absence of a head-to-head trial, data on com-
+parative efficacy can help providers make relevant clinical decisions tosupport individualized care once tirzepatide is approved for chronic
+weight management
+14and inform pharmacoe conomic assessments.Intentional weight loss has been shown to improve clinical out-
+comes in people with obesity and addi tional benefits are observed with
+greater weight loss. For example, sustained weight loss ranging from 5%
+to 16% can result in clinically meaningful improvements in metabolichealth and weight-related complicatio ns, such as cardiovascular risk fac-
+tors as well as quality of life, depression, genitourinary function and fertil-
+ity, among others.
+15,16Given the relationship between weight loss
+magnitude and clinical outcomes benefit, it could be expected that the
+difference in the magnitude of weig ht loss observed for semaglutide
+2.4 mg (16.9%) and tirzepatide 15 mg ( 20.9%) in their respective clinical
+trials could result in differential clinical benefits, although this will requirefuture research. In this ITC, the magnitude of difference in body weight
+reduction was 4.7% and 5.9% with tirzepatide 10 and 15 mg, respectively,
+compared with semaglutide 2.4 mg. The best evidence for the impact ofweight loss on mortality and long-t erm outcomes will come from appro-
+priately powered randomized controlled trials.Sensitivity analysis 6Sensitivity analysis 5Sensitivity analysis 3Sensitivity analysis 2Sensitivity analysis 4Sensitivity analysis 1Primary analysis
+Mean difference–5.92         (–7.16, –4.68)      < .001
+–6.80         (–8.14, –5.46)      < .001
+–5.68         (–6.90, –4.46)      < .001
+–5.68         (–7.08, –4.28)      < .001
+–5.36         (–7.12, –3.60)      < .001–5.35         (–6.58, –4.12)      < .001
+–5.91         (–7.15, –4.66)      < .001Tirzepatide 15 mg versus semaglutide 2.4 mg
+Favours
+tirzepatideFavours
+semaglutide    Mean
+difference       (95% CI)         P value
+Sensitivity analysis 6Sensitivity analysis 5Sensitivity analysis 3Sensitivity analysis 2Sensitivity analysis 4Sensitivity analysis 1Primary analysis
+odds ratioOR      (95% CI)        P value
+2.75    (1.57, 4.81)    < .001
+4.14    (2.66, 6.49)    < .001
+3.86    (2.08, 7.17)    < .001
+2.03    (1.20, 3.49)       .0091.84    (1.14, 2.97)       .012
+4.53    (2.41, 8.50)    < .001
+2.83    (1.62, 4.95)    < .001Tirzepatide 15 mg versus semaglutide 2.4 mg
+Favours
+sema glutideFavours
+tirzepatide–9 –7 –5 –3 1 –1 3
+–9 –7 –5 –3 1 – 1 3 5 7 9 – 9– 7– 5– 3 1 – 1 3579–9 –7 –5 –3 1 –1 3Sensitivity analysis 6Sensitivity analysis 5Sensitivity analysis 4Sensitivity analysis 3Sensitivity analysis 2Sensitivity analysis 1Primary analysis
+Mean difference–4.67         (–5.91, –3.43)     < .001
+–5.56         (–6.90, –4.22)     < .001
+–4.45         (–5.67, –3.23)     < .001
+–4.48         (–5.88, –3.08)     < .001
+–3.96         (–5.77, –2.15)     < .001
+–4.22         (–5.45, –2.99)     < .001
+–4.57         (–5.82, –3.32)     < .001    Mean
+difference       (95% CI)         P valueTirzepatide 10 mg versus semaglutide 2.4 mg
+Favours
+tirzepatideFavours
+semaglutide
+Sensitivity analysis 6Sensitivity analysis 5Sensitivity analysis 4Sensitivity analysis 3Sensitivity analysis 2Sensitivity analysis 1Primary analysis
+odds ratioTirzepatide 10 mg versus semaglutide 2.4 mg
+Favours
+semaglutideFavours
+tirzepatideOR      (95% CI)        P value
+2.61    (1.48, 4.57)    < .001
+3.71    (2.39, 5.70)    < .001
+2.53    (1.46, 4.39)        .001
+1.99    (1.17, 3.39)      .011
+1.49    (0.96, 2.32)      .074
+3.29    (1.86, 5.81)    < .001
+2.53    (1.62, 4.95)       .001(A) Percentage change in body weight
+(B) ≥ 5% body weight reduction from baseline
+FIGURE 2 Indirect treatment comparison of tirzepatide 10 and 15 mg versus semaglutide 2.4 mg in the change from baseline in A,
+Percentage change in body weight, and B, ≥5% body weight reduction from baseline at endpoint. Primary and sensitivity analyses2630 le ROUX ET AL.
+ 14631326, 2023, 9, Downloaded from https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.15148, Wiley Online Library on [07/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The mechanism(s) through which tirzepatide results in greater
+body weight reduction than semaglutide 2.4 mg are not known. It isknown that semaglutide is a GLP-1 RA
+17and tirzepatide shares this
+property, while also activating GIP receptors.18GLP-1 acts both cen-
+trally19and peripherally20to regulate body weight. Similarly, GIP
+receptors are thought to regulate body weight by modulating appetite
+and food intake based on their distribution and signalling in the cen-
+tral nervous system.21–24Tirzepatide has also been shown to delay
+gastric emptying, although the effect wanes with chronic treatment
+and is not thought to be the key driver of weight loss.25For semaglu-
+tide, findings on gastric emptying have been mixed.26–28Although the
+exact properties of the medications that confer the differences in effi-cacy seen here are unknown, the different mechanisms of action are
+one potential driver that can be considered in future research.
+Studies in people with T2D are consistent with the results
+observed here. In an open-label randomized clinical trial of partici-
+pants with T2D, all doses of tirzepatide (5, 10, 15 mg) resulted in
+greater reductions in body weight and HbA1c than semaglutide1 mg.
+29Similarly, an ITC leveraging data from the SURPASS-2 and
+SUSTAIN FORTE trials showed that tirzepatide 10 and 15 mg resulted
+in significantly greater reductions in body weight and HbA1c thansemaglutide 2.0 mg, while no significant differences were observed
+between tirzepatide 5 mg and semaglutide 2.0 mg.
+14Although the tri-
+als presented and compared here were not designed as weight losstrials and the doses of semaglutide differ, the results are largely con-sistent that tirzepatide confers larger reductions in body weight than
+semaglutide.
+Because of intrinsic difficulties in using ITCs to compare safety
+and tolerability data arising from differences in the collection of safety
+data, adverse events were not analysed. For example, safety data can
+be collected using questionnaires with check boxes, open format, orinvestigator team verbal questioning. Moreover, the majority of the
+SURMOUNT-1 trial was conducted during the COVID-19 pandemic
+(2019-2022), while STEP 1 was completed in early 2021. From themain study publications, similar percentages of participants reportedany adverse event for tirzepatide 10 mg (81.8%), tirzepatide 15 mg
+(78.9%) and semaglutide 2.4 mg (89.7%), with gastrointestinal (nausea,
+diarrhoea and constipation) being the most common.
+4,6Although
+recent work has established a link between gastrointestinal adverse
+events and weight loss among GLP-1 RAs,30in both trials used in the
+current analysis the gastrointestinal events were transient, mild tomoderate in severity, and occurred during the dose escalation period
+of both studies, suggesting that they are not a key driver of weight
+loss. Specifically, the rates of nausea, diarrhoea and constipationfor the tirzepatide doses were 31.0%-33.3%, 21.2%-23.0% and
+11.7%-17.1%, respectively, whereas the rates of nausea, diarrhoea
+and constipation for semaglutide 2.4 mg were 44.2%, 31.5% and23.4%, respectively.
+This study had several strengths. A systematic literature review
+was used to identify eligible studies. Two comparison methods —MAIC
+and Bucher —were used to leverage similarities between the two
+placebo-controlled study designs, inclusion criteria and populations.
+MAIC specifically accounts for any differences in baselinecharacteristics of potential effect modifiers. The placebo group of
+both studies was designed similarly with a prescribed 500-calorie defi-cit and 150-minute activity per week interventions. Notably, the
+impact of the lifestyle intervention in both trials resulted in similar
+body weight reductions of 2.4%. The similar results in the placebogroups of both studies indicate that the lifestyle interventions pre-
+scribed resulted in similar outcomes. Similar baseline characteristics
+were observed between the SURMOUNT-1 and STEP 1 populations,and the population sizes were also similar. Sensitivity analyses 1 and
+4 used the treatment regimen estimand to account for the impact of
+treatment discontinuation or the use of rescue therapy.
+This study also had limitations. Only two studies were eligible for
+inclusion in the analysis. Moreover, there was no access to the individ-
+ual participant data for STEP 1 so aggregate data were used.
+SURMOUNT-1 and STEP 1 had different study durations (72 vs.68 weeks), although sensitivity analyses 2 and 5 were conducted to
+address this. No safety outcomes were formally compared because of
+differences in the collection of such events across trials. The primaryoutcomes for both SURMOUNT-1 and STEP 1 were related to the
+regulatory framework of achieving greater than 5% weight loss. This
+amount of weight loss may no longer be clinically relevant, but analy-sis of the secondary outcomes of greater than 10%, greater than 15%,
+and greater than 20% weight loss was beyond the remit of our analy-
+sis. The present results do not provide information on the lower doseof tirzepatide 5 mg versus semaglutide 2.4 mg as the 5 mg dose wasnot included in the co-primary endpoint of the SURMOUNT-1 trial.
+ITCs will not account for unmeasured confounders and other unob-
+served differences between trials. As a result, findings cannot replacea direct head-to-head trial.
+In conclusion, in this ITC, greater weight loss and better odds of
+achieving 5% or greater body weight reduction were seen with tirze-patide 10 and 15 mg versus semaglutide 2.4 mg. Primary analysis
+results were supported by the sensitivity analysis results, which
+accounted for different estimands, study endpoints and analyticalapproaches to minimize bias. In the absence of a direct head-to-headcomparison, these findings may guide clinical decisions and pharma-
+coeconomic assessment of the most appropriate therapies for chronic
+weight management in patients without diabetes once both treat-ments are approved for chronic weight management.
+AUTHOR CONTRIBUTIONS
+SW, ERH, DW, MY, HK, MCB and L-EG-P designed the study. DW
+and AS collected the data. SW, ERH, DW, RM, MY, AH, HK, MCB,
+L-EG-P and CWlR analysed and interpreted the data. All authors wereinvolved in writing the paper and had final approval of the submitted
+version.
+ACKNOWLEDGEMENTS
+We thank the participants of SURMOUNT-1 and STEP 1, without
+whom this study and these analyses would not have been possible.
+We also thank the investigators of both studies. We also thank Fan-gyu Wang for programming support for these analyses. Eli Lilly and
+Company provides access to all individual participant data collectedle ROUX ET AL. 2631
+ 14631326, 2023, 9, Downloaded from https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.15148, Wiley Online Library on [07/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+during the trial, after anonymization, with the exception of pharmaco-
+kinetic or genetic data. Data are available to request 6 months afterthe indication studied has been approved in the United States and
+European Union and after primary publication acceptance, whichever
+is later. No expiration date of data requests is currently set once dataare made available. Access is provided after a proposal has been
+approved by an independent review committee identified for this pur-
+pose and after receipt of a signed data-sharing agreement. Data anddocuments, including the study protocol, statistical analysis plan, clini-
+cal study report, and blank or annotated case report forms, will be
+provided in a secure data-sharing environment. For details on submit-ting a request, see the instructions provided at
+www.vivli.org . Open
+access funding provided by IReL.
+FUNDING INFORMATION
+Eli Lilly and Company.
+CONFLICT OF INTEREST
+SW reports receiving honoraria and travel expenses and has partici-
+p a t e di na c a d e m i ca d v i s o r yb o a r d sf o rN o v oN o r d i s k ,B a u s c h
+Health, Eli Lilly and Janssen. SW is also the medical director of amedical clinic specializing in weight management and diabetes.
+CWlR reports grants from the Irish Research Council, Science Foun-
+dation Ireland, Anabio and the Health Research Board. He serves onadvisory boards of Novo Nordisk, Herbalife, GI Dynamics, Eli Lilly,Johnson & Johnson, Glia, Keyron and Boehringer Ingelheim. CWlR
+is a member of the Irish Society for Nutrition and Metabolism out-
+side the area of work commented on here. ERH, RM, MY, AH, HK,MCB, AS and L-EG-P are employees and shareholders of Eli Lilly
+and Company. DW is a previous em ployee and shareholder of Eli
+Lilly and Company.
+ORCID
+Carel W. le Roux
+https://orcid.org/0000-0001-5521-5445
+Raleigh Malik https://orcid.org/0000-0002-2797-3545
+Ana Hickey https://orcid.org/0000-0002-0179-6114
+Luis-Emilio Garcia-Perez https://orcid.org/0000-0003-3840-787X
+Sean Wharton https://orcid.org/0000-0003-0111-1530
+PEER REVIEWThe peer review history for this article is available at
+https://www.
+webofscience.com/api/gateway /wos/peer-review/10.1111/dom.
+15148 .
+DATA AVAILABILITY STATEMENT
+Eli Lilly and Company provides access to all individual participant data
+collected during the trial, after anonymization, with the exception ofpharmacokinetic or genetic data. Data are available to request6 months after the indication studied has been approved in the US
+and EU and after primary publication acceptance, whichever is later.
+No expiration date of data requests is currently set once data aremade available. Access is provided after a proposal has been approved
+by an independent review committee identified for this purpose andafter receipt of a signed data sharing agreement. Data and documents,
+including the study protocol, statistical analysis plan, clinical studyreport, blank or annotated case report forms, will be provided in a
+secure data sharing environment. For details on submitting a request,
+see the instructions provided at
+www.vivli.org .
+REFERENCES
+1. Bluher M. Obesity: global epidemiology and pathogenesis. Nat Rev
+Endocrinol . 2019;15(5):288-298. doi: 10.1038/s41574-019-0176-8
+2. Martin WP, le Roux CW. Obesity Is a Disease. In: Haslam D,
+Malhotra A, Capehorn MS, eds. Bariatric Surgery in Clinical Practice .
+Springer International Publishing; 2022:23-28.
+3. Jensterle M, Rizzo M, Haluzik M, Janez A. Efficacy of GLP-1 RA
+Approved for Weight Management in Patients With or Without Dia-betes: A Narrative Review. Adv Ther . 2022;39(6):2452-2467. doi:
+10.
+1007/s12325-022-02153-x
+4. Wilding JPH, Batterham RL, Calanna S, et al. Once-Weekly Semaglu-
+tide in Adults with Overweight or Obesity. N Engl J Med . 2021;
+384(11):989-1002. doi: 10.1056/NEJMoa2032183
+5. De Block C, Bailey C, Wysham C, Hemmingway A, Allen SE,
+Peleshok J. Tirzepatide for the treatment of adults with type 2 diabe-
+tes: An endocrine perspective. Diabetes Obes Metab . 2023;25(1):3-17.
+doi:10.1111/dom.14831
+6. Jastreboff AM, Aronne LJ, Stefanski A. Tirzepatide Once Weekly for
+the Treatment of Obesity Reply. N Engl J Med . 2022;387(15):1434-
+1435. doi: 10.1056/NEJMc2211120
+7. Hoaglin DC, Hawkins N, Jansen JP, et al. Conducting indirect-
+treatment-comparison and network-meta-analysis studies: report ofthe ISPOR Task Force on Indirect Treatment Comparisons GoodResearch Practices: part 2. Value Health . 2011;14(4):429-437. doi:
+10.
+1016/j.jval.2011.01.011
+8. Jansen JP, Fleurence R, Devine B, et al. Interpreting indirect treat-
+ment comparisons and network meta-analysis for health-care decisionmaking: report of the ISPOR Task Force on Indirect Treatment Com-parisons Good Research Practices: part 1. Value Health . 2011;14(4):
+417-428. doi:
+10.1016/j.jval.2011.04.002
+9. Kushner RF, Garvey WT, Hesse D, et al. Once-weekly Subcutaneous
+Semaglutide 2.4 mg Reduces Body Weight in Adults with Overweightor Obesity Regardless of Baseline Characteristics (STEP 1). Journal of
+the Endocrine Society . 2021;5(Suppl 1):A24. doi:
+10.1210/jendso/
+bvab048.046
+10. Rubino DM, Greenway FL, Khalid U, et al. Effect of Weekly Subcuta-
+neous Semaglutide vs Daily Liraglutide on Body Weight in AdultsWith Overweight or Obesity Without Diabetes: The STEP 8 Random-ized Clinical Trial. JAMA . 2022;327(2):138-150. doi:
+10.1001/jama.
+2021.23619
+11. Signorovitch JE, Sikirica V, Erder MH, et al. Matching-adjusted indi-
+rect comparisons: a new tool for timely comparative effectivenessresearch. Value Health . 2012;15(6):940-947. doi:
+10.1016/j.jval.2012.
+05.004
+12. Bucher HC, Guyatt GH, Griffith LE, Walter SD. The results of direct
+and indirect treatment comparisons in meta-analysis of randomizedcontrolled trials. J Clin Epidemiol . 1997;50(6):683-691. doi:
+10.1016/
+s0895-4356(97)00049-8
+13. Rosen CJ, Ingelfinger JR. Shifting Tides Offer New Hope For Obe-
+sity. NE n g lJM e d . 2022;387(3):271-273. doi: 10.1056/
+NEJMe2206939
+14. Vadher K, Patel H, Mody R, et al. Efficacy of tirzepatide 5, 10 and
+15 mg versus semaglutide 2 mg in patients with type 2 diabetes: An
+adjusted indirect treatment comparison. Diabetes Obes Metab . 2022;
+24(9):1861-1868. doi: 10.1111/dom.14775
+15. Ryan DH, Yockey SR. Weight Loss and Improvement in Comorbidity:
+Differences at 5%, 10%, 15%, and Over. Curr Obes Rep . 2017;6(2):
+187-194. doi: 10.1007/s13679-017-0262-y2632 le ROUX ET AL.
+ 14631326, 2023, 9, Downloaded from https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.15148, Wiley Online Library on [07/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+16. Bailey-Davis L, Wood GC, Benotti P, et al. Impact of Sustained
+Weight Loss on Cardiometabolic Outcomes. Am J Cardiol . 2022;162:
+66-72. doi: 10.1016/j.amjcard.2021.09.018
+17. Wegovy [package insert], Bagsvaerd, Denmark: Novo Nordisk A/S.
+2022.
+18. Coskun T, Sloop KW, Loghin C, et al. LY3298176, a novel dual GIP
+and GLP-1 receptor agonist for the treatment of type 2 diabetes mel-litus: From discovery to clinical proof of concept. Mol Metab . 2018;
+18:3-14. doi:
+10.1016/j.molmet.2018.09.009
+19. van Bloemendaal L, Ten Kulve JS, la Fleur SE, Ijzerman RG,
+Diamant M. Effects of glucagon-like peptide 1 on appetite and bodyweight: focus on the CNS. J Endocrinol . 2014;221(1):T1-T16. doi:
+10.
+1530/JOE-13-0414
+20. Holst JJ. The physiology of glucagon-like peptide 1. Physiol Rev .
+2007;87(4):1409-1439. doi: 10.1152/physrev.00034.2006
+21. Adriaenssens AE, Biggs EK, Darwish T, et al. Glucose-Dependent
+Insulinotropic Polypeptide Receptor-Expressing Cells in the Hypo-thalamus Regulate Food Intake. Cell Metab . 2019;30(5):987-996 e6.
+doi:
+10.1016/j.cmet.2019.07.013
+22. Samms RJ, Coghlan MP, Sloop KW. How May GIP Enhance the Ther-
+apeutic Efficacy of GLP-1? Trends Endocrinol Metab . 2020;31(6):410-
+421. doi: 10.1016/j.tem.2020.02.006
+23. Adriaenssens AE, Gribble FM, Reimann F. The glucose-dependent
+insulinotropic polypeptide signaling axis in the central nervous sys-
+tem. Peptides . 2020;125:170194. doi: 10.1016/j.peptides.2019.
+170194
+24. Samms RJ, Sloop KW, Gribble FM, Reimann F, Adriaenssens AE. GIPR
+Function in the Central Nervous System: Implications and Novel Per-
+spectives for GIP-Based Therapies in Treating Metabolic Disorders.Diabetes . 2021;70(9):1938-1944. doi:
+10.2337/dbi21-0002
+25. Urva S, Coskun T, Loghin C, et al. The novel dual glucose-dependent
+insulinotropic polypeptide and glucagon-like peptide-1 (GLP-1) recep-
+tor agonist tirzepatide transiently delays gastric emptying similarly toselective long-acting GLP-1 receptor agonists. Diabetes Obes Metab .
+2020;22(10):1886-1891. doi: 10.1111/dom.14110
+26. Nauck MA, Kemmeries G, Holst JJ, Meier JJ. Rapid Tachyphylaxis of
+the Glucagon-Like Peptide 1 –Induced Deceleration of Gastric Emptying
+in Humans. Diabetes . 2011;60(5):1561-1565. doi: 10.2337/db10-0474
+27. Friedrichsen M, Breitschaft A, Tadayon S, Wizert A, Skovgaard D. The
+effect of semaglutide 2.4 mg once weekly on energy intake, appetite,control of eating, and gastric emptying in adults with obesity. Diabetes
+Obes Metab . 2021;23(3):754-762. doi:
+10.1111/dom.14280
+28. Jensterle M, Ferjan S, Le ˇzaiˇc L, et al. Semaglutide delays 4-hour gas-
+tric emptying in women with polycystic ovary syndrome and obesity.Diabetes Obes Metab . 2023;25(4):975-984. doi:
+10.1111/dom.14944
+29. Frías JP, Davies MJ, Rosenstock J, et al. Tirzepatide versus Semaglu-
+tide Once Weekly in Patients with Type 2 Diabetes. N Engl J Med .
+2021;385(6):503-515. doi: 10.1056/NEJMoa2107519
+30. Horowitz M, Aroda VR, Han J, Hardy E, Rayner CK. Upper and/or
+lower gastrointestinal adverse events with glucagon-like peptide-1receptor agonists: Incidence and consequences. Diabetes Obes Metab .
+2017;19(5):672-681. doi:
+10.1111/dom.12872
+SUPPORTING INFORMATION
+Additional supporting information can be found online in the Support-
+ing Information section at the end of this article.
+How to cite this article: le Roux CW, Hankosky ER, Wang D,
+et al. Tirzepatide 10 and 15 mg compared with semaglutide
+2.4 mg for the treatment of obesity: An indirect treatmentcomparison. Diabetes Obes Metab . 2023;25(9):2626 ‐2633.
+doi:
+10.1111/dom.15148le ROUX ET AL. 2633
+ 14631326, 2023, 9, Downloaded from https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.15148, Wiley Online Library on [07/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

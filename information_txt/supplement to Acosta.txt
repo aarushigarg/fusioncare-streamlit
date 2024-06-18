@@ -1,0 +1,1499 @@
+1 
+ 
+Supplemental material  
+ 
+Contents  
+Supplemental Methods  ...................................................................................................................................................... 2 
+Supplemental Table ............................................................................................................................................................ 6 
+Supplemental Fig ures  ......................................................................................................................................................... 7 
+Supplemental References  ................................................................................................................................................ 10 
+STROBE Statement— Checklist of items that should be included in reports of case -control studies  ............................. 12 
+CONS ORT – Extension  checklist of items for reporting pragmatic trials .......................................................................... 14 
+Protocol:  ........................................................................................................................................................................... 18 
+ 
+ 
+  
+2 
+ 
+Supplemental Methods  
+ 
+Phenotyping study:  
+We studied a total of 450 participants with Obesity (defined as BMI >30 kg/m2). The study was approved by the 
+Mayo Clinic Institutional Review Board, and all participants gave written informed consent following thorough 
+explanation of the study details. Women of childbearing potential had a negative pregnancy test within 48 hours 
+prior to testing. All the studies were performed at the Mayo Clinic Clinical Research Trials Unit after an 8 hour 
+fasting period. Participants completed a screen visit and a phenotype visit with the following tests performed in the order described and compl eted in one day: resting energy expenditure by indirect calorimetry, gastric 
+emptying of solids and liquids by scintigraphy, VAS for appetite score after gastric emptying breakfast, and 
+satiation by means of an ad- libitum buffet meal ingested 4 hours after  the meal used to assess gastric emptying 
+and VAS for appetite score after buffet meal test. We included men and women, age 18 -65 and have a stable 
+weight for the previous 3 months. We excluded patients with recent use of weight loss medications (<6 
+months ), history of abdominal GI surgery other than appendectomy, pregnancy, uncontrolled systemic disease, 
+or medications that might interfere with motility, appetite or absorption.  
+Phenotype tests methods  
+• Resting energy expenditure was assessed by indirect ca lorimetry with a ventilated hood (Parvo Medics, 
+Sandy, UT) (1, 2) . 
+• Gastric emptying (GE) of solids was assessed by scintigraphy using a 320kcal 99mTc-radiolabeled egg, solid-
+liquid meal. The primary endpoint was gastric half -emptying time (GE T 1/2)(3, 4) .   
+• Satiation was measured by ad -libitum buffet meal test measured total caloric intake and macronutrient 
+distribution in the chosen foods from standard foods of known nutrient composition: lasagna (Stouffers, Nestle USA, Inc., Solon, OH, USA]; vanilla pudding (Hunts, Kraft Foods North America, Tarrytown, NY, 
+USA); and skim milk. The total kilocalories of food consumed and macronutrients ingested at the ad libitum 
+meal were analyzed by validated software (ProNutra 3.0; Viocare Technologies Inc., Princeton, NJ, USA) (3);  
+• Appetite Score (hunger, fullness, satisfaction and desire to eat) was assessed by 100- mm visual analog score 
+visual analog score fasting and postpra ndial after the standard meal for GE and after the Ad -libitum meal 
+test; scores were obtained every 30 minutes for 2 hours (5) 
+• DEXA scan (dual energy x -ray absorptiometry) was used to measure body composition(6).  
+• Self-administered questionnaires: assessing affect, physical activity levels, attitudes, body image, and eating 
+behavior; details of each questionnaire are provided below:  
+• AUDIT -C Alcoholism Screening Test (7) - The AUDIT -C is a 3 -item alcohol  screening questionnaire 
+that reliably identifies participants who are hazardous alcohol drinkers or have active alcohol use disorders.   
+•  Eating Disorders Questionnaire  - The Questionnaire on Eating and Weight Patterns -Revised (8), is a 
+valid measure of screening for eating disorders in obese populations (9). 
+• Body Image Satisfaction  - The Multid imensional Body- Self Relations Questionnaire (10, 11) provides a 
+standardized attitudinal assessment of body image, normed from a national body- image survey. Items 
+are rated on a 5 -point scale, ranging from 1=Definitely Disagree to 5=Definitely Agree.  
+3 
+ 
+• Eating Self -Efficacy -  The Weight Efficacy Life- Style Questionnaire (WEL) (12, 13)  is a 20 -item eating 
+self-efficacy scale consisting of a total score and five situational factors: negative emotions, availability, 
+social pressure, physical discomfort, and positive activities. Participants are as ked to rate their 
+confidence about being able to successfully resist the urge to eat using a 10 -point scale ranging from 
+0=not confident to 9=very confident.  
+• Physical Activity Level -  The four -item Physical Activity Stages of Change Questionnaire (14) was 
+utilized to assess the physical activity level of participants.  
+• Exercise behavior - The Exercise Regulations Questionnaire (BREQ -3)(15) as a measure of the 
+continuum of behavioral regulation in exercise psychology research, or as a unidim ensional index of the 
+degree of self -determination. 
+• Barriers to Increasing Physical Activity Participation  - Barriers to Being Active Quiz, What keeps you 
+from being more active? (16). 
+• Three Factor Eating Questionnaire  - is a 21 -item questionnair e, validated, to assess for emotional eating 
+disorders and food cravings.(17)   
+Statistical Analysis : with the intention to translate a quantifiable and reproducible obesity -phenotype 
+classification based o n a specific a priori  determined cutoff, we selected the 75th percentile of each 
+measurement in the first 100 females and males and then applied this cut -off to characterize the function for 
+each phenotype (table 1).  We used this cutoff to identify the pr evalence of the five distinct phenotypes among 
+the patients with obesity (Figure 1b). No further statistical analysis was performed as the obesity phenotypes 
+described in figure s 2A-D as they were a priori  determined cutoff, and therefore will be artificia lly statistically 
+significant.  
+Phenotype- guided pharmacotherapy  
+Rationale: Our basic hypothesis is that the classification of obesity based on pathophysiological phenotypes, 
+serves as a clinical tool to identify the best responders to obesity interventions directed at their unique pathophysiological abnormalities. We tested 
+the ‘actionable phenotype’ classification by assessing weight loss 
+in response to tailored obesity treatment.  This approach could complement other approached in prevention of 
+disease progression, consistent with the NIH -Precision Medicine Initiative (18). 
+We previously tested the obesity phenotype approach with three FDA -approved me dications in, 
+randomized, double -blinded, placebo -controlled, proof -of-concept clinical trials (3, 6, 19)  and showed that a 
+phenotype -tailored application may predict best responders for the following medications: Phentermine -
+topirama te ER for the hungry brain phenotype (3),; and exenatide and liraglutide for the hungry gut phenotype (6, 
+19). Additionally, the best responders for FDA -approved intragastric balloons may be patients with a hungry 
+gut phenotype (20).  
+ 
+Design and Eligibility Criteria:  
+A comprehensive, prospective, pragmatic trial of phenotype -guided anti -obesity medications in patients with 
+obesity in a multidisciplinary weight loss clinic was approved by the Mayo Clinic Institutional Review Board 
+(IRB 17 -001068) and included patients e nrolled between June 1, 2017 and June 30, 2019. Treatment decisions 
+were determined a priori  by a management approach; supported by our previously completed trials as well as 
+the medications predominant mechanism of action (see below phenotype -guided anti -obesity medication 
+guideline). We report the outcomes of 84 obesity phenotype -guided treated patients compared to 228 non-
+phenotype treated patients (standard of care), who were assigned to either group based on clinical schedule 
+4 
+ 
+availability. The phenotype -guided group had their phenotype measured by clinically available tests (satiation 
+test: nutrient drink test; satiety test: gastric emptying by scintigraphy; emotional hunger: validated 
+questionnaires; and slow burn: indirect calorimetry resting energy e xpenditure). Patients outcomes were tracked 
+through integrated medical record query tools (ACE -Advanced Cohort Explorer - and i2b2- Informatics for 
+Integrating Biology and the Bedside ) and data was gathered from the electronic medical record. Participants 
+included in the analysis met these inclusion criteria: 1) patients with a BMI ≥27 kg/m2 with adiposity -related 
+co-morbidities or patients with BMI ≥30 kg/m2 with or without adiposity- related co -morbidities; 2) patients 
+prescribed FDA -approved anti -obesity me dications; 3) follow -up of at least 3 months; and, 4) two or more face -
+to-face visits with one of the physicians at the Mayo Clinic Weight Management Program. We excluded all 
+patients who: 1) had prior major gastrointestinal surgery; 2) had prior endoscopi c weight loss intervention; 3) 
+did not fill the medication prescription due to health insurance coverage denial and/or high drug cost, and 4) were taking FDA -approved anti -obesity medications prior to the first visit to the Mayo Clinic Weight 
+Management Pr ogram, since such a prior prescription may conceivably confound the weight loss outcomes. All 
+the information was collected from physician’s documentation including outcomes and adverse events. See CONSORT -extention guidelines checklist below .  
+ 
+Mayo Clini c Weight Management Program: The Mayo Clinic Weight Management program involves a 
+multidisciplinary team that includes 8 physicians (with an average experience in obesity medicine practice o f 15 
+years), registered dietitians, advanced practice providers (Nurse Practitioners, Physician Assistants) and behavioral psychologists.  Upon initial evaluation, patients are encouraged to meet with a dietitian and with the 
+behavioral psychology team.  Al l patients are encouraged but not obligated to participate in a standardized 12 
+week behavioral program.  The general recommendations are to 1) reduce dietary intake to 1200–1500 calories 
+per day for women and 1500–1800 calories per day for men, 2) achieve  a goal of 10,000 steps or more per day 
+and 150 minutes or more of cardiovascular exercise per week, and 3) limit the consumption of liquid calories 
+(sodas, juices, alcohol, etc.). Calorie restriction and counselling on activity might vary widely based on 
+comorbidities and functional capacity.  
+ 
+Flow of Participants in Pragmatic trial: Participants were assigned to a clinical appointment with a provider 
+(MD/NP) offering either standard of care or phenotype -guided pharmacotherapy or phenotype -guided 
+pharmaco therapy. The random assignment was performed when patients requested an appointment, not by a 
+randomization code and allocation sequence, in order to reflect as much as possible, the principles of a 
+pragmatic trial (21, 22)   (supplemental figure 1).  
+ 
+Interventions: Patients prescribed with anti- obesity pharmacotherapy were divided into two groups: a group that 
+received pharmacotherapy based on their phenotype, and a group of patients that were prescribed an anti -
+obesity medication for other reasons (insurance coverage, previous success/non- success, avoidance of side 
+effects, and patient preference). Patients were scheduled to return for follow -up visits at 3, 6, 9 and 12 months 
+after anti -obesity pharmacotherapy is initiated. During each visit, information on weight l oss, adherence to 
+medications and recommendations, and side effects were collected.  
+ 
+Non-Phenotype -guided Pharmacotherapy for Obesity (Control group or Standard of care)  
+Standard of care pharmacotherapy for obesity recommends the following doses and regime n for weight 
+loss: 
+5 
+ 
+- Phentermine: 15- 37.5 mg oral daily 
+- Phentermine -Topiramate Extended Release (Qsymia®) at dose of 3.23/23 mg to 15/82 mg oral 
+daily  
+-  Locarserin (Belviq®) at 10 -  20 mg daily 
+- Oral naltrexone extended -release/bupropion extended- release (NBSR; Contrave®) at dose of 
+32/360 mg oral daily (divided in 2 tables in morning and 2 tablets in evening)  
+- Liraglutide (Saxenda®) at dose of 3 mg subcutaneous daily  
+ 
+There is currently no gold- standard or first choice for obesity pharmacotherapy and physicians selected 
+the medication to use on their patients based on physician/patient preference, medication interactions, 
+comorbidities, risk of potential adverse events or insurance coverage (23-25). 
+ 
+Phenotype -guided Pharmacotherapy for Obesity (Intervention group)  
+Participants in the phenotype -guided pharmacotherapy for obesity group received their medication based 
+on their obesity phenotype:  
+- Hungry brain (abnormal satiation): Phentermine -Topiramate Extended Release (Qsymia®) at 
+dose of 7.5/46 mg oral daily; or Loc arserin (Belviq®) at 20 mg daily 
+- Hungry Gut (abnormal satiety):  Liraglutide (Saxenda®) 3 mg SQ daily  
+- Emotional Hunger (abnormal hedonic eating): Oral naltrexone extended -release/bupropion 
+extended -release (NBSR; Contrave®) at dose of 32/360 mg oral daily (divided in 2 tables in 
+morning and 2 tablets in evening);  or 
+- Slow Burn (low predicted energy expenditure): Phentermine 15 mg daily plus increase resistance training.  
+ 
+Study End- Points : In this comprehensive, prospective, pragmatic trial of phenotype -guided anti -obesity 
+medications the primary end- point was the percentage weight loss during 1- year follow -up for patients 
+prescribed a FDA -approved anti -obesity medication. Thirty -two patients were excluded because they did not 
+meet the inclusion criteria  due to “no” phenotype or were not able to start ‘assigned’ medication . There were no 
+difference in demographics in the excluded patients (age [mean ± SEM)]: age 45.7 ± 2.3 years old, BMI 40.6 ± 
+1.6 kg/m2, 75% females, 100% white, fasting glucose 107 ± 4.3 mg/dl) . 
+ 
+The modified intention -to-treat cohort was defined, in accordance with protocol, as patients who were enrolled, 
+received treatment and had at least 1 follow -up visit during the following 12 months.  We used the last 
+observation carried forward to appraise trea tment efficacy. A per protocol analysis was based on participants 
+who completed 3, 6, 9, or 12 months of treatment and follow -up. Secondary endpoints included the proportion 
+of patients who had a reduction from baseline body weight of ≥5%, ≥10%, ≥15% and ≥ 20%.  
+ 
+Statistical analysis: All continuous data are summarized as means and SEM. Categorical data are presented as 
+frequencies and percentages. We used Pearson χ2 and unpaired Student, two -tailed  t-test for between -group 
+comparisons for baseline nominal and ordinal variables. All P -values <0.05 were considered statistically 
+significant.  
+ 
+  
+6 
+ 
+Supplemental Table  
+ 
+Supplemental table 1: Participants characteristics and outcomes of anti-obesity pharmacotherapy in a phenotype -
+guided intervention vs. non -phenotype guided intervention (standard of care) in sub -cohort of patients with obesity and 
+type 2 diabetes. Data shown in Mean ± SEM.  
+Characteristic  Variable  Phenotype 
+Guided Therapy  Non -Phenotype 
+Guided Therapy  Difference (95% 
+CI) P-value  
+Patient 
+Demographics  N 21 67   
+Age, y  48 ± 3.3  54 ± 1.9  -6.5 ( -14 to 1.3)  0.10  
+Gender (F), %  63 55  0.53  
+Race (White), %  84 97  0.04  
+Weight (kg)  123 ± 4.7  128 ± 2.7  -5.0 ( -16 to 6.1)  0.36  
+Height (cM)  170 ± 1.8  170 ± 1.2  0.3 ( -3.9 to 4.6)  0.88  
+BMI, kg/m2 42.4 ± 1.4  44.4 ± 0.9  -1.9 ( -5.4 to 1.4)  0.25  
+Blood Presure (SBP),mmHg  128 ± 5.5  132 ± 2.1  -4.7 ( -17 to 7.5)  0.43  
+Blood Presure (DBP),mmHg  79 ± 3.9  76 ± 1.4 2.5 ( -6.2 to 11)  0.55  
+Fasting Glucose, mg/dl  158 ± 28  157 ± 13.4  1.1 ( -184 to 186)  0.97  
+Hemoglobin A1C, %  6.5 ± 0.3  7.7 ± 0.3  -1.2 ( -1.9 to -0.3) 0.008  
+DM medications, #  0.9 ± 0.3  1.5 ± 0.1  -0.6 ( -1.3 to 0.1)  0.09  
+Medications 
+use Naltrexone -Bupropion SR  6 (32%)  6 (9%)   
+0.004  Liraglutide  7 (37%)  40 (60%)  
+Lorcaserin  2 (11%)  0 (0%)  
+Phentermine  0 (0%)  6 (9%)  
+Phentermine -Topiramate ER  4 (20%)  15 (22%)  
+Intervention  Follow up, Months  9.6 ± 1.0  8.4 ± 0.5  1.3 ( -1 to 3.5) 0.27  
+# Follow up Visits  3.3 ± 0.2  3.1 ± 0.1  0.3 ( -0.2 to 0.7)  0.24  
+Pts with  > 1 follow up visit 0 -6 
+months with physician  17 (81%)  60 (91%)   0.50  
+Pts with > 1 follow up visit 6 -
+12 months with physician  11 (52%)  33 (50%)   0.40  
+Pts with  > 1 dietitian visit  4 (21%)  33 (52%)   0.02  
+# Dietitian visits  0.9 ± 0.4  0.82 ± 0.1  0.07 ( -0.8 to 1.0)  0.86  
+Patients with  > 1 psych visit  1 (11%)  25 (39%)   0.10  
+# Behavioral Psych Visits  0.1 ± 0.1  0.7 ± 0.2  -0.6 ( -0.9 to -0.2) 0.006  
+Intervention 
+Outcomes  
+ 
+ Weight loss at 3 months, %  -5.3 ± 0.9  -4.1 ± 0.6  -1.2 ( -3.4 to 1.1)  0.29  
+Weight loss at 6 months, %  -9.7 ± 1.4  -5.3 ± 0.7  -4.4 ( -7.7 to -1.1) 0.01  
+Weight loss at 12 months, %  -12 ± 1.7  -6.3 ± 1.0  -5.7 ( -9.8 to -1.5) 0.009  
+Weight loss at LOCF, %  -10.5 ± 1.3  -6.2 ± 0.7  -4.3 ( -7.3 to -1.3) 0.007  
+Adverse Events  Documented adverse events  3 (16%)  17 (25%)   0.37  
+   
+7 
+ 
+Supplemental Figures  
+ 
+Supplemental F igure 1 . CONSORT -exten sion flow chart.  
+ 
+ 
+ 
+AOM: anti -obesity medication  
+HADS: Hospital anxiety and depression survey  
+  
+
+8 
+ 
+Supplemental Figure 2 .  Water fall plots for each individual weight loss in the whole cohort and per 
+medication. Blue bars = phenotype -guided AOM; red bars = standard of care AOM. Data shown in percentage 
+total body weight loss (TBWL %).    
+-40-30-20-10010
+Obesity TreatmentTBWL(%) at 12 monthsStandard of Care
+Phenotype-Guided
+-40-30-20-10010Phen-Top ER
+Obesity TreatmentTBWL(%) at 12 months
+Standard of Care
+Phenotype-Guided
+-40-30-20-100Phentermine
+Obesity TreatmentTBWL(%) at 12 monthsStandard of Care
+Phenotype-Guided
+-25-20-15-10-50Lorcaserin
+Obesity TreatmentTBWL(%) at 12 months
+Standard of Care
+Phenotype-Guided
+-30-20-10010Liraglutide
+Obesity TreatmentTBWL(%) at 12 months Standard of Care
+Phenotype-Guided
+-25-20-15-10-50Bupropion-Naltrexone
+Obesity TreatmentTBWL(%) at 12 months Standard of Care
+Phenotype-GuidedA
+B C
+D E F
+ 
+9 
+ 
+Supplemental figure 3 . Phenotype -Guided Specific -Anti-obesity Medication Effect on Weight Loss Outcomes. 
+The average percentage of total body weight loss non- phenotype guided (red columns ), and phenotype -guided 
+(blue columns ) treatment at 12 months for each anti -obesity medicat ion. * p<0.05. ***p<0.001.  Data shown in 
+mean +/ - SEM  
+ 
+Phen-Top ER PhentermineLorcaserin
+Bupropion-NaltrexoneLiraglutide-25-20-15-10-50
+MedicationTBWL(%) at 12 monthsStandard of Care
+Phenotype-Guided
+✱✱✱✱✱
+ 
+ 
+  
+10 
+ 
+Supplemental References  
+ 
+1. Borges JH, Guerra- Junior G, Goncalves EM. Methods for data analysis of resting energy expenditure measured 
+using indirect calorimetry. Nutrition. 2019;59:44 -9. Epub 2018/11/13. doi: 10.1016/j.nut.2018.07.015. PubMed PMID: 
+30419499.  
+2. Cooper JA, Watras AC,  O'Brien MJ, Luke A, Dobratz JR, Earthman CP, et al. Assessing validity and reliability of 
+resting metabolic rate in six gas analysis systems. J Am Diet Assoc. 2009;109(1):128 -32. Epub 2008/12/24. doi: 
+10.1016/j.jada.2008.10.004. PubMed PMID: 19103333; Pub Med Central PMCID: PMCPMC2650235.  
+3. Acosta A, Camilleri M, Shin A, Vazquez -Roque MI, Iturrino J, Burton D, et al. Quantitative Gastrointestinal and 
+Psychological Traits Associated With Obesity and Response to Weight- Loss Therapy. Gastroenterology. 2015;14 8(3):537 -
+5460000. doi: 10.1053/j.gastro.2014.11.020.  
+4. Camilleri M, Iturrino J, Bharucha A, Burton D, Shin A, Jeong ID, et al. Performance characteristics of scintigraphic 
+measurement of gastric emptying of solids in healthy participants. Neurogastroenter ology and motility : the official 
+journal of the European Gastrointestinal Motility Society. 2012;24(12):1076. doi: 10.1111/j.1365- 2982.2012.01972.x.  
+5. Blundell J, de Graaf C, Hulshof T, Jebb S, Livingstone B, Lluch A, et al. Appetite control: methodologi cal aspects of 
+the evaluation of foods. Obes Rev. 2010;11(3):251- 70. Epub 2010/02/04. doi: 10.1111/j.1467- 789X.2010.00714.x. 
+PubMed PMID: 20122136; PubMed Central PMCID: PMC3609405.  
+6. Halawi H, Khemani D, Eckert D. Effects of liraglutide on weight, satiat ion, and gastric functions in obesity: a 
+randomised, placebo -controlled pilot trial2017. 890 -99 p.  
+7. Bush K, Kivlahan DR, McDonell MB, Fihn SD, Bradley KA. The AUDIT alcohol consumption questions (AUDIT -C): 
+an effective brief screening test for problem drinking. Ambulatory Care Quality Improvement Project (ACQUIP). Alcohol 
+Use Disorders Identification Test. Arch Intern Med. 1998;158(16):1789 -95. Epub 1998/09/17. PubMed PMID: 9738608.  
+8. Yanovski SZ, Marcus MD, Wadden TA, Walsh BT. The Questionnaire on Eati ng and Weight Patterns -5: an 
+updated screening instrument for binge eating disorder. Int J Eat Disord. 2015;48(3):259 -61. Epub 2014/12/30. doi: 
+10.1002/eat.22372. PubMed PMID: 25545458; PubMed Central PMCID: PMC4374019.  
+9. Cremonini F, Camilleri M, Clark M M, Beebe TJ, Locke GR, Zinsmeister AR, et al. Associations among binge eating 
+behavior patterns and gastrointestinal symptoms: a population -based study. Int J Obes (Lond). 2009;33(3):342 -53. Epub 
+2009/01/14. doi: 10.1038/ijo.2008.272. PubMed PMID: 19139750; PubMed Central PMCID: PMC2754813.  
+10. Cash TF, Green GK. Body weight and body image among college women: perception, cognition, and affect. J Pers 
+Assess. 1986;50(2):290 -301. Epub 1986/01/01. doi: 10.1207/s15327752jpa5002_15. PubMed PMID: 3761129.  
+11. Cash TF. Body -image attitudes: evaluation, investment, and affect. Percept Mot Skills. 1994;78(3 Pt 2):1168 -70. 
+Epub 1994/06/01. doi: 10.2466/pms.1994.78.3c.1168. PubMed PMID: 7936939.  
+12. Ames GE, Heckman MG, Diehl NN, Grothe KB, Clark MM. Further statistical and clinical validity for the Weight 
+Efficacy Lifestyle Questionnaire -Short Form. Eat Behav. 2015;18:115 -9. Epub 2015/06/05. doi: 
+10.1016/j.eatbeh.2015.05.003. PubMed PMID: 26042918.  
+11 
+ 
+13. Koball AM, Clark MM, Collazo -Clavell M, Kellogg T, Ames G, Ebbert J, et al. The relationship among food 
+addiction, negative mood, and eating- disordered behaviors in patients seeking to have bariatric surgery. Surg Obes Relat 
+Dis. 2016;12(1):165 -70. Epub 2015/07/18. doi: 10.1016/j.soard.2015.04.009. PubMed PMID: 2618330 2. 
+14. Clark MM, Novotny PJ, Patten CA, Rausch SM, Garces YI, Jatoi A, et al. Motivational readiness for physical 
+activity and quality of life in long -term lung cancer survivors. Lung cancer. 2008;61(1):117 -22. doi: 
+10.1016/j.lungcan.2007.12.012. PubMed PMID: 18243406; PubMed Central PMCID: PMC2944397.  
+15. Markland D, Tobin V. A modification to the behavioural regulation in exercise questionnaire to include an 
+assessment of amotivation. J Sport Exercise Psy. 2004;26(2):191 -6. doi: DOI 10.1123/jsep.26.2.191.  PubMed PMID: 
+WOS:000221964700002.  
+16. Rubio -Henao RF, Correa JE, Ramirez -Velez R. Psychometric Properties of the Spanish Version of the "Barriers to 
+Being Active Quiz" among University Students in Colombia. Nutr Hosp. 2015;31(4):1708 -16. doi: 
+10.3305/nh.2 015.31.4.8404. PubMed PMID: WOS:000352928200035.  
+17. Karlsson J, Persson LO, Sjostrom L, Sullivan M. Psychometric properties and factor structure of the Three -Factor 
+Eating Questionnaire (TFEQ) in obese men and women. Results from the Swedish Obese Subject s (SOS) study. Int J Obes 
+Relat Metab Disord. 2000;24(12):1715- 25. Epub 2000/12/29. PubMed PMID: 11126230.  
+18. Rosenbaum M, Agurs -Collins T, Bray MS, Hall KD, Hopkins M, Laughlin M, et al. Accumulating Data to Optimally 
+Predict Obesity Treatment (ADOPT): R ecommendations from the Biological Domain. Obesity (Silver Spring). 2018;26 
+Suppl 2:S25 -S34. Epub 2018/03/27. doi: 10.1002/oby.22156. PubMed PMID: 29575784.  
+19. Acosta A, Camilleri M, Burton D. Exenatide in obesity with accelerated gastric emptying: a rand omized, 
+pharmacodynamics study2015.  
+20. Gomez V, Woodman G, Abu Dayyeh BK. Delayed gastric emptying as a proposed mechanism of action during 
+intragastric balloon therapy: Results of a prospective study. Obesity. 2016;24(9):1849 -53. Epub 2016/07/29. doi: 
+10.1002/oby.21555. PubMed PMID: 27465076.  
+21. Ford I, Norrie J. Pragmatic Trials. N Engl J Med. 2016;375(5):454 -63. Epub 2016/08/16. doi: 
+10.1056/NEJMra1510059. PubMed PMID: 27518663.  
+22. Sox HC, Lewis RJ. Pragmatic Trials: Practical Answers to "Real World" Questions. JAMA. 2016;316(11):1205- 6. 
+Epub 2016/09/23. doi: 10.1001/jama.2016.11409. PubMed PMID: 27654606.  
+23. Igel LI, Kumar RB, Saunders KH, Aronne LJ. Practical Use of Pharmacotherapy for Obesity. Gastroenterology. 
+2017;152(7):1765- 79. Epub 2017/02/14.  doi: 10.1053/j.gastro.2016.12.049. PubMed PMID: 28192104.  
+24. Heymsfield SB, Wadden TA. Mechanisms, Pathophysiology, and Management of Obesity. The New England 
+journal of medicine. 2017;376(3):254 -66. Epub 2017/01/19. doi: 10.1056/NEJMra1514009. PubMed PMID: 28099824.  
+25. Acosta A, Streett S, Kroh MD, Cheskin  LJ, Saunders KH, Kurian M, et al. White Paper AGA: POWER -  Practice 
+Guide on Obesity and Weight Management, Education and Resources. Clin Gastroenterol Hepatol. 2017. Epub 
+2017/03/01. doi: 10.1016/j.cgh.2016.10.023. PubMed PMID: 28242319.  
+ 
+ 
+12 
+ 
+STROBE Statement—Checklist of items that should be included in reports of case -control studies  
+ 
+ Item 
+No Recommendation  Page No  
+Title and abstract  1 (a) Indicate the study’s design with a commonly used term in the title 
+or the abstract  1 
+(b) Provide in the abstract an informative and balanced summary of 
+what was done and what was found  1 
+Introduction  
+Background/rationale  2 Explain the scientific background and rationale for the investigation 
+being reported  1,2 
+Objectives  3 State specific objectives, including any prespecified hypotheses  2 
+Methods  
+Study design  4 Present key elements of study design early in the paper  2-4, sup1 -5 
+Setting  5 Describe the setting, locations, and relevant dates, including periods of 
+recruitment, exposure, follow -up, and data collection  2, sup 1 -3 
+Participants  6 (a) Give the eligibility criteria, and the sources and methods of case 
+ascertainment and control selection. Give the rationale for the choice of 
+cases and controls  3, sup 1, 3 
+(b) For matched studies, give matching criteria and the number of 
+controls per case  NA 
+Variables  7 Clearly define all outcomes, exposures, predictors, potential 
+confounders, and effect modifiers. Give diagnostic criteria, if 
+applicable  2-4, sup 1-5 
+Data sources/ 
+measurement  8*  For each variable of interest, give sources of data and details of 
+methods of assessment (measurement). Describe comparability of 
+assessment methods if there is more than one group  2-4, Sup1 -5 
+Bias 9 Describe any efforts to address potential sources of bias  Sup 4 -5 
+Study size  10 Explain how the study size was arrived at  Protocol 16  
+Quantitative 
+variables  11 Explain how quantitative variables were handled in the analyses. If 
+applicable, describe which groupings were chosen and why  2-4, sup1 -5 
+Statistical methods  12 (a) Describe all statistical methods, including those used to control for 
+confounding  4, Sup 3 -5 
+(b) Describe any methods used to examine subgroups and interactions  4, Sup4 -5 
+(c) Explain how missing data were addressed  4, Sup5  
+(d) If applicable, explain how matching of cases and controls was 
+addressed  Sup4 -5 
+(e) Describe any sensitivity analyses  NA 
+Results  
+Participants  13* (a) Report numbers of individuals at each stage of study —eg numbers 
+potentially eligible, examined for eligibility, confirmed eligible, 
+included in the study, completing follow -up, and analysed  4-8, table 1 -2 
+(b) Give reasons for non -participation at each stage  NA 
+(c) Consider use of a flow diagram  Supp 6  
+Descriptive data  14* (a) Give characteristics of study participants (eg  demographic, clinical, 
+social) and information on exposures and potential confounders  4-8, table 1 -3,  
+(b) Indicate number of participants with missing data for each variable 
+of interest table 1 -3 
+13 
+ 
+Outcome data  15* Report numbers in each exposure category, or summary measures of 
+exposure  4-8, table 1 -2 
+Main results  16 (a) Give unadjusted estimates and, if applicable, confounder -adjusted 
+estimates and their precision (eg, 95% confidence interval). Make clear 
+which confounders were adjusted for and why they were included  4-8, table 3  
+(b) Report category boundaries when continuous variables were 
+categorized  Table 1 - 3 
+(c) If relevant, consider translating estimates of relative risk into 
+absolute risk for a meaningful time period  NA 
+Other analyses  17 Report other analyses done —eg analyses of subgroups and interactions, and 
+sensitivity analyses  
+ 7-8, supp 
+table 1  
+Discussion  
+Key results  18 Summarise key results with reference to study objectives  8, 9  
+Limitations  19 Discuss limitations of the study, taking into account sources of potential bias 
+or imprecision. Discuss both direction and magnitude of any potential bias  9 
+Interpretation  20 Give a cautious overall interpretation of results considering objectives, 
+limitations, multiplicity of analyses, results from similar studies, and other relevant evidence  8,9 
+Generalisability  21 Discuss the generalisability (external validity) of the study results  9 
+Other information  
+Funding  22 Give the source of funding and the role of the funders for the present study 
+and, if applicable, for the original study on which the present article is based 9 
+ 
+*Give information separately for cases and controls.  
+ 
+  
+14 
+ 
+CONSORT – Extension  checklist of items for reporting pragmatic trials  
+ 
+Section  Item Standard CONSORT description  Extension for pragmatic trials  Page No  
+Title and abstract  1 How participants were allocated to 
+interventions (eg, “random allocation,” 
+“randomised,” or “randomly assigned”)   1 
+Introduction      
+Background  2 Scientific background and explanation of 
+rationale  Describe the health or health service 
+problem that the intervention is intended 
+to address and other interventions that 
+may commonly be aimed at this 
+problem  1,2 
+Methods      
+Participants  3 Eligibility criteria for participants; 
+settings and locations where the data 
+were collected  Eligibility criteria should be explicitly 
+framed to show the degree to which 
+they include typical participants and/or, 
+where applicable, typical providers (eg, 
+nurses), institutions (eg, hospitals), 
+communities (or localities eg, towns) 
+and settings of care (eg, different 
+healthcare financing systems)  3,4, suppl 3 -
+5 
+Interventions  4 Precise details of the interventions intended for each group and how and when they were actually administered  Describe extra resources added to (or 
+resources removed from) usual settings in order to implement intervention. 
+Indicate if efforts were made to 
+standardise the intervention or if the 
+intervention and its delivery were allowed to vary between participants, 
+practitioners, or study sites  3,4, suppl 2 -
+5 
+Describe the comparator in similar 
+detail to the intervention  4, suppl 4  
+Objectives  5 Specific objectives and hypotheses   2,4, suppl 
+2,3 
+Outcomes  6 Clearly defined primary and secondary 
+outcome measures and, when applicable, 
+any methods used to enhance the quality Explain why the chosen outcomes and, 
+when relevant, the length of follow -up 4 
+15 
+ 
+Section  Item Standard CONSORT description  Extension for pragmatic trials  Page No  
+of measurements (eg, multiple 
+observations, training of assessors)  are considered important to those who 
+will use the results of the trial  
+Sample size  7 How sample size was determined; 
+explanation of any interim analyses and 
+stopping rules when applicable  If calculated using the smallest 
+difference considered impor tant by the 
+target decision maker audience (the 
+minimally important difference) then 
+report where this difference was 
+obtained  4, suppl 4  
+Randomisation—
+sequence 
+generation  8 Method used to generate the random 
+allocation sequence, including details of 
+any restriction (eg, blocking, 
+stratification)   NA  
+Randomisation—
+allocation 
+concealment  9 Method used to implement the random 
+allocation sequence (eg, numbered 
+containers or central telephone), 
+clarifying whether the sequence was 
+concealed until interventions were assigned   3,4, suppl 3 -
+4 
+Randomisation—implementation  10 Who generated the allocation sequence, 
+who enrolled participants, and who 
+assigned participants to their groups   NA 
+Blinding 
+(masking)  11 Whether participants, those administering 
+the interventions, and those assessing the outcomes were blinded to group 
+assignment  If blinding was not done, or was not 
+possible, explain why  NA 
+Statistical methods  12 Statistical methods used to compare 
+groups for primary outcomes; method s 
+for additional analyses, such as subgroup 
+analyses and adjusted analyses   4, suppl 4  
+Results      
+Participant flow  13 Flow of participants through each stage (a 
+diagram is strongly recommended) —
+specifically, for each group, report the 
+numbers of participants randomly 
+assigned, receiving intended treatment, 
+completing the study protocol, and The number of participants or units approached to take part in the trial, the 
+number which were eligible, and 
+reasons for non- participation should be 
+reported  5-8, sup 
+figure 1, 
+table 3 
+16 
+ 
+Section  Item Standard CONSORT description  Extension for pragmatic trials  Page No  
+analysed for the primary outcom e; 
+describe deviations from planned study 
+protocol, together with reasons  
+Recruitment  14 Dates defining the periods of recruitment 
+and follow -up  3 
+Baseline data  15 Baseline demographic and clinical 
+characteristics of each group   5-6, table 3  
+Numbers 
+analysed  16 Number of participants (denominator) in 
+each group included in each analysis and 
+whether analysis was by “intention -to-
+treat”; state the results in absolute numbers when feasible (eg, 10/20, not 50%)   5-8, table 3  
+Outcomes and estimation  17 For each primary and secondary outcome, 
+a summary of results for each group and the estimated effect size and its precision 
+(eg, 95% CI)   5,8, table 3, 
+sup table 1  
+Ancillary 
+analyses  18 Address multiplicity by reporting any 
+other analyses performed, including 
+subgroup analyses and adjusted analyses, indicat ing which are prespecified and 
+which are exploratory   7,8 sup table 
+1 
+Adverse events  19 All important adverse events or side 
+effects in each intervention group   8, table 3  
+Discussion      
+Interpretation  20 Interpretation of the results, taking into 
+account study hypotheses, sources of 
+potential bias or imprecision, and the 
+dangers associated with multiplicity of 
+analyses and outcomes   8, 9 
+Generalisability  21 Generalisability  (external validity) of the 
+trial findings  Describe key aspects of the setting 
+which determined the trial results. 
+Discuss possible differences in other 
+settings where clinical traditions, health 
+service organisation, staffing, or 8, 9 
+17 
+ 
+Section  Item Standard CONSORT description  Extension for pragmatic trials  Page No  
+resources may vary from t hose of the 
+trial 
+Overall evidence  22 General interpretation of the results in the 
+context of current evidence   8, 9 
+ 
+Cite as: Zwarenstein M, Treweek S, Gagnier JJ, Altman DG, Tunis S, Haynes B, Oxman AD, Moher D  for the CONSORT 
+and Pragmatic Trials in Healthcare (Practihc) group. Improving the reporting of pragmatic trials: an extension of the 
+CONSORT statement. BMJ 2008; 337;a2390.  
+  
+18 
+ 
+Protocol:  
+ 
+Individualized Pharmacological Approach to Obesity Management: A Pragmatic Clinical Trial  
+Andres Acosta MD, PhD  
+Mayo Clinic  
+ 
+ PROTOCOL  
+May 18, 2017 
+ 
+Individualized Pharmacological Approach to Obesity Management: A Pragmatic Clinical Trial  
+Co-Principal Investigator s:    
+• Andres Acosta M.D., Ph.D., Division of Gastroenterology and Hepatology, Department of Medicine, 
+Mayo Clinic, Rochester, MN;  
+ 
+Co-Investigator:    
+• Michael Camilleri, M.D.,  Division of Gastroenterology and Hepatology, Department of Medicine, Mayo 
+Clinic, Rochester, MN    
+• Alan R. Zinsmeister, Ph.D., Division of Biomedical Statistics & Informatics, Department of  Health 
+Sciences Research, Mayo Clinic, Rochester, MN.   
+• Duane Burton, M.S. Division of Gastroenterology and Hepatology, Department of Medicine, Mayo Clinic, Rochester, MN   
+ 
+Coordinator:     
+• Judith Davis M.S. Division of Gastroenterology and Hepatology, Department of Medicine, Mayo Clinic, Rochester, MN    
+• Irene Busciglio, B.S. Division of Gastroenterology and Hepatology, Department of Medicine, Mayo 
+Clinic, Rochester, MN    
+Conflict of Interest:  none  
+Andres Acosta MD, PhD  
+Mayo Clinic  
+ 
+ Individualized Pharmacological Approach to Obesity Management: A Pragmatic Clinical Trial  
+ 
+Abstract  -------------------------------------------------------------------------------------------------------------------------- 3 
+Background  --------------------------------------------------------------------------------------------------------------------- 4 
+Treatment for obesity:  ------------------------------------------------------------------------------------------------------ 5 
+Pharmacotherapy  ----------------------------------------------------------------------------------------------------------- 6 
+Phentermine- topiramate extended release:  --------------------------------------------------------------------- 6 
+Oral naltrexone extended- release/bupropion extended- release  ------------------------------------------- 7 
+Liraglutide (saxenda®)  ----------------------------------------------------------------------------------------------- 7 
+Preliminary data  ---------------------------------------------------------------------------------------------------------------- 8 
+Gastrointestinal traits (phenotypes) associated with obesity  ----------------------------------------------------- 9 
+Obesity phenotypes to predict weight loss response:  -------------------------------------------------------------- 9 
+Hypothesis and aims  -------------------------------------------------------------------------------------------------------- 11 
+Significance  ------------------------------------------------------------------------------------------------------------------- 11 
+Research plan  ---------------------------------------------------------------------------------------------------------------- 11 
+Study design:  --------------------------------------------------------------------------------------------------------------- 11 
+Randomization and allocation ------------------------------------------------------------------------------------------ 11 
+Selection participants  ---------------------------------------------------------------------------------------------------- 12 
+Standard of care: intense lifestyle intervention and behavioral treatment  ----------------------------------- 13 
+Pharmacotherapy for obesity  ------------------------------------------------------------------------------------------- 13 
+Standard of care:  ---------------------------------------------------------------------------------------------------- 13 
+- oral naltrexone extended- release/bupropion extended- release  ---------------------------------------- 13 
+Intervention group: pharmacotherapy guided by obesity phenotype ------------------------------------ 13 
+Anthropometrics and phenotype studies  ---------------------------------------------------------------------------- 13 
+General principles of statistical analyses  ---------------------------------------------------------------------------- 15 
+Anticipated results and significance:  ------------------------------------------------------------------------------------ 16 
+Potential pitfalls, precautions taken, and alternative st rategies:  -------------------------------------------------- 16 
+Reference:  --------------------------------------------------------------------------------------------------------------------- 17 
+  
+Andres Acosta MD, PhD  
+Mayo Clinic  
+ 
+ ABSTRACT  
+Introduction:  Obesity prevalence continues to increase worldwide[ 7] and, in the United States, 69% of adults 
+are overweight or obese [8]. Despite advances in understanding of aspects of obesity pathophysiology, weight 
+loss w ith current treatments including diet, exercise, medications, endoscopy and surgery is highly variable [9]. 
+However, there are usually great responders to each therapy, specifically “responders” to medications can lose 
+as much weight and with less side effect s than bariatric surgery. These individuals –  the responders – can 
+benefit from significant weight loss (>15% total body weight loss) which is known to reduce all -cause 
+cardiovascular mortality and morbidity. With the current approach with pharmacotherapy,  less than 20% of 
+patients will lose more than 10% of body weight. Additionally, the high variability in weight loss response has 
+resulted in a poor market penetrance by new medications, devices and surgery. Clearly the one -treatment -fits 
+all is not workin g and obesity management continue to be a hit -or-miss intervention. Thus, it is essential to 
+identify the responders to each intervention, to maximize their weight loss.  Recently, we made significant 
+progress to identify predictors of weight loss using gastrointestinal and behavioral traits (phenotypes) [3]. 
+Obesity can be sub -classified based on specific phenotypes in satiation (21%), gastric capacity (15%), 
+behavioral (13%), gastric sensorimotor (11%) factors and others (40%) [3]. This obesity sub- classification  may 
+predict  weight loss response to pharmacotherapy and bariatric endoscopy  [3, 10-12]. Using this classification, 
+the effect on weight loss of Phentermine- topiramate ER [3], exenatide 5ug and Liraglutide 3mg is maximized 
+[10]. However,  these results were determined retrospectively  (post -hoc analysis)  and each study  was done 
+independently. T hus, t he identification of the obesity phenotype at baseline to guide obesity pharmacotherapy 
+has not been tested yet and the outcome is unknown in the clinical setting . Thus, there is a critical need to 
+study the weight loss outcome using obesity phenotypes to guide therapy for obesity. We hypothesize 
+that t he identification of the obesity phenotype at baseline to guide obesity pharmacotherapy will enhance the 
+weight loss response rate (i .e. percentage of patient with weight loss higher than 10 % at 12 weeks) .  
+Aim:  To compare the weight loss response rate to obesity -phenotype- guided pharmacotherapy vs. controls . 
+Methods:  In a 12 week, pragmatic , 1:1 paralleled controlled trial of 20 0 participants with obesity;  we will 
+compare the weight loss response rate to obesity -phenotype- guided pharmacotherapy vs. standard of care in 
+the Mayo Clinic Weight Management and Nutrition Clinic  (See flow diagram below, Figure 1) . Patients that are 
+interest in Weight Management with medications will be randomized (at the clinical triage scheduling system) 
+to be offered a diagnostic test to use an obesity -phenotype- guided pharmacotherapy (Intervention). A similar 
+cohort who will  not be offered the test wil l be followed in parallel in a prospective manner (standard of care 
+group). When patients are assigned to the physician in the Intervention clinic, they will be offered the 
+diagnostic tests as part of their care, but at no cost for the patient  and the test s will be done under informed 
+consent . The results of the tests  will guide obesity pharmacotherapy  (figure 1 ). All participants will be contact ed 
+at 4 and seen at  12 weeks  (current standard in practice) . All p articipants will receive a  standard intense lifestyle 
+intervention, which consists of 2 -4 visits with registered  dietitian and one visit with a behavioral psychologist . 
+The phenotypic studies include (all performed in same day  in the following order ): Fasting blood collection, 
+resting energy expendi ture, g astric emptying with meal for breakfast,  behavioral questionnaires , and nutri ent 
+drink test for lunch . Blood will be collected assessment of metabolomic biomarkers, gastrointestinal hormones 
+(GLP -1, PYY, CCK, bile acids), DNA  (blood and buccal swab)  and pharmacogenomics . Stool samples for 
+microbiome.  
+Primary endpoint:  Percentage of responders (defined as number of participants who loss 10% or more of 
+total body weight) compared to baseline in the obesity phenotype guided  pharmacotherapy  (intervention) group  
+vs. standard of care at 12 weeks . The secondary end points will be percentage of responders with at least 5% 
+at 4 weeks , 15% at 12 weeks , and 10% at 6 months and 12 months ; side effects of medications and patient  
+satisfaction.   
+Sample size assessment:  We propose a 1:1 design to compare effects of I ntervention compared to Standard 
+of Care in weight loss. The analysis will involve use of 2- way analysis of covariance (ANCOVA) model s with 
+treatment ; and the covariates to be considered incl ude gender, BMI (at baseline).  The current standard of care  
+suggest s that approximate 35% of patients will lose more than 10% of body weight [1, 6, 13-15]. We estimate a 
+detectable effect size difference (Δ) in percentage of responders for the intervention group compare to 
+standard of care of more than 20% (55% intervention vs. 35% control) . Using this proportion of responders [2, 
+5, 16-18], the sample size will be 100  participants in intervention group and 100 participants in standard of care 
+group to demonstrate a treatment -related difference in weight loss (using α=0.05, 80% power, 2- sided t test).  
+Significance:  Our study individualizes obesity treatment to maximize pharmacotherapy outcome based on 
+phenotyping obesity at baseline.   
+Andres Acosta MD, PhD  
+Mayo Clinic  
+ 
+ STUDY FLOW DESIGN:  
+ 
+Pragmatic clinical trial to identify weight loss responders to obesity pharmacotherapy  
+ 
+ 
+  
+
+Andres Acosta MD, PhD  
+Mayo Clinic  
+ 
+ BACKGROUND 
+ 
+Obesity prevalence continues to increase worldwide[ 7] and, in the United States, 69% of adults are 
+overweight or obese [8]. Estimate d costs to the healthcare system are more than $550 billion annually. 
+Increased severity of obesity correlates with a higher prevalence of the associated co -morbidities. Likewise, 
+obesity increases the risk of premature mortality [19]. Obesity affects almost every organ system in the body 
+and increases the risk of numerous diseases including type 2 diabetes mellitus, hypertension, dyslipidemia, 
+cardiovascular disease, and cancer. It is estimated that a man in his twenties with a BMI over 45 will have a 
+22% reduction (13 years) in life expectancy.  
+Despite advances in understanding of aspects of obesity pathophysiology, weight loss with current 
+treatments including diet, exercise, medications, endoscopy and surgery is highly variable [9]. However, there 
+are usually great responders to each therapy, specifically “responders” to medications can lose as much 
+weight and with less side effects than bariatric surgery. These individuals – the responders –  can benefit from 
+significant weight loss  (>15% total body weight loss) which is known to reduce all -cause cardiovascular 
+mortality and morbidity. For example, the high dose of extended release (ER) phentermine -topiramate was 
+associated with an average weight loss of 9.8%; only 48% of patients lost more than 10% of body weight, 
+whereas 30% of patients lost less than 5% body weight [ 5]. Additionally, the high variability in weight loss 
+response has resulted in a poor market penetrance by new medications, devices and surgery. Clearly the one-
+treatment -fits all is not working and obesity management continue to be a hit -or-miss intervention. Thus, it is 
+essential to identify the responders to each intervention, to maximize their weight loss.  Recently, we made 
+significant progress to identi fy predictors of weight loss using gastrointestinal and behavioral traits [3]. 
+Treatment for obesity:  
+The 2013 Obesity Guidelines suggest that to achieve weight loss, an energy deficit is essential. Reducing 
+dietary energy intake below that required for energy balance can be achieved through a reduction of daily 
+calories to 1200- 1500 for women, and 1,500 -1800 for men (kilocalorie levels are usually adjusted for the 
+individual’s body weight and physical activity levels); or estimation of individual daily energy requirements and 
+prescription of an energy deficit of 500 kcal/d or 750 kcal/d. Recommendations for young children through 
+adolescence vary in order to support normal growth and development occurring during these years.  The 
+Academy of Nutrition and Dietetics Evidence Analysis Library recommends no fewer than 900 kcal/day for 6 -12 
+year olds who are medically monitored and no fewer than 1200 kcal/day for 13 -18 year olds (Academy of 
+Nutrition and Dietetics Weight Management Position Paper which provides an overview of a nutrition assessment: http://www.eatrightpro.org/resource/practice/position- and-practi ce-papers/position- papers/weight -
+management).  Evidence supports greatest long- term success with an individualized, structured meal plan in 
+place. A registered dietitian nutritionist can play an important role in designing the nutrition intervention tailor ed 
+to address each patient’s unique needs and circumstances, taking into consideration factors such as insulin resistance. Any diet program that meets this required energy deficit is appropriate to adopt, and comparative 
+trials have shown no long -term superiority between different macronutrient composition or elimination diets. 
+Furthermore, it is important to adhere to a balanced diet that provides a variety of items from all food groups and limits potentially harmful food ingredients like added sugars, sodium and alcohol. Additionally, guidelines  
+recommend limiting or avoiding liquid calories (i.e. sodas, juices, alcohol, etc.). And, finally, the meal plan 
+should be designed in such a way that the individual is likely to follow it.  
+Along with the prescripti on for a reduced calorie diet, a comprehensive lifestyle intervention program should 
+prescribe increased aerobic physical activity (such as brisk walking) for ≥150 min/week (equal to ≥30 min/d 
+most days of the week), and a goal of >10,000 steps per day. Hi gher levels of physical activity, approximately 
+200 to 300 min/wk., are recommended to maintain the weight lost or minimize weight regain in the long term 
+(>1 year ) [20]. The diet and physical activity can be in combination with a hospital/university or commercial 
+behavior program; these are comprehensive lifestyle interventions that us ually provide structured behavior 
+strategies to facilitate adherence to diet and activity recommendations. These strategies include regular self -
+monitoring of food intake, body weight, physical activity, and food cravings. These same behaviors are recommended to maintain lost weight, with the addition of frequent (i.e., weekly or more frequent) monitoring of 
+body weight [21]. 
+Andres Acosta MD, PhD  
+Mayo Clinic  
+ 
+  
+ 
+Figure 2.  Effects of phentermine plus 
+topiramate on bodyweight. Patients with at 
+least 5% and at least 10% weight loss.  [5] 
+Pharmacotherapy  
+In addition to diet, exercise and behavioral modification, pharmacotherapies should be considered as an 
+adjunct to lifestyle changes in patients who have been unable to lose and maintain weight with diet and 
+exercise alone. They should also be considered in people whose history or clinical circumstances require 
+expedited weight loss. Medication should not be used alone, but in combination with an intensive lifestyle 
+program.  
+Pharmacotherapy for the treatment of obesity can be considered if a patient has a body mass index (BMI) ≥ 30 
+kg/m2 or a BMI ≥ 27 kg/m2 with weight -related co -morbidities such as hypertension, type 2 diabetes, 
+dyslipidemia and obstructive sleep apnea[ 21]. Medical therapy should be initiated with dose escalation based 
+on efficacy and tolerability to the recommended dose.  A n assessment of efficacy and safety at least monthly 
+for the first three months and then at least every three months. In patients who have cardiovascular disease, 
+guidelines recommend against prescribing sympathomimetic agents such as phentermine and 
+phentermine/topiramate extended release (ER).  Lorcaserin and orlistat are safer alternatives.  In patients with 
+T2DM, the guidelines suggest antidiabetic agents that promote weight loss such as glucagon- like peptide 
+(GLP -1) analogs which reduce hyperglycemia in addition to the first -line agent for T2DM, metformin[ 22]. 
+Medication / 
+dose  Clinical data  Mean weight change 
+from  baseline after 
+1 year  Weight loss  after 1 year (Proportion 
+of participants)   References  
+>5% >10%  >15%  
+Orlistat  
+120 mg TID  Clinical data from three  
+trials  −6.0 to 10.3  Kg vs 
+−2.6 to 6.1 Kg with 
+placebo  36–67% 
+(vs.16 –
+43.6%) 17 - 38.9  
+(vs. 8.8 – 
+24.8)  NA [13, 23, 24] 
+Phentermine/  
+topiramate ER 
+15 mg/92 mg  QD 1‐year trial, people with 
+obesity (BMI ≥35 kg/m2) −10.9% vs −1.6% with 
+placebo  70% 
+(vs.21%)  48%  
+(vs. 7%)  NA [14] 
+Lorcaserin  
+10 mg BID  2‐year trial, people with 
+obesity or overweight and 
+≥1 comorbidity  −5.8% vs −2.5% with 
+placebo  47% 
+(vs. 23%)  22.6  
+(vs. 7.7)  NA [6] 
+Naltrexone/ 
+bupropion SR  
+32 mg/360 mg   Four 56 ‐week trials, people 
+with obesity and ≥1 
+comorbidity  −5.4% vs −1.3% with 
+placebo (COR ‐I) 42% 
+(vs. 17%)  28.3  
+(vs. 5.7 ) 13.5  
+(vs. 2.4 ) [1] 
+Liraglutide  
+3.0 mg QD 56‐week trial, people with 
+obesity or overweight and 
+≥1 comorbidity  −7.4% vs −3.0% with 
+placebo  62% 
+(vs. 34%)  33.1% 
+(vs. 
+10.6%)  14.4%  
+(vs. 3.5%)  [15] 
+ 
+Phentermine- Topiramate Extended Release:  When low -dose, controlled- release, phentermine was 
+combined with the glutamatergic and GABA -ergic antiepileptic 
+topiramate in a large phase III study (more than 1400 participants 
+on treatment arms wi th different doses), subjects lost 10.2 kg 
+on15/92 mg combination therapy vs. 1.4 kg on placebo over 56 weeks [14]. The most common adverse events were dry mouth, 
+paresthesias, constipation, insomnia, dizziness, and dysgeusia. 
+Depression-  and anxiety -related adverse events were also 
+observed. The medication had favorable effects on glycemia, including prevent progression to diabetes, improvements in lipids, 
+blood pr essure, sleep apnea, and quality of life measures. There 
+was also, as previously noted, a small but consistent increase in 
+pulse rate [ 25]. The overall rate of adverse effects decreased in 
+weeks 56– 108 compared to weeks 0– 56; among which dry 
+mouth, c onstipation and paresthesias were the most prevalent 
+There were 19 pregnancies carried to term during these studies none of which resulted in congenital abnormalities [ 17, 25, 26]. 
+In July 2012, the FDA voted for approval of phentermine (3.75– 15mg/d) plus extended release topiramate (23–
+92mg/d) as an adjunct to diet and physical activity for treatment of obesity among adult individuals with 
+BMI≥30kg/m
+2 or BMI≥27kg/m2 with at least one obesit y-related comorbid condition. The drug will carry a 
+warning of potential increased risk for orofacial clefts in neonates exposed to topiramate during the first 
+Andres Acosta MD, PhD  
+Mayo Clinic  
+ 
+ trimester of gestation and will be subject to a Risk Evaluation and Mitigation Strategy (REMS) t hat will restrict 
+prescribing to trained clinicians, will require effective contraception and monthly pregnancy tests for 
+reproductive age women, and will restrict dispensing to specific mail -order pharmacies. The company is also 
+required to carry a long- term cardiovascular outcomes trial. No randomized pediatric studies have as yet been 
+reported. Noteworthy, the high dose of PhenTop was associated with a mean weight loss of 9.8%; however, 
+only 48% of patients lost >10% of their body weight, and 30 % 
+of pati ents lost <5% of their body weight. The high variability of 
+weight loss response to treatment with PhenTop is unclear.   
+Lorcaserin (Belviq®): The second medication approved by 
+the FDA in 2012 for chronic weight management is 
+lorcaserin[ 27]. It is a serotonin receptor agonist thought to 
+reduce food intake and  increase satiety by selectively 
+activating receptors on anorexigenic POMC neurons in the 
+hypothalamus.  At the recommended dose, lorcaserin 
+selectively binds to 5 -HT2C receptors instead of 5- HT2A and 
+5-HT2B receptors, which are associated with hallucinati ons 
+and cardiac valve insufficiency respectively [28].  The 
+recommended dose of lorcaserin is 10 mg twice daily.  The 
+medication should be discontinued if ≥ 5% weight loss is not 
+achieved after 12 weeks  (Figure 3) [6].  
+Oral naltrexone extended- release/bupropion extended- release (NBSR; Contrave®, Mysimba™) is 
+available as an adjunct to a reduced- calorie diet and increased physical activity in adults with an initial body 
+mass index (BMI) of ≥30  kg/m2 (i.e. obese) or a BMI of ≥27  kg/m2 (i.e. overweight) in the presence of at least 
+one bodyweight -related comorbidity, such as type 2 diabetes mellitus, hypertension or dyslipidemia. In 56 -
+week phase III trials in these patient populations, oral naltrexone ER/bupropion ER 32/360  mg/day was 
+significantly more effective than placebo wi th regard to 
+percentage bodyweight reductions from baseline and the 
+proportion of patients who achieved bodyweight reductions of ≥5 
+and ≥10  % (table 1) [1, 16, 29]. Significantly greater improvements 
+in several cardiometabolic risk factors were also observed with naltrexone ER/bupropion ER versus placebo, as well as greater 
+improvements in glycated hemoglobin levels in obese or 
+overweight adults with type 2 diabetes. Naltrexone ER/bupropion 
+ER was generally well tolerated in phase III trials, with nausea 
+being the most common adverse event (table 2) [16, 29]. Thus, 
+naltrexone ER/bupropion ER 32/360  mg/day as an adjunct to a 
+reduced- calorie diet and increased physical activity is an effective 
+and well -tolerated option for chronic bodyweight management in 
+obese adults or overweight adults with at least one bodyweight -
+related comorbidity.   
+Noteworthy, the high dose of NBSR was associated with a mean 
+weight loss of 8.1%; however, only 34% of patients lost >10% of their body weight, and 62% of patients lost 
+<5% of their body weight. The high variability of weight loss response to treatment with NBSR is unclear.  
+Liraglutide (Saxenda®)  is a glucagon -like peptide -1 (GLP -1) analogue with 97% homology to human GLP -1, 
+a gut derived incretin hormone[ 27]. Liraglutide was approved in 2010 for the treatment of type 2 diabetes at 
+doses up to 1.8 mg daily.  In phase III studies many patients on liraglutide for diabetes lost weight in a dose -
+dependent manner [30] and the efficacy was similar in patients with obesity without diabetes [15]. The FDA 
+approved liraglutide in 2014 as Saxenda at 3.0 mg dose for chronic weight management in patients with 
+obesity.  Weight loss is mediated by reduced energy intake by reducing appetite, increasing satiety and delaying gastric emptying [10, 31]. Liraglutide is administered as a subcutaneous injection once daily.  It is 
+initiated at 0.6 mg daily for one week with instructions to increase by 0.6 mg weekly until 3.0 mg is reached.    
+Figure 4. Effects of naltrexone/bupropion 
+SR on bodyweight. Categorical weight loss 
+in week 28 in completers populations. 
+***P < 0.001 for NB32 vs. Placebo [1] 
+Figure 3: Effects of Lorcaserin on Body weight.  
+The proportions of patients who lost 5% or 
+more or 10% or more of their  
+baseline bo dy weig ht at 1 year are shown [ 6]. 
+
+Andres Acosta MD, PhD  
+Mayo Clinic  
+ 
+  
+Figure 5 shows the proportions of patients who lost at 
+least 5%, more than 10%, and more than 15% of their 
+baseline body weight. Data shown are the observed 
+means for the full -analysis set (with LOCF). [2]. 
+    
+        
+          
+            
+         
+        
+        
+         
+ 
+Slower dose titration is effective in managing 
+gastrointestinal side effects.  The medication should be 
+discontinued if a patient has achieved ≤ 4% weight loss 
+at 16 weeks.  
+The average weight loss in a large NEJM -published trial 
+[2] of liraglutide was ~8% of body weight; 33% of 
+participants lost >10% and 14.4% lost >15% of body weight.   However, 36.8% of patients did not respond to 
+treatment with lira glutide (figure 4). The reason for the 
+high variability of weight loss response to treatment with liraglutide is unclear.  
+Pharmacogenomics   
+Pharmacogenomics  (PGx)  is a new field in individualized 
+medicine generally concerned with genetic 
+polymorphisms in drug -metabolizing enzymes, 
+transporters, receptors, and drug targets that explain inter -individual variation in drug efficacy and toxicity [41].  
+PGx has the potential to improve clinical outcomes by using an individual’s genotype to inform personalization 
+and optimization of drug therapy. A large number of PGx variants with demonstrated clinical utility are known 
+and have been incorporated into drug labeling by the US Food and Drug Administration (FDA) [2].  As the 
+availability of high throughput genomics technology becomes more widespread and the associated cost of 
+genetic testing more economical, opportunities for patients to have precision genomic information to guide 
+healthcare decisions is expected to increase. Integration of genetic data into the clinical decision making process has the potential to significantly advance the practice of precision medicine and in the case of PGx, 
+ultimately affect every patient.   Mayo Clinic’s Individualized Medicine Clinic (within the Center for Individualized 
+Medicine) has established a Pharmacogenomics Testing Service. Largely an interest for “otherwise healthy” 
+patients, or those self -reporting medication struggles, these pat ients can be referred for testing and/or 
+consultation/evaluation by a PGx expert pharmacist who will help facilitate a PGx laboratory test in partnership with the referring physician. The PGx pharmacists can also assist with interpretation of the results —given the 
+newness of the field and level of exposure to PGx testing across physicians.  Though single gene PGx testing has long been used at Mayo Clinic in certain, focused departments for diagnostic or therapeutic reasons, the clinical evidence is expanding to implicate a greater number of genes and medications, laboratories are 
+creating panel tests that cover more genes at a lesser cost than previous single gene tests.  The clinical value 
+of these tests is now becoming more broadly understood. Prescribers who believe their patients have 
+medication metabolism issues can currently tap into the PGx Testing Service by ordering PGx gene tests for 
+diagnostic purposes and requesting a PGx e- consult or patient face to face consult with the PGx pharmacist for 
+result s interpretation assistance. Additionally, a limited number of pilots offering clinical PGx testing primarily 
+for predictive reasons are offered with the Center for Individualized Medicine.  The value of the service 
+includes utilization of PGx testing as a tool for assisting health care providers improve the medication 
+experience of their patients. Patients may also benefit from understand their own PGx variations and the 
+relevance of their results and other family members. The service is also assisting providers in this new and 
+growing field, by providing expertise and support to help prescribers tailor medications for their patients --
+adjusting current mediations according to the patient’s genetic variations and/or providing valuable information 
+for future prescribing events.    
+ 
+ 
+ 
+ 
+Andres Acosta MD, PhD  
+Mayo Clinic  
+ 
+ 
+Figure 6: Potential application of medications and 
+devices directed at phenotypes associated with 
+obesity. Rx, therapy; ER, extended release; GLP -1, 
+glucagon- like peptide 1. Adapted from Camilleri and 
+Acosta, GIE, 2016 [ 4] 
+PRELIMINARY DATA  
+Gastrointestinal traits (phenotypes) associated with obesity : Recently we published the characterized 
+gastrointestinal functions, satiation and satiety , in 509 participants across th e normal weight to obesity 
+spectrum . We found that obesity is associated with decreased satiation (higher caloric intake before feeling full, 
+measure by volume to fullness [VTF] p=0.038),  large fasting gastric volume (GV, p=0.03), accelerated gastric 
+emptying (GE) T 1/2 (solids: p<0.001; liquids: p=0.011),  and lower postprandial peak  plasma levels of PYY 
+(p=0.003) . In addition, principal components (PC) analysis identified latent dimensions (LDs) accounting for 
+~81% of OW -OB variation  and sub -classifies obesity (figure 2) in satiation (21%), gastric capacity (15%), 
+behavioral (13%), gastric sensorimotor (11%) factors and others (40%) [3]. This obesity sub- classification may 
+predict weight loss response to pharmacotherapy 
+and bariatric endoscopy [3].   
+Obesity phenotypes to pr edict weight loss 
+response:  Thus far , we validated the applicability of 
+obesity -related gastrointestinal quantitative traits in 
+two randomized clinical trials [3, 10]. In a single -
+center, randomized, parallel -group, doubl e-blind, 
+placebo- controlled, 14- day study, we evaluated the 
+effects of Phentermine- topiramate -ER (PhenTop)  
+(7.5/46mg, orally, daily) on GE, GV, satiation, satiety, and fasting and postprandial gut hormones in 24 
+obese adults using validated assays. PhenTop is 
+approved for the treatment of obesity. However, its effects on gastric functions, satiation, satiety and 
+relevant gut hormones are unknown. PhenTop was 
+associated with reduced food intake at buffet meal 
+(mean Δ 260kcal, p=0.032) and delayed GE solids 
+(mean Δ GE4h 6%, p=0.03; and Δ GE T½ 19min, 
+p=0.057). There were no significant differences in GV, satiation, GE of liquids and GI hormones. 
+Patients on PhenTop had greater mean weight loss 
+of 1.4kg than placebo (p=0.03). Weight loss on 
+PhenTop was signific antly associated with kcal 
+intake at a prior satiety test.  We concluded that PhenTop reduces food intake and delays GE of solids , suggesting 
+central as well as peripheral mechanisms of action in inducing 
+weight loss and that a prior satiety test predicts  weight loss 
+with PhenTop (Figure  3) [3]. 
+In another placebo- controlled trial, we studied the effect of  
+exenatide, 5µg, SQ, twice daily for 30 days, on GE, satiety, 
+satiation and weight loss in 20 obese participants with accelerated 
+GE. Exenatide had a very significant effect on GE of solids 
+(p<0.001) and reduced calorie intake at a buffet meal by an 
+averag e 130kcal compared to placebo. The average weight loss 
+was 1.3kg for exenatide and 0.5kg for the placebo group. We 
+concluded from this relatively short duration study that exenatide 
+reduces food intake and delays GE of solids ; and that a prior 
+accelerated gastric emptying test predicts  weight loss with 
+exenatide [10]. 
+In a recent retrospective analysis, we have identified that the 
+best responders to the intragastric balloon therapy are those 
+individuals with an accelerated gastric emptying (p<0.001) and the 
+greater delay in gastric emptying after intragastric balloon 
+placement (p<0.001) [12].  
+Quantitative traits - phenotypes are associated with higher 
+Figure 7 : Body weight change by prior 
+satiety test . Association of change in body 
+weight (in response to randomized treatment 
+with placebo or PhenTop) and kcal intake at prior ad-libitum meal. This is shown (p=0.029) 
+for the drug* treatment interaction. [
+3] 
+-3-2-1012Body Weight Change, kg  < 900 kcal
+> 900 kcal
+  Placebo    Phen- Top ER
+  
+*p=0.029  
+Andres Acosta MD, PhD  
+Mayo Clinic  
+ 
+ BMI, distinguish obesity phenotypes, and may predict response to obesity pharmacotherapy and endoscopic 
+devices [3]. However, the tests of quantitative GI traits are currently limited to a few research/academic 
+centers. Thus, we have developed a novel and simple 
+diagnostic- blood- test that predicts weight loss in obesity . 
+The diagnostic test is based on an algorithm that combines 
+candidate gene variants (SNPs), metabolites and metabolic 
+peptides. We recently completed the analysis of 102 patients 
+with obesity, matched for gender, age and BMI. These 
+individuals were non- diabetic and were in not medications for 
+weight loss. Based on the profile of each patient we were able to validate the main groups in obesity in 1) abnormal satiation, 
+2) rapid return to hunger, 3) behavioral eating (identified by 
+questionnaire) and 4) abnormal energy expenditure; plus a 
+“mixed” group.  Once these variables were tested, we first 
+created a combined logit regression model using stepwise 
+variable selection to identify vari ables that are significantly 
+associated with each of the phenotypic classes. The result 
+included a combination 14 metabolites (amino -compounds, 
+neurotransmitters and fatty acids), no candidate gene or 
+metabolic peptide were included/make the cut (The 14 
+metabolites are knowingly not disclosed per MCV/legal 
+request - Mayo IP disclosure No. 2017 -040 and DR16- 520 – 
+unpublished/confidential). Figure 2 shows the sub -
+classification prediction accuracy of this combined model and 
+an ROC analysis showed that this model has >0.90 AUC for 
+all four classes. Next, we set out to derive binary classification 
+models that can predict whether a patient belongs to one 
+group over the others. As preliminary data, we derived Bayesian covariate predictors for abnormal satiation, 
+behavioral eating, and abnormal energy expenditure (detailed models not shown here for lack of space). These 
+models yielded an ROC AUC of 0.9414, 0.9668, and 0.8775. These data suggested that the serum metabolite 
+levels hold all the information needed to pr edict obesity subclasses. We propose to develop a novel targeted 
+panel -based blood assay using the metabolites in these models (both integrated model and independent 
+binary models) and validate them against an independent cohort. We will also extend our st atistical analysis to 
+develop a binary model for predicting whether a patient has rapid return to hunger phenotype.  
+Quantitative traits are associated with higher BMI, distinguish obesity phenotypes, and may predict 
+response to obesity  pharmacotherapy and endoscopic devices (Figure 1 ) [3]. However, these results were 
+determined retrospectively and each of them was done independently. Thus, the identification of the obesity phenotype at baseline to guide obesity pharmacotherapy has not been tested yet and the outcom e is unknown 
+in the clinical setting. Thus, there is a critical need to study the weight loss outcome using obesity 
+phenotypes to guide therapy for obesity.  
+ 
+Additionally, these tests of quantitative GI traits are currently limited to a few research/academic centers. 
+Thus, we recently developed a Blood Test that may predict response to obesity therapy (Mayo IP disclosure 
+No. 2017- 040 and DR16- 520 – unpublished/ confidential).  This blood assay has been validated against 
+standard obesity phenotypes that predict weight response to obesity pharmacotherapy (Sensitivity/specificity 
+>90%). The blood assay was developed after testing candidate gene variants (SNPs), metabolic peptides and 
+metabolomics panel (amino- compounds, neurotransmitters, short chain fatty acids, bile acids). The next logical 
+step in the development of this test is to validate the assay in clinical trials of pharmacotherapy for obesity.  
+ 
+Our overall  hypothesis  is that this obesity -phenotypes guided therapy will predict weight loss response to 
+obesity therapy and will be able to identify the “responders” to each specific intervention compared to standard 
+of care (hit -or-miss medication selection ). Thu s, we propose to validate the assay in two aims:  
+Figure 8: Diagnostic test for Obesity 
+Phenotypes  that predict weight loss response to 
+interventions. ROC curves for each main group: 
+Blue line: abnormal satiation, Orange line: rapid 
+return to hunger, and Green line: abnormal 
+energy expenditure (unpublished – confidential)  
+Andres Acosta MD, PhD  
+Mayo Clinic  
+ 
+ HYPOTHESIS AND AIMS 
+This unique quantitative data led to the overall hypothesis that weight loss with pharmacological agents may be 
+individualized, based on the baseline abnormality in their obesity phenoty pe.  Thus, each baseline trait could 
+be targeted by pharmacological actions of specific obesity medications.  
+Hypothesis:  The identification of the obesity -phenotype- guided pharmacotherapy will enhance the weight loss 
+response rate (i.e. percentage of pati ent with weight loss higher than 10 % at 12 weeks).  
+Aim:  To compare the weight loss response rate to obesity -phenotype- guided pharmacotherapy  vs. control 
+group.  
+SIGNIFICANCE  
+This proposal addresses a significant unmet public health need: the development of effective management 
+approaches to treat obesity based in individual phenotypes. Currently, there are several safe and effective 
+FDA-approved medications and devices for the  treatment of obesity. Unfortunately, the response to obesity 
+treatment (medicines, devices or surgery) is highly variable. Obesity phenotypes can be used to predict weight 
+loss response to pharmacotherapy and devices. Thus, it essential that we understand the predictors of 
+response to each intervention for obesity to be able to select the right tool for the right patient with minimal or 
+no side effects –  Individualized approach for obesity.  
+RESEARCH PLAN  
+Study Design:  
+In a 12 week, pragmatic, 1:1 paralleled controlled trial of 200 participants with obesity; we will compare the 
+weight loss response rate to obesity -phenotype- guided pharmacotherapy vs. standard of care in the Mayo 
+Clinic Weight Management and Nutrition Clinic (See flow diagram below, Figure 1). Patients that are interest in 
+Weight Management with medications will be randomized (at the clinical triage scheduling system) to be 
+offered a diagnostic test to use an obesity -phenotype- guided pharmacotherapy (Intervention). A similar cohort 
+who was not offered the test will be followed in parallel in a prospective manner (standard of care group). When patients are assigned to the physician in the Intervention clinic, they will be offered the diagnostic tests 
+as part of their care, but at no cost for t he patient and the tests will be done under informed consent. The 
+results of the tests will guide obesity pharmacotherapy (figure 1). All participants will be contacted clinically at 4 
+and seen at 12 weeks (current standard in practice). All participants w ill receive , as standard of care, a 
+standard intense lifestyle intervention, which consists of 2 -4 visits with registered dietitian and one visit with a 
+behavioral psychologist. The phenotypic studies include (all performed in same day ): Fasting blood coll ection, 
+resting energy expenditure, DEXA , gastric emptying with meal for breakfast, behavioral questionnaires, and 
+nutrient drink test for lunch. Blood will be collected for assessment of metabolomic biomarkers, gastrointestinal 
+hormones (GLP -1, PYY, CCK, bile acids), DNA (blood and buccal swab) and  pharmacogenomics . A stool kit 
+will be given at the screen and will be returned at some point during the testing day or day after.  Stool sample 
+will be analyzed for microbiome.   
+Randomization and Allocation  
+The randomization will be done at the level of the clinical appointment coordinators. Patients will call to request 
+an appointment or will referred for Weight Management Consultation. As standard in a multiple- physician 
+practice, patients will be “randomly ” assign to each physician calendar (unless patient or referral requests a  
+specific physician). Patients will be assigned  to a physician offering standard of care or a physician offering 
+obesity -phenotype- guided pharmacotherapy. Patients in the standard of  care group will not be aware of the 
+other group (intervention);  those patients will be followed in a prospective by chart review in a paralleled control 
+group.  The patients in the intervention group will be offered the testing to identify their phenotype;  they may 
+select only standard of care and decline the testing. Patients who are randomly assign , are willing to start a 
+medication for weight management , and are willing to be tested for phenotype will be enroll in the study. Once 
+they agree to the testing, participants will be offered an informed consent . All subjects will be given a verbal 
+explanation of the study, provided time to read and study the written consent form and its information, given 
+opportunities to ask questions and a copy of the consent form.  Participants will be informed of their right to 
+Andres Acosta MD, PhD  
+Mayo Clinic  
+ 
+ withdraw from the study at any time without prejudice to their clinical management now or in the future. 
+Consent will be sought by one of the medical doctor investigators or the study coordinator, and consent will be 
+documented by the participant’s signature on the consent form. Mayo’s Institutional Review Board will approve 
+the process and protocol . The rest of the member of multidisciplinary team for weight management (i.e. clinical 
+assistants, regist ered dietitians, psychologist, pharmacy will remain blinded). Physicians in the standard of care 
+group will be blinded too. The allocation will be concealed at the level of randomization.  
+Selection Participants  
+ We plan to study a cohort of 2 00 patients with obesity  (BMI>30 kg/m2). Participants will be recruited 
+from the Mayo Clinic Weight Management and Nutrition Clinic when they are offered a medication for weight 
+loss as standard of care for obesity.  Our Weight Management and Nutrition Clinic  see more than 40 patients 
+per week for obesity management  (>1200 patients per year) . One hundred participants (controls) will be 
+follow ed prospectively (chart review) for  their weight loss after standard of care is provided. These participants 
+will be blinded to the other arm of the study , and to their participation.  One hundred  participants (Intervention 
+group) will be invited to participate in the phenotypic assessment of their obesity, will agree to guide their pharmacological intervention based on their phenotype results and agree to follow up their weight loss.  We will 
+attempt to enroll approximately  25 patients in each group of the obesity -phenotypes (total=100).  
+Intervention group inclusion and exclusion criteria:  
+ 
+Inclusion criteria  
+a) Adults with obesity (BMI >30Kg/m2); these will be otherwise healthy individuals with no unstable 
+psychiatric disease and controlled comorbidities or other diseases.  
+b) Age: 18- 75 years.   
+c) Gender: Men or women. Women of childbearing potential will have negative pregnancy  tests within 48 
+hours of enrolment and before each radiation exposure.  
+ 
+Exclusion criteria  
+a) Abdominal bariatric surgery  
+b) Positive history of chronic gastrointestinal diseases, or systemic disease that could affect 
+gastrointestinal motility, or use of medications that may alter gastrointestinal motility, appetite or 
+absorption, e.g., orlistat , within the last 6 months .  
+c) Significant untreated psychiatric dysfunction based upon screening with the Hospital Anxiety and 
+Depression Inventory (HAD), and the Questionnaire on Eating and Weight Patterns (binge eating 
+disorders and bulimia). If such a dysfunction is identified by an anxiety or depression score > 11 or 
+difficulties with substance or eating disorders, the participant will be excluded and given a refer ral letter 
+to his/her primary care doctor for further appraisal and follow -up.  
+d) Hypersensitivity to any of the study medications.  
+ 
+Control group inclusion and exclusion criteria:  
+ 
+Inclusion criteria  
+a) Adults with obesity (BMI > 30Kg/m2); these will be otherwise healthy individuals with no unstable 
+psychiatric disease and controlled comorbidities or other diseases.  
+b)  Prescribed a medication for weight loss by their physician, as standard of care  
+c) Age: 18- 75 years.   
+d) Gender: Men or women.  
+ Exclusion criteria  
+a) Abdominal bariatric surgery  
+b) Use of medications that may alter gastrointestinal motility, appetite  or absorption, e.g., orlistat, within 
+the last 6 months   
+c) Hypersensitivity to any of the study medications.  
+Andres Acosta MD, PhD  
+Mayo Clinic  
+ 
+ Stan dard of Care:  
+All participants will received standard of care which consists of 1)  Intense lifestyle intervention, behavioral 
+evaluation and treatment, and a medication as part of the regular clinic management for obesity.  
+Intense Lifestyle Intervention and Behavioral Treatment  
+All the participants will meet the multidisciplinary team which consists of an Obesity Expert physician a 
+registered dietitian nutritionist, and behavioural psychologist as standard of care in our clinical practice. All 
+participants will guided to 1) Nutrition: Reduce dietary intake below that required for energy balance by 
+consuming 1200 -1500 calories per day for women and 1500 -1800 calories per day for men; 2) Physical 
+Activity: reach the goal of 10,000 steps or more per day; 3) Exercise: reach the goal of 150 minutes or more of 
+cardiovascular exercise/week; 4) Limit consumption of liquid calories  (i.e. sodas, juices, alcohol, etc.). 
+Participants will meet with RDN at baseline at week ~2 for guidance and monitoring.  
+Pharmacotherapy for obesity  
+Pharmacotherapy for the treatment of obesity can be considered if a patient has a body mass index (BMI) ≥  30  
+kg/m2 or BMI >27 kg/m2 with a comorbidity such as hypertension, type 2 diabetes, dyslipidemia and obstructive 
+sleep apnea[ 21]. Medical therapy should be initiated with dose escalation based on efficacy and tolerability to 
+the recommended dose.  We do an assessment of efficacy and safety at 4 weeks. In both groups, medications 
+will be assessed for drug interactions and potential side effects as standard of care.  
+Control group:  Pharmacotherapy for obesity  
+Standard of care pharmacotherapy for obesity recommends the following doses  and regimen for weight loss : 
+• Phentermine: 15 -37.5 mg oral daily  
+• Phentermine- Topiramate Extended Release (Qsymia®)  at dose of 7.5/46 mg oral daily 
+• Lorcaserin (Belviq®)  at dose of 10 mg oral twice daily 
+• Oral naltrexone extended- release/bupropion extended- release (NBSR; Contrave®)  at dose of 32/360 
+mg oral daily (divided in 2 tables in morning and 2 tablets in evening)  
+• Liraglutide (Saxenda®) at dose of 3 mg subcutaneous daily   
+• Orlistat (Xenical®)  at 120 mg oral three times daily  
+Intervention group: by obesity phenotype guided pharmacotherapy  
+Participants in the intervention group will have 4 tests to assess 1) satiation, 2) Satiety/return to hunger , 3) 
+behavioral , or 4) energy expenditure. As described on Figure 1 (above) , pharmacotherapy will b y guide based 
+on the “abnormal” phenotype. In case of a mixed pattern or multiple abnormal phenotypes, the most prominent 
+phenotype will be tackled.  
+Algorithm diagnostic:  
+1. satiation: Phentermine- Topiramate Extended Release (Qsymia®) at dose of 7.5/46 mg oral daily or  
+Lorcaserin (Belviq®) at dose of 10 mg oral twice daily  
+2. Satiety/return to hunger:  Liraglutide 3 mg SQ daily  
+3. Behavioral/Psychological: Oral naltrexone extended- release/bupropion extended- release (NBSR; 
+Contrave®) at dose of 32/360 mg oral dail y (divided in 2 tables in morning and 2 tablets in evening); or  
+4. Energy expenditure: Phentermine 15 mg daily plus increase physical activity.  
+ 
+Anthropometrics and phenotype studies  
+Anthropometrics Measurements:  will be taken of hip- waist ratio, height, weight, b lood pressure, pulse at 
+baseline and week 12.  
+Phenotype studies:  
+Participants will attend the Mayo Clinic Clinical Research and Trials Unit after an 8- hour fasting period, and the 
+following validated quantitative traits (phenotypes) will be measured at baseline:  
+a) The DEXA scan ( dual energy x -ray absorptiometry) will measure body composition.  
+b) Resting energy expenditure: was assessed by indirect calorimetry with a ventilated hood ( Parvo 
+Medics, Sandy, UT).  
+Andres Acosta MD, PhD  
+Mayo Clinic  
+ 
+ c) Gastric emptying (GE) of solids by sc intigraphy: The primary endpoint is gastric half -emptying time (GE 
+t1/2) [3, 18, 32]. 
+d) Appetite (hunger level) by visual analog score fast ing and after standard meal for GE and prior to the 
+Satiation test [3]. 
+e) Satiation will be measure by ad- libitum  buffet meal to measure total caloric intake and macronutrient 
+distribution in the chosen food. Satiation will be reported in calories consumed at fullness (satiation)  [3]. 
+f) Satiety by visual analog score postprandial after standard meal for GE and after to the Ad -libitum meal  
+test for every 30 minutes for 2 hours  [3]. Satiety will be measured in length of time of fullness.  
+g) Self-administered questionnaires  assessing affect, physical activity levels , attitudes, , body image, and 
+eating behavior; details of each questionnaire are provided below . 
+h) Samples collection, handling and storage: Samples were collected after an overnight fast  (of at least 8  
+hours) in the morning within 7 and 9 am. Plasma was preserved following standard guidelines and 
+protein degradation inhibitors, kalikrein and DPP -IV inhibitors were added to preserve the samples. 
+Samples are stored at - 80ºC in the PI’s laboratory in the Guggenheim Bldg.  
+a. Plasma gastrointestinal hormones ( Total and active Ghrelin, GLP -1, CCK, PYY and bile acids)  by 
+radioimmunoassay, measured fasting, and 15, 45, and 90 minutes postprandial, with the primary 
+endpoint being the peak postprandial level  (test should be done simultaneously to GE) .  
+b. Targeted Metabolomics :  We will perform quantitative, targeted metabolomics of salient classes of 
+compounds in plasma samples using mass spectrometry.  These assays are well -established, 
+validated, and routinely performed in the Mayo Clinic Metabolomics Core Laboratory.   Amino acids 
+plus amino metabolites will be quantified in plasma by derivatizing wit h 6-aminoquinolyl -N-
+hydroxysuccinimidyl carbamate according to Waters MassTrak kit.  A 10- point calibration standard 
+curve will be used for quantification of unknowns using a triple- stage quadrupole mass 
+spectrometer (Thermo Scientific TSQ Quantum Ultra) c oupled with an ultra performance liquid 
+chromatography (UPLC) system (Waters Acquity UPLC). Data acquisition will be performed using multiple -reaction monitoring (MRM). Concentrations of 42 analytes in each sample are calculated 
+against their respective calibration curves with a measurement precision of < 5%.  Essential 
+nonesterified fatty acid (NEFA) concentrations,  such as myristic, palmitic, palmetoleic 
+palmitoelaidic, stearic, oleic, elaidic, linoleic, linolenic and arachidonic, will be measured agains t a 
+six-point standard curve by LC/MS/MS, underivatized after extraction from plasma via negative 
+electrospray ionization (ESI) and multiple reaction monitoring conditions. This technique was developed to replace the GC/MS method where NEFAs required methy lation before analysis. This 
+technique reduces the uncertainty as to whether the methylation step increases FFA concentrations by inadvertently hydrolyzing other lipid classes.   Intra CV is < 3% for all analytes.  
+c. Blood DNA . 
+d. Bucal Swab DNA  for OneOme pharm acogenomics testing.  
+i. Pharmacogenomics : Patients who have met the inclusion and exclusion criteria and have 
+signed the informed consent will be asked to provide a one- time buccal scraping. This 
+sample will be sent to OneOme™ Laboratory for use for the CLIA/ CAP approved 
+RightMed™ test (PGx gene panel). The OneOme RightMed test is an end- to-end 
+pharmacogenomics solution that includes pharmacogenomic testing services, data analysis, 
+clinical interpretation, and interactive reporting.   The RightMed panel assesses 72 variants 
+in 22 pharmacogenes, with seven cytochrome P450 enzymes (CYP1A2, CYP2B6, CYP2C9, 
+CYP2C19, CYP2D6, CYP3A4, and CYP3A5) covering approximately 90 percent of human 
+drug oxidation and nearly 50 percent of commonly used medications, and 15 genes r elated 
+to drug action or metabolism (COMT, DPYD, DRD2, F2, F5, GRIK4, HTR2A, HTR2C, IL28B, NUDT15, OPRM1, SLCO1B1, TPMT, UGT1A1, and VKORC1). These genes were 
+selected because their relationships with various medications are supported by substantial 
+clinic al evidence (Appendix 1).  Results for the patient will be returned to Mayo Clinic and 
+placed into the patient EHR to be utilized for clinical treatment decisions. Through chart review, including the patient’s current medication list as stated in the EHR, we will document 
+previously  reported medication inefficacy and intolerance. This data will be entered into a 
+database.  To assist in interpretation of the PGx test results, a PGx -trained pharmacist will 
+review the test report, and document recommendations for the ordering provider v ia the e-
+Consult mechanism. A patient letter based on their results may be recommended by the 
+Andres Acosta MD, PhD  
+Mayo Clinic  
+ 
+ pharmacist on a case- by-case basis. During this process, we will document PGx variants, 
+identify “actionable” variants potentially impacting current medications, all prescription(s) 
+changes considered, and identify variants that might explain past medication issues.  If 
+indicated due to PGx variants or current medication list, the patient may have a face- to-face 
+or virtual visit with a pharmacist to discuss their P Gx results. If the patient participates in a 
+face- to-face visit with a pharmacist as part of standard patient care, medication 
+reconciliation would be performed and the data will be collected via interview.  As this is a 
+clinical test, patients will be giv en information and education materials and references about 
+PGx testing as appropriate, and will also have access to the lab results report and consult 
+notes via the Mayo Clinic Patient Online Services portal. Patients may also request a copy 
+of their results through May Clinic Medical Records.  A follow -up survey will be sent via U.S. 
+mail to collect information regarding patients’ perceptions, satisfaction and outcomes of PGx testing, as well as behaviors that may result from having this PGx test. Informa tion collected 
+includes, but is not limited to: prescription adjustments, satisfaction, perceived understanding, and sharing PGx results or information.  
+i) Stool  will be collected and stored to study microbiome, short chain fatty acids and bile acids.  
+ 
+Quest ionnaires to Assess GI Symptoms and Behavioral Disorders  
+    Participants will complete a series of questionnaires (all included in the APPENDIX): Weight management 
+Questionnaire (Mayo Clinic®), the and the Hospital Anxiety and Depression Inventory [HAD [ 33]] to appraise 
+the contribution of affective disorder.  
+ 
+Behavioural Questionnaires  
+a. AUDIT -C Alcoholism Screening Test  [34] - The AUDIT -C is a 3 -item alcohol screening questionnaire that 
+reliably identifies participants who are hazardous alcohol drinkers or have active alcohol use disorders. This 
+score will be used in screening by the study physician/nurse coordinator. The AUD IT-C is scored on a scale of 
+0-12. Each AUDIT- C question has 5 answer choices. Points allotted are: a=0 points; b=1 point; c=2 points; d=3 
+points; e=4 points. In men, a score of 4 or more is considered positive, optimal for identifying hazardous 
+drinking o r active alcohol use disorders. In women, a score of 3 or more is considered positive (same as 
+above).   
+b.   Eating Disorders Questionnaire - The Questionnaire on Eating and Weight Patterns -Revised [35], is a valid 
+measure of screening for eating disorders which has been used in several national multi -site field trials. 
+Respondents are classified as binge eating disorder, purging bulimia nervosa, non -purging bulimia nervosa, or 
+anorexia nervosa. We have used this instrument to screen for eating disorders in obese populat ions.  
+c.   Body Image Satisfaction  -  The Multidimensional Body -Self Relations Questionnaire [36, 37]provides a 
+standardized attitudinal assessment of body image, normed from a national body -image survey. Items are 
+rated on a 5- point scale, ranging from 1=Definitely Disagree to 5=Definitely Agree. In this study, we will use 
+one of the sub- scales, the Body Areas Satisfaction Scale, which measures feelings of satisfaction with discrete 
+aspects  of physical appearance (e.g., face, weight, hair). Cronbach’s α  values range from .70 to .89 [37]. 
+d.   Eating Behaviors   -  The Weight Efficacy Life- Style Questionnaire [WEL [38]] is a 20 -item eating self -
+efficacy scale consisting of a total score and five situational factors: negative emotions, availability, social 
+pressure , physical discomfort, and positive activities. Subjects are asked to rate their confidence about being 
+able to successfully resist the urge to eat using a 10- point scale ranging from 0=not confident to 9=very 
+confident.  
+e.   Physical Activity Level  - The four-item Physical Activity Stages of Change Questionnaire [39]will be utilized 
+to assess the physical activity level of participants. Mayo Clinic investigators, led by co -investigator Dr. Clark, 
+have used these item s to explore the relationship between quality of life and physical activity in an NCI -funded 
+study on long -term lung cancer survivors [39]. 
+General Principles of Statistical Analyses  
+Primary endpoint:  Percentage of responders (defined as number of participants who loss 10% or more of 
+total body weight) compared to baseline in the obesity phenotype guided pharmacotherapy (intervention) group vs. standard of care. The secondary end points will be percent age of responders with at least 5% at 4 weeks , 
+15% at 12 weeks, and 10% at 6 months and 12 months; percentage of responders at 5% , 10%  and 15% ; 
+percentage of responders within each obesity -phenotype group at 4 and 12 weeks; side effects of medications 
+and patient satisfaction.  
+Andres Acosta MD, PhD  
+Mayo Clinic  
+ 
+  
+Sample size assessment:  We propose a 1:1 design to compare effects of Intervention compared to Standard 
+of Care in weight loss. The analysis will involve use of 2- way analysis of covariance (ANCOVA) models with 
+treatment; and the covariates to be considered include gender, BMI (at baseline).  The current standard of care 
+suggests that approximate 35% of patients will lose more than 10% of body weight [1, 6, 13-15]. We estimate a 
+detectable effect size difference (Δ) in percentage of responders for the intervention group compare to 
+standard of care of more than 20% (55% intervention vs. 35% control). Using this proportion of responders  [2, 
+5, 16-18], the sample size will be 100 participants in intervention group and 100 participants in standard of care 
+group to demonstrate a treatment -related difference in weight loss (using α=0.05, 80% power, 2- sided t test , 
+and 95% Confidence level ).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anticipated results and significance:   
+Our study individualizes obesity treatment to maximized pharmacotherapy outcome based on phenotyping obesity at baseline.  
+ 
+Potential pitfalls, precautions taken, and alternative strategies:  
+a. Feasibility  - Given high volume weight management clinic , we are confident we will recruit sufficient 
+participants for these studies that involve only noninvasive tests  and standard of care treatment . 
+b. Statistical power  has been addressed with appropriate sample sizes to demonstrate a difference in weight 
+change on NBSR with and with phenotype vs. placebo.  
+  Percentage difference (Δ) of participants with a 
+weight loss 10 % or more [ % of responders 
+compare to expected responders with standard 
+of care  (approx. 35% in standard of care )] Intervention  
+(# of participants)  Control  
+(# of participants)  
+Percentage difference of 10% [45 vs. 35 %) 376 376 
+Percentage difference of 20% [55 vs. 35 %) 96 96 
+Percentage difference of 30% [65 vs. 35 %) 43 43 
+Andres Acosta MD, PhD  
+Mayo Clinic  
+ 
+ REFERENCE:  
+ 
+1. Apovian, C.M., et al., A randomized, phase 3 trial of naltrexone SR/bupropion SR on weight and obesity -related 
+risk factors (COR -II). Obesity, 2013. 21(5): p. 935 -43. 
+2. Pi-Sunyer, X., et al., A Randomized, Controlled Trial of 3.0 mg of Liraglutide in Weight Management.  The New 
+England journal of medicine, 2015. 373(1): p. 11 -22. 
+3. Acosta, A., et al., Quantitative gastrointestinal and psychological traits associated with obesity and response to 
+weight -loss therapy.  Gastroenterology, 2015. 148 (3): p. 537- 546 e4.  
+4. Camilleri, M. and A. Acosta, Gastrointestinal traits: individualizing therapy for obesity with drugs and devices.  
+Gastrointestinal endoscopy, 2015.  
+5. Gadde, K.M., et al., Effects of low -dose, controlled- relea se, phentermine plus topiramate combination on weight 
+and associated comorbidities in overweight and obese adults (CONQUER): a randomised, placebo -controlled, 
+phase 3 trial.  Lancet, 2011. 377(9774): p. 1341 -1352.  
+6. Smith, S., et al., Multicenter, placebo -controlled trial of lorcaserin for weight management.  The New England 
+journal of medicine, 2010. 363(3): p. 245 -256.  
+7. Ng, M., et al., Global, regional, and national prevalence of overweight and obesity in children and adults during 1980- 2013: a s ystematic analysis for the Global Burden of Disease Study 2013.  Lancet, 2014.  
+8. Flegal, K.M., et al., Prevalence of obesity and trends in the distribution of body mass index among US adults, 
+1999- 2010.  JAMA : the journal of the American Medical Associatio n, 2012. 307 (5): p. 491 -497.  
+9. Acosta, A., et al., Recent advances in clinical practice challenges and opportunities in the management of obesity.  
+Gut, 2014. 63(4): p. 687 -95. 
+10. Acosta, A., et al., Exenatide in obesity with accelerated gastric emptying:  a randomized, pharmacodynamics 
+study.  Physiological reports, 2015. 3 (11).  
+11. Camilleri, M. and A. Acosta, Gastrointestinal traits: individualizing therapy for obesity with drugs and devices.  
+Gastrointestinal endoscopy, 2016. 83(1): p. 48 -56. 
+12. Abu Dayy eh B, et al., Baseline Gastric Emptying and its Change in Response to Diverse Endoscopic Bariatric 
+TherapiesGastric Emptying Predict Weight Change Response to Endoscopic Bariatric Therapies in a Large Cohort     IFSO annual meeting, 2015. Supplemental . 
+13. Hollander, P.A., et al., Role of orlistat in the treatment of obese patients with type 2 diabetes. A 1 -year 
+randomized double -blind study.  Diabetes care, 1998. 21 (8): p. 1288- 94. 
+14. Gadde, K.M., et al., Effects of low -dose, controlled- release, phentermine plus topiramate combination on weight 
+and associated comorbidities in overweight and obese adults (CONQUER): a randomised, placebo -controlled, 
+phase 3 trial.  Lancet, 2011. 377(9774): p. 1341 -52. 
+15. Pi-Sunyer, X., et al., A Randomized, Controlled Trial o f 3.0 mg of Liraglutide in Weight Management.  New 
+England Journal of Medicine, 2015. 373(1): p. 11 -22. 
+16. Greenway, F.L., et al., Effect of naltrexone plus bupropion on weight loss in overweight and obese adults (COR -I): 
+a multicentre, randomised, double -blind, placebo -controlled, phase 3 trial.  Lancet, 2010. 376 (9741): p. 595- 605.  
+17. Allison, D.B., et al., Controlled -release phentermine/topiramate in severely obese adults: a randomized controlled 
+trial (EQUIP).  Obesity, 2012. 20(2): p. 330- 42. 
+18. Camilleri, M., et al., Performance characteristics of scintigraphic measurement of gastric emptying of solids in healthy participants.  Neurogastroenterology and motility : the official journal of the European Gastrointestinal 
+Motility Society, 2012. 24(12): p. 1 076.  
+19. Hensrud, D.D. and S. Klein, Extreme obesity: a new medical crisis in the United States.  Mayo Clinic proceedings, 
+2006. 81(10 Suppl): p. S5 -10. 
+20. Riebe, D., et al., Updating ACSM's Recommendations for Exercise Preparticipation Health Screening.  Medicine 
+and science in sports and exercise, 2015. 47(11): p. 2473- 9. 
+21. Jensen, M.D., et al., 2013 AHA/ACC/TOS Guideline for the Management of Overweight and Obesity in Adults: A 
+Report of the American College of Cardiology/American Heart Association Task  Force on Practice Guidelines and 
+The Obesity Society.  Journal of the American College of Cardiology, 2014. 63 (25 Pt B): p. 2985 -3023.  
+22. Apovian, C.M., et al., Pharmacological management of obesity: an endocrine Society clinical practice guideline.  
+The J ournal of clinical endocrinology and metabolism, 2015. 100 (2): p. 342 -62. 
+Andres Acosta MD, PhD  
+Mayo Clinic  
+ 
+ 23. Sjostrom, L., et al., Randomised placebo -controlled trial of orlistat for weight loss and prevention of weight 
+regain in obese patients. European Multicentre Orlistat Study Group.  Lancet, 1998. 352(9123): p. 167- 72. 
+24. Davidson, M.H., et al., Weight control and risk factor reduction in obese subjects treated for 2 years with orlistat: 
+a randomized controlled trial.  JAMA, 1999. 281 (3): p. 235- 42. 
+25. MD, R. US Food and Drug Admini stration Endocrinologic and Metabolic Drugs Advisory Committee Clinical 
+Briefing Document February 22, 2012.  . [Accessed: 3/30/2012];VIVUS, Inc. New Drug Application 2 2 5 8 0 : V I -
+0521 QNEXA (phentermine/topiramate) Web February 22, 2012.; Available from : 
+http://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/Endocrinologicand
+MetabolicDrugsAdvisoryCommittee/UCM292315.pdf . 
+26. Garvey, W.T., et al., Two -year sustained weight loss and metabolic benefits with controlled- release 
+phentermine/topiramate in obese and overweight adults (SEQUEL): a randomized, placebo -controlled, phase 3 
+extension study.  The American journal of clinical nutrition, 2012. 95(2): p. 297- 308.  
+27. Saunders, K., et al., Pharmacotherapy for Obesity.  Endocrinol Metab Clin North Am. , 2016(In press).  
+28. Connolly, H.M., et al., Valvular heart disease associate d with fenfluramine -phentermine.  The New England 
+journal of medicine, 1997. 337(9): p. 581 -8. 
+29. Wadden, T.A., et al., Weight loss with naltrexone SR/bupropion SR combination therapy as an adjunct to 
+behavior modification: the COR -BMOD trial.  Obesity, 201 1. 19(1): p. 110 -20. 
+30. Nauck, M., et al., Efficacy and safety comparison of liraglutide, glimepiride, and placebo, all in combination with 
+metformin, in type 2 diabetes: the LEAD (liraglutide effect and action in diabetes) -2 study.  Diabetes care, 2009. 
+32(1): p. 84 -90. 
+31. van Can, J., et al., Effects of the once -daily GLP -1 analog liraglutide on gastric emptying, glycemic parameters, 
+appetite and energy metabolism in obese, non- diabetic adults.  International journal of obesity, 2014. 38(6): p. 
+784-93. 
+32. Vazquez Roque, M.I., et al., Gastric sensorimotor functions and hormone profile in normal weight, overweight, and obese people.  Gastroenterology, 2006. 131(6): p. 1717- 24. 
+33. Zigmond, A.S. and R.P. Snaith, The hospital anxiety and depression scale.  Acta psychiatrica Scandinavica, 1983. 
+67(6): p. 361 -70. 
+34. Bush, K., et al., The AUDIT alcohol consumption questions (AUDIT -C): an effective brief screening test for problem 
+drinking. Ambulatory Care Quality Improvement Project (ACQUIP). Alcohol Use Disorders Identification Test.  
+Archives of internal medicine, 1998. 158(16): p. 1789 -95. 
+35. Yanovski, S.Z., et al., The Questionnaire on Eating and Weight Patterns -5: an updated screening instrument for 
+binge eating disorder.  The International journal of eating disorders, 2015. 48(3): p. 259 -61. 
+36. Cash, T.F. and G.K. Green, Body weight and body image among college women: perception, cognition, and affect.  
+Journal of personality assessment, 1986. 50(2): p. 290- 301.  
+37. Cash, T.F., Body -image attitudes: ev aluation, investment, and affect.  Perceptual and motor skills, 1994. 78 (3 Pt 
+2): p. 1168- 70. 
+38. Ames, G.E., et al., Further statistical and clinical validity for the Weight Efficacy Lifestyle Questionnaire -Short 
+Form.  Eating behaviors, 2015. 18: p. 115- 9. 
+39. Clark, M.M., et al., Motivational readiness for physical activity and quality of life in long- term lung cancer 
+survivors.  Lung Cancer, 2008. 61(1): p. 117 -22. 
+ 
+ 

@@ -1,0 +1,1302 @@
+https://www.jomes.org | 25 J Obes Metab Syndr 2023;32:25-45 Efficacy and Safety of Tirzepatide in Type 2 Diabetes 
+and Obesity Management
+Rachel Sinha1, Dimitris Papamargaritis1,2,*, Jack A. Sargeant1,2, Melanie J. Davies1,2
+1Diabetes Research Centre, University of Leicester College of Life Sciences, Leicester; 2National Institute for Health and Care Research (NIHR) Leicester Biomedical 
+Research Centre, University Hospital of Leicester NHS Trust and the University of Leicester, Leicester, UK
+The combination of glucagon-like peptide -1 (GLP-1) with other gut hormones including the glucose-depen -
+dent insulinotropic polypeptide (GIP) has been explored to complement and enhance further the GLP-1 effects 
+on glycemia and weight loss. Tirzepatide is the first dual GLP-1/GIP receptor co-agonist which has been ap -
+proved for treatment of type 2 diabetes mellitus (T2DM) based on the findings from the SURPASS program. The 
+SURPASS trials assessed the safety and efficacy of tirzepatide in people with T2DM, from monotherapy through 
+to insulin add-on in global populations, with another two trials dedicated to Japanese population. Over periods 
+of treatment up to 104 weeks, once weekly tirzepatide 5 to 15 mg reduced glycosylated hemoglobin (1.87% to 
+3.02%), body weight (5.4 to 12.9 kg) and improved multiple cardiometabolic risk factors (including reduction in 
+liver fat, new-onset macroalbuminuria, blood pressure, and lipids) across the T2DM spectrum. Tirzepatide pro -
+vided better efficacy than placebo and other commonly used glucose-lowering medications such as semaglu -
+tide 1 mg, dulaglutide, insulin degludec, and glargine. All tirzepatide doses were well tolerated with similar side-
+effect profile to the GLP-1 receptor analogues. In people without diabetes, tirzepatide 5 to 15 mg once weekly 
+for the treatment for obesity (SURMOUNT-1) resulted in substantial reductions in body weight (16.5% to 22.4%) 
+over 72 weeks. Overall, the SURPASS program and SURMOUNT-1 study suggest that tirzepatide is marking a 
+new era in T2DM and/or obesity management through dual agonism of gut hormones.
+Key words:  Diabetes mellitus, type 2, Obesity, Tirzepatide, Glucagon-like peptide 1, Gastric inhibitory polypep -
+tideReceived  December 7, 2022
+Reviewed  January 16, 2023
+Accepted  January 16, 2023
+* Corresponding author   
+Dimitris Papamargaritis
+ 
+https://orcid.org/0000-0001-5044-1515
+Diabetes Research Centre, Leicester 
+General Hospital, University of Leicester 
+College of Life Sciences, Leicester, LE5 
+4PW, UK
+Tel: +44-116-258-8973
+Fax: +44-116-258-4499
+E-mail: dp421@leicester.ac.uk
+The first two authors contributed equally 
+to this study.
+INTRODUCTION
+The incidence of obesity has almost tripled since 1975, in parallel 
+with an increase in the cases of type 2 diabetes mellitus (T2DM).1,2 
+Obesity is the strongest risk factor for T2DM as it causes insulin re -
+sistance, a key driver in development of T2DM.3 Overweight and 
+obesity account for 44% of T2DM cases worldwide and prevalence 
+of obesity-related diabetes is expected to increase further over the 
+next years.3-5 Both obesity and T2DM are associated with multiple 
+metabolic complications such as increased cardiovascular risk, hy -
+pertension, dyslipidemia, obstructive sleep apnoea, and nonalco -holic fatty liver disease (NAFLD).3 Considering the close relation -
+ship between obesity and T2DM, weight loss (WL) in people with 
+T2DM can have beneficial effects on glycemic levels, insulin sensi -
+tivity, and cardiometabolic complications.3,6 Indeed, the latest Amer -
+ican Diabetes Association/European Association for the Study of 
+Diabetes (ADA/EASD) consensus guidelines for T2DM recom -
+mend 5% to 15% WL as a key component of care to improve quali -
+ty of life and prevent complications.7 
+Although 5% WL is associated with metabolic benefits, it is the 
+sustained WL of ≥ 10% which provides maximum benefit for pre -
+vention of T2DM and could reverse the underlying pathophysiolo -
+Copyright © 2023 Korean Society for the Study of Obesity
+ This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (https://creativecommons.org/licenses/by-nc/4.0/) which permits 
+unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.pISSN 2508-6235
+eISSN 2508-7576Journal of Obesity & Metabolic Syndrome 2023;32:25- 45
+https://doi.org/10.7570/jomes220671/ 1 CROSSMARK_logo_3_Test
+2017-03-16 https://crossmar k-cdn.crossref.org/widget/v2.0/logos /CROSSMARK_Color_square.sv gReview
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 26 | https://www.jomes.org
+gy of T2DM.8,9 In people with obesity diagnosed with T2DM for 
+≤ 6 years, 64% of those who achieved and maintained ≥ 10 kg WL 
+with a low calorie diet were able to achieve T2DM remission at  
+2 years (Diabetes Remission Clinical T rial [DiRECT] study) and 
+remission rates were higher the more the WL achieved.9 Addition -
+ally, although an intensive lifestyle intervention for WL in the Look 
+AHEAD: Action for Health in Diabetes (LookAHEAD) trial did 
+not show reduction in major adverse cardiovascular events (MACE-
+4) in people with T2DM and obesity compared to a diabetes edu -
+cation and support program, a post hoc  analysis demonstrated that 
+those who lost ≥ 10% of their baseline body weight during the first 
+year of the trial had a 21% lower risk for cardiovascular events over 
+a 10 years follow-up period compared to those with stable weight 
+or weight gain.10,11 Collating these results, it appears that ≥ 10% WL 
+for people with obesity and T2DM is associated with improvements 
+in glycemia, reduction in cardiometabolic risk factors as well as car -
+diovascular benefits, providing a WL threshold which facilitates 
+achieving multiple key components of care in this population.
+However, even with the most intensive lifestyle interventions 
+only a minority of people with T2DM will be able to achieve and 
+maintain ≥ 10% WL long-term.9,12 Weight regain is common after 
+lifestyle interventions and approximately 80% of weight lost is ex -
+pected to be regained over the next 5 years.13 Bariatric surgery was 
+until recently the only intervention which could lead to sustained 
+WL ≥ 15%, however it is not scalable to the population level.14 
+Over the last few years, glucagon-like peptide‐1 receptor analogues 
+(GLP-1 RAs) have helped to transform the management of T2DM 
+by combining effective reductions in glycemia with clinically im -
+portant WL and weight maintenance.7 GLP-1 RAs also improve 
+multiple cardiometabolic risk factors, reduce risk of cardiovascular 
+events and cardiovascular mortality and have renoprotective effects 
+in people with T2DM.15,16 Due to their efficacy in inducing WL and 
+weight maintenance through reduction of appetite, some GLP-1 
+RAs (liraglutide and semaglutide) have been repurposed and ap -
+proved at higher doses as treatments for obesity.17-19 Liraglutide 3 mg 
+in combination with a moderate intensity lifestyle interventions can 
+lead to 5.8% to 8.0% WL at 56 weeks (Satiety and Clinical Adiposi -
+ty—Liraglutide Evidence in Nondiabetic and Diabetic Individuals 
+Obesity and Prediabetes [SCALE] program) as well as weight main -
+tenance after intensive lifestyle interventions.17,18,20,21 Additionally, semaglutide 2.4 mg once weekly resulted in 14.9% to 17.4% WL in 
+people without diabetes (STEP program).19,22,23 However, the effi -
+cacy of GLP-1 RAs can be limited (mainly regarding WL in people 
+with T2DM) and their adverse events (nausea and vomiting) are 
+generally dose-dependent.21,24,25 As a result, a considerable number 
+of people with T2DM are not able to achieve the metabolic, and 
+WL targets with the currently existing therapies.26
+THE CONCEPT OF CO-AGONISTS IN 
+GLUCOSE-LOWERING AND WEIGHT LOSS 
+TREATMENTS
+In the search for the next step beyond GLP-1 RAs as treatment 
+for T2DM and/or obesity, the combination of GLP‐1 with other 
+gut hormones (including glucose-dependent insulinotropic poly -
+peptide [GIP], amylin and glucagon) as dual or triple agonists has 
+been trialled to complement and enhance further the metabolic 
+benefits of GLP-1 by addressing multiple different mechanisms of 
+action.27 The therapeutic potential of the combination of gut hor -
+mones (as dual or even triple agonists) is supported by the remark -
+able efficacy of bariatric surgery on WL and glycemia, an interven -
+tion leading to increased levels of multiple gut hormones with dif -
+ferent actions, as well as from multiple preclinical studies and emerg -
+ing clinical data.28,29 The combination of GLP-1 and GIP (the “twin -
+cretin” concept), appeared as one of the most attractive strategies 
+for treating T2DM, considering that both these hormones have 
+glucose-lowering actions.
+GLP-1 AND GIP COMBINATION
+The incretin effect describes the phenomenon whereby oral glu -
+cose elicits higher insulin secretion than does intravenous glucose, 
+despite inducing similar levels of glycemia, in healthy individuals.30 
+This effect is mediated by the gut hormones GLP-1 and GIP which 
+both promote insulin secretion and is uniformly defective in pa -
+tients with T2DM.30,31
+GLP-1 is secreted predominantly from L cells located in the ile -
+um and colon in response to food intake.32 Exogenous GLP-1 infu -
+sion induces multiple glucose-lowering actions (Fig. 1) such as 
+stimulation of glucose-induced insulin secretion, delay in gastric 
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 https://www.jomes.org | 27
+emptying and inhibition of glucagon secretion in healthy individu -
+als as well as in people with T2DM.32-35 Additionally, exogenous 
+GLP-1 infusion results in reduced food intake and appetite without 
+direct changes in energy expenditure.35,36
+On the other hand, GIP is a peptide secreted by K cells in the 
+duodenum and jejunum in response to nutrient ingestion. In peo -
+ple without diabetes, GIP stimulates insulin secretion but does not 
+change glucagon release during hyperglycemia, whereas it increases 
+glucagon release without affecting insulin secretion during hypo -
+glycemia.37,38 In the context of T2DM, the ability of GIP to stimu -
+late insulin secretion and to ameliorate glycemia is impaired; how -
+ever, GIP sensitivity can be restored after improvement of glycemic 
+control.39,40 GIP retains also the ability to stimulate glucagon secre -tion in people with T2DM and unlike what is reported in healthy 
+people, subjects with T2DM demonstrate increased glucagon se -
+cretion in response to GIP during hyperglycemia.41 Other actions 
+of GIP include increased lipogenesis and enhancement of the lipid-
+buffering capacity of the white adipose tissue, reduction of nausea 
+and inhibition of bone resorption (Fig. 1).42-44 Preclinical studies 
+have also shown that GIP receptor agonism lowers body weight 
+through reduction of food intake.45
+In preclinical models, the simultaneous administration of GLP-1 
+and GIP receptor agonists reduced food intake, body weight, and 
+fat mass in mice with diet-induced obesity (DIO) to a greater ex -
+tent than either agent alone, suggesting an additional effect.28,46 
+Further preclinical experiments showed that the combined activa -Figure 1.  Pancreatic and exopancreatic actions of glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide‐1 (GLP-1). *Evidence from preclinical studies.
+
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 28 | https://www.jomes.org
+tion of both GLP-1 and GIP receptor agonists had superior glucose-
+lowering efficacy compared to activation of either receptor alone.47,48 
+The greater metabolic effects observed with combined GLP-1 and 
+GIP receptor activation in preclinical studies increased the interest 
+for the development of unimolecular agonists of GLP-1 and GIP 
+receptors, despite that this additive effect in glucose-lowering and 
+food intake was not observed in some acute clinical studies.49,50
+TIRZEPATIDE: PRECLINICAL STUDIES 
+AND EARLY PHASE CLINICAL TRIALS
+Tirzepatide, a once weekly unimolecular dual agonist of GLP-1 
+and GIP receptors, consists of 39 amino-acids and is the first dual 
+gut hormone-based agonist which has been approved for the treat -
+ment of T2DM.51
+Preclinical studies revealed that tirzepatide has a binding affinity 
+to the GLP-1 receptor which is five times less than the native GLP-
+1, while it has comparable affinity to the native GIP for its recep -
+tors.52 Tirzepatide was also shown to induce glucose-dependent in -
+sulin secretion both in vitro  and in vivo  through actions on both in -
+cretin receptors. Chronic treatment with 10 nmol/kg of tirzepatide 
+in DIO mice produced a dose-dependent decrease in body weight 
+which was greater than with 30 nmol/kg semaglutide, primarily 
+driven by a loss of fat mass due to reduction in food intake and a 
+small increase in energy expenditure.53
+Phase 1 clinical trials investigated the safety and tolerability of 
+tirzepatide both in healthy people and people with T2DM. Phar -
+macokinetics and pharmacodynamics of tirzepatide as well as chang -
+es in glycemic parameters and WL compared to placebo and the 
+GLP-1 RA dulaglutide were also assessed in these early phase tri -
+als.53 The pharmacokinetics of tirzepatide supported once weekly 
+administration.53 Moreover, safety and good tolerability of tirzepa -
+tide in doses up to 15 mg once weekly was shown both in healthy 
+people and those with T2DM, with gastrointestinal side effects be -
+ing the most commonly reported.2,53,54 Dose and time-dependent 
+reductions in body weight were observed across phase 1 studies 
+and were greater than those observed with dulaglutide 1.5 mg at  
+29 days both for healthy individuals and for people with T2DM.2,53,54 
+Similarly, in people with T2DM, the reductions in glycosylated he -
+moglobin (HbA1c) were dose-dependent.53Based on these findings, a randomised, double blind, placebo 
+controlled phase 2 study was carried out in people with T2DM 
+treated with lifestyle measures or metformin, aiming to assess the 
+safety and efficacy of tirzepatide in comparison with placebo and 
+dulaglutide 1.5 mg once weekly.55 Over 26 weeks, HbA1c im -
+proved by 1.6% to 2.4% with tirzepatide 5 to 15 mg compared to 
+1.1% reduction with dulaglutide and 0.1% HbA1c increase with 
+placebo. WL was 4.8% to 11.3% over 26 weeks with tirzepatide 5 
+to 15 mg, with more than 20% of participants at tirzepatide 10 and 
+15 mg groups achieving WL ≥ 15% compared to 2% of those on 
+dulaglutide.55 Adverse events were mainly mild or moderate in se -
+verity, with gastrointestinal symptoms being the most common. 
+There were more gastrointestinal adverse events at the 15 mg tirz -
+epatide group compared to dulaglutide 1.5 mg.55 A separate, phase 
+2, dose-escalation study found that by reducing the starting dose 
+and increasing dose-escalation time to 8 weeks, gastrointestinal side 
+effects could be reduced and study dropout rates were similar to 
+that of placebo.56
+POTENTIAL MECHANISMS OF ACTIONS 
+OF TIRZEPATIDE
+Mechanistic studies have shown that tirzepatide 15 mg leads to 
+significant improvements in β-cell function and insulin sensitivity 
+together with reduced glucagon secretion compared to placebo in 
+people with T2DM.57 These actions, can explain at least partially 
+the marked improvements in glycemia observed with tirzepatide in 
+people with T2DM (Fig. 2).58 Moreover, tirzepatide 15 mg once 
+weekly results in reduced energy intake (–348.4 kcal) at an ad libi -
+tum lunch in people with T2DM through reduction of the overall 
+appetite, increased satiety and decreased prospective food con -
+sumption, which explains the reduction in weight.59 Further mech -
+anistic studies assessing the changes in resting metabolic rate, ener -
+gy intake and appetite with tirzepatide in people without T2DM 
+(NCT04081337) as well as how it affects the appetite- and reward-
+related areas of the brain (NCT04311411) are ongoing.
+SURPASS PROGRAM: METHODOLOGY
+The results of the phase 2 trial led to the SURPASS program 
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 https://www.jomes.org | 29
+(composed of multiple phase 3 clinical trials) and seven randomised 
+controlled trials have been published so far. Five of these were 
+global multicenter trials, and two regional studies were carried out 
+in Japan.60-66 Baseline demographics of participants and study de -
+signs of SURPASS program are presented in T able 1.
+Individuals recruited to SURPASS covered a large part of the 
+T2DM continuum, ranging from those with less than 5 years since 
+diagnosis to those with advanced disease ( > 10 years). Participants 
+were given subcutaneous tirzepatide 5, 10, or 15 mg once weekly 
+either as monotherapy, or in combination with other glucose-low -
+ering medications, including insulin, without additional support for 
+lifestyle changes.67 Tirzepatide initiation dose was 2.5 mg once 
+weekly and increased by 2.5 mg every 4 weeks until reaching the target dose (a lower starting dose and a slower escalation regime 
+compared to the phase 2 trial).68
+The effect of tirzepatide was assessed against placebo, basal insu -
+lins (glargine and degludec) and the GLP-1 RAs dulaglutide 0.75 mg 
+and semaglutide 1 mg. The primary endpoint in all these studies 
+was the change in HbA1c from baseline, except of SURPASS in 
+Japanese population (SURPASS J-mono) which aimed to evaluate 
+the safety of tirzepatide in the study population. The primary out -
+come was reported using two estimands for most studies, the effi -
+cacy estimand, and the treatment-regimen estimand. The efficacy 
+estimand excludes data on the treatment after rescue therapy or 
+discontinuation of study drugs. The treatment-regimen estimand 
+represents efficacy of treatment regardless of study drug discontin -
+Figure 2.  Mechanisms of action (white background boxes) and clinical outcomes (colored background boxes) with tirzepatide in SURPASS program. *Transient effect, 
+MACE-4 (cardiovascular death, myocardial infarction, stroke, and hospitalisation for unstable angina), composite kidney outcome: time to first occurrence of estimated glo -
+merular filtration rate (eGFR) decline of at least 40% from baseline, end-stage kidney disease, death due to kidney failure, or new-onset macroalbuminuria. VAT, visceral 
+adipose tissue; ASAT, abdominal subcutaneous adipose tissue; WL, weight loss; T2DM, type 2 diabetes mellitus; HbA1c, glycosylated hemoglobin; TIR, time in range; 
+MACE-4, major adverse cardiovascular event; HR, hazard ratio; CVD, cardiovascular disease; ACR, albumin-creatinine ratio.
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 30 | https://www.jomes.org
+Table 1.  Summary of baseline characteristics and trial designs for SURPASS programme and SURMOUNT-1 study
+Study Treatment armsNo. of 
+participantsInclusion criteriaDuration of trial; 
+blinded/open label; 
+randomisation ratioPrimary analysis pointMean 
+age 
+(yr)Female 
+sex (%) Mean 
+duration 
+of T2DM 
+(yr)Mean 
+baseline 
+weight
+ (kg)Mean 
+baseline 
+HbA1c 
+(%)Mean 
+baseline 
+BMI 
+(kg/m2)
+SURPASS-1 Tirzepatide 5, 10, 15 mg 
+and placebo478 HbA1c 7%–9.5%, BMI ≥ 23 kg/m2, treated with diet and 
+exercise40 wk; blinded; 
+1:1:1:140 wk, mean change 
+from baseline HbA1c54.1 48 4.7 85.9 7.94 31.9
+SURPASS-2 Tirzepatide 5, 10, 15 mg 
+and semaglutide 1 mg1,879 HbA1c 7%–10.5%, BMI ≥ 25 kg/m2, treated with  
+metformin40 wk; open label; 
+1:1:1:140 wk, mean change 
+from baseline HbA1c56.6 53 8.6 93.7 8.28 34.2
+SURPASS-3 Tirzepatide 5, 10, 15 mg 
+and insulin degludec1,444 HbA1c 7%–10.5%, BMI ≥ 25 kg/m2, treated with  
+metformin ± SGLT2 inhibitor52 wk; open label; 
+1:1:1:152 wk, mean change 
+from baseline HbA1c57.4 44 8.4 94.3 8.17 33.5
+SURPASS-4 Tirzepatide 5, 10, 15 mg 
+and insulin glargine2,002 Increased cardiovascular risk, HbA1c 7.5%–10.5%, BMI 
+≥ 25 kg/m2, treated with metformin, SGLT2 inhibitor, 
+sulfonylurea, or any combination of these104 wk; open label; 
+1:1:1:352 wk, mean change 
+from baseline HbA1c63.6 38 11.8 90.3 8.52 32.6
+SURPASS-5 Tirzepatide 5, 10, 15 mg 
+and placebo475 HbA1c 7%–10.5%, BMI ≥ 23 kg/m2, receiving once-daily 
+insulin glargine ± metformin40 wk; open label; 
+1:1:1:140 wk, mean change 
+from baseline HbA1c61.0 44 13.3 95.2 8.31 33.2–
+33.6
+SURPASS  
+J-monoTirzepatide 5, 10, 15 mg 
+and dulaglutide 0.75 mg636 HbA1c 7%–10%, BMI ≥ 23 kg/m2, treated with diet and 
+exercise, or having discontinued anti-hyperglycemic 
+monotherapy52 wk; blinded; 
+1:1:1:152 wk, mean change 
+from baseline HbA1c56.6 24 4.8 78.2 8.2 28.1
+SURPASS  
+J-comboTirzepatide 5, 10, 15 mg 443 HbA1c ≥ 7.0% to < 11.0%, BMI ≥ 23 kg/m2, treated with 
+oral antihyperglycemic monotherapy52 wk; open label; 
+1:1:152 wk, incidence of 
+treatment-emergent 
+adverse events57.0 24 8.6 77.5 8.6 27.9
+SURMOUNT-1 Tirzepatide 5, 10, 15 mg 
+and placebo2,539 At least one unsuccessful dietary effort to lose weight, and 
+BMI ≥ 30 or ≥ 27 kg/m2 with hypertension/dyslipid -
+emia/obstructive sleep apnoea/cardiovascular disease72 wk; blinded; 
+1:1:1:172 wk, (1) % change in 
+body weight from 
+baseline and (2) 
+weight loss ≥ 5%44.9 68 NA 104.8 5.6 38.0
+T2DM, type 2 diabetes mellitus; HbA1c, glycosylated hemoglobin; BMI, body mass index; SGLT2, sodium-glucose co-transporter 2; NA, not applicable.
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 https://www.jomes.org | 31
+uation or use of rescue therapy.62,68,69 This review will use the re -
+ported efficacy estimand for HbA1c and WL parameters (as this is 
+reported in all the SURPASS studies) unless otherwise specified.
+SURPASS PROGRAM: CLINICAL OUTCOMES
+Glycemic outcomes
+Tirzepatide reduced HbA1c in a dose-dependent manner across 
+all the studies using both estimands (T able 2, Fig. 3).60-66 In people 
+with early T2DM treated only with diet and exercise (SURPASS-1), 
+tirzepatide 5 to 15 mg improved the HbA1c by 1.87% to 2.07% 
+compared to 0.04% increase at the placebo group.60 
+In SURPASS-2, people with established T2DM treated with tirz -
+epatide 5 to 15 mg for 40 weeks and achieved HbA1c reduction 
+2.09% to 2.46% compared to 1.86% reduction with semaglutide  
+1 mg.61 Similarly, in SURPASS-3, tirzepatide 5 to 15 mg for 52 weeks 
+resulted in 1.93% to 2.37% HbA1c reduction versus 1.34% decrease 
+with insulin degludec.63
+In people with advanced T2DM ( > 10 years) and increased car -
+diovascular risk (SURPASS-4), the use of tirzepatide 5 to 15 mg 
+also decreased HbA1c by 2.24% to 2.58% compared to insulin 
+glargine which improved HbA1c by 1.44% at 52 weeks.62 In SUR -
+PASS-5, when tirzepatide was added in people who were already 
+on insulin glargine, it led to 2.23% to 2.59% reduction in HbA1c 
+versus 0.93% with placebo—this improvement in glycemia was 
+also associated with a reduction in insulin use.64 
+In Japanese populations, tirzepatide 5 to 15 mg decreased HbA1c 
+by 2.4% to 3.02% after 52 weeks of treatment.65,66 Tirzepatide was 
+also more effective for glycemic control compared to dulaglutide 
+0.75 mg once weekly in this population.
+More patients in the tirzepatide groups achieved the HbA1c tar -
+gets of < 7%, ≤ 6.5%, and < 5.7% both in the global and Japanese 
+SURPASS studies compared to placebo or active comparators (T a -
+ble 2).60-66 
+Fasting serum glucose (FSG) was lower with tirzepatide across all 
+doses and studies (–43.6 to –74.4 mg/dL or –2.4 to –4.1 mmol/L) 
+compared to baseline levels as well as compared to placebo, sema -
+glutide 1 mg, and dulaglutide 0.75 mg ( J-mono) (T able 3). In 
+SURPASS-3, the FSG reduction with all tirzepatide doses was com -
+parable to the FSG achieved with insulin degludec, when in SUR -PASS-4, only the 15 mg tirzepatide dose produced a significant 
+FSG reduction compared to insulin glargine.60-66,68
+Continuous glucose monitoring in a subgroup of participants in 
+SURPASS-3, showed that all tirzepatide doses (5, 10, and 15 mg) 
+improved the time in range (TIR, 70 to 180 mg/dL or 3.9 to  
+10 mmol/L) (TIR increased by 32% to 40% from baseline, achiev -
+ing overall 85% to 91% TIR) compared to insulin degludec (TIR 
+increased by 22% from baseline, achieving overall 75% TIR) at  
+52 weeks after randomisation.70 The tirzepatide groups had also 
+less time below range ( < 70 mg/dL or < 3.9 mmol/L) compared 
+to insulin and reduced glycemic variability.70
+Weight outcomes
+Marked WL was seen in all tirzepatide groups across the SUR -
+PASS program (Fig. 2).60-66 In people with early onset T2DM,  
+40 weeks of tirzepatide 5 to 15 mg led to WL of 7 to 9.5 kg com -
+pared to 0.7 kg WL with placebo.60 
+In people with established T2DM, larger WL was achieved across 
+all tirzepatide doses (–7.8, –10.3, and –12.4 kg with 5, 10, and 15 mg, 
+respectively) compared to semaglutide 1 mg (–6.2 kg, SURPASS-2).61 
+Initiation of insulin degludec in SURPASS-3 caused weight gain of 
+2.3 kg after 52 weeks of treatment, whereas tirzepatide 5 to 15 mg 
+reduced weight by 7.5 to 12.9 kg.63
+In people with advanced T2DM, initiation of insulin glargine on 
+a background of other glucose-lowering medications (SUR -
+PASS-4) led to weight gain of 1.9 kg after 52 weeks compared to 
+7.1 to 11.7 kg WL with tirzepatide.62 In SURPASS-5, all the partici -
+pants were on basal insulin glargine and the tirzepatide group 
+achieved 6.2 to 10.9 kg WL compared to 1.7 kg weight gain with 
+placebo.64
+In Japanese populations, tirzepatide 5 to 15 mg resulted in 3.8 to 
+10.7 kg WL at 52 weeks.65,66 Across the SURPASS program, 65% to 
+89% of people with T2DM who received tirzepatide 10 or 15 mg 
+achieved ≥ 5% WL, 40% to 69% managed ≥ 10% WL, and 17% to 
+45% achieved ≥ 15% WL (T able 2).60-66 
+In SURPASS-3, a subgroup of participants underwent magnetic 
+resonance imaging proton density fat fraction assessment prior to 
+initiation of treatment with tirzepatide or insulin degludec and at 
+52 weeks after randomisation for assessment of the abdominal fat 
+and liver fat content (LFC).71 Visceral abdominal tissue and ab -
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 32 | https://www.jomes.org
+Table 2.  Proportion of people achieving HbA1c and weight loss targets in SURPASS programme and SURMOUNT-1 study
+TrialTreatment arm (no. randomised 
+to each arm)Efficacy estimand Treatment-regimen estimand
+Change from baseline Proportion (%) of people achieving the target Change from baseline Proportion (%) of people achieving the target
+HbA1c (%) WeightHbA1c 
+< 7%HbA1c 
+≤ 6.5%HbA1c 
+< 5.7%WL 
+≥ 5%WL 
+≥ 10%WL 
+≥ 15%HbA1c (%) WeightHbA1c 
+< 7%HbA1c 
+≤ 6.5%HbA1c 
+< 5.7%WL 
+≥ 5%WL 
+≥ 10%WL 
+≥ 15%
+SURPASS-1 Tirzepatide 5 mg (n = 121) –1.87 –7.0 kg 87 82 34 67 31 13 –1.75 –6.3 kg 82 75 31 61 27 12
+Tirzepatide 10 mg (n = 121) –1.89 –7.8 kg 92 81 31 78 40 17 –1.71 –7.0 kg 85 74 27 71 34 16
+Tirzepatide 15 mg (n = 121) –2.07 –9.5 kg 88 86 52 77 47 27 –1.69 –7.8 kg 78 73 38 62 38 23
+Placebo (n = 115) 0.04 –0.7 kg 19 10 1 14 1 0 –0.09 –1.0 kg 23 11 1 11 0 0
+SURPASS-2 Tirzepatide 5 mg (n = 470) –2.09 –7.8 kg 85 74 29 69 36 15 –2.01 –7.6 kg 82 69 27 65 34 15
+Tirzepatide 10 mg (n = 469) –2.37 –10.3 kg 89 82 45 82 53 28 –2.24 –9.3 kg 86 77 40 76 47 24
+Tirzepatide 15 mg (n = 470) –2.46 –12.4 kg 92 87 51 86 65 40 –2.30 –11.2 kg 86 80 46 80 57 36
+Semaglutide 1 mg (n = 469) –1.86 –6.2 kg 81 66 20 58 28 9 –1.86 –5.7 kg 79 64 19 54 24 8
+SURPASS-3 Tirzepatide 5 mg (n = 358) –1.93 –7.5 kg 82 71 26 66 37 13 –1.85 –7.0 kg 79 67 24 61 35 12
+Tirzepatide 10 mg (n = 360) –2.20 –10.7 kg 90 80 39 84 56 28 –2.01 –9.6 kg 82 71 34 74 50 25
+Tirzepatide 15 mg (n = 359) –2.37 –12.9 kg 93 85 48 88 69 43 –2.14 –11.3 kg 83 74 41 79 58 35
+Insulin degludec (n = 360) –1.34 2.3 kg 61 44 5 6 3 0 –1.25 1.9 kg 58 42 5 8 3 0
+SURPASS-4 Tirzepatide 5 mg (n = 329) –2.24 –7.1 kg 81 66 23 63 36 14 –2.11 –6.4 kg 75 62 22 57 32 13
+Tirzepatide 10 mg (n = 328) –2.43 –9.5 kg 88 76 33 78 53 24 –2.30 –8.9 kg 83 70 31 74 50 23
+Tirzepatide 15 mg (n = 338) –2.58 –11.7 kg 91 81 43 85 66 37 –2.41 –10.6 kg 85 74 38 77 59 33
+Insulin lantus (n = 1000) –1.44 1.9 kg 51 32 3 8 2 <1 –1.39 1.7 kg 49 31 4 9 2 <1
+SURPASS-5 Tirzepatide 5 mg (n = 116) –2.23 –6.2 kg 93 80 26 54 23 7 –2.11 –5.4 kg 87 74 24 48 21 7
+Tirzepatide 10 mg (n = 119) –2.59 –8.2 kg 97 95 48 65 47 27 –2.40 –7.5 kg 90 86 42 58 42 24
+Tirzepatide 15 mg (n = 120) –2.59 –10.9 kg 94 92 62 85 51 32 –2.34 –8.8 kg 85 80 50 72 41 23
+Placebo (n = 120) –0.93 1.7 kg 34 17 3 6 1 0 –0.86 1.6 kg 35 17 3 6 1 0
+SURPASS  
+J-mono Tirzepatide 5 mg (n = 159) –2.4 –5.8 kg 94 92 51 61 34 16 –2.24 –5.4 kg NR NR NR NR NR NR
+Tirzepatide 10 mg (n = 158) –2.6 –8.5 kg 97 96 58 82 50 26 –2.36 –7.2 kg NR NR NR NR NR NR
+Tirzepatide 15 mg (n = 160) –2.8 –10.7 kg 99 97 79 89 67 45 –2.57 –9.4 kg NR NR NR NR NR NR
+Dulaglutide 0.75 mg (n = 159) –1.3 –0.5 kg 67 40 3 11 3 0 –1.27 –0.4 kg NR NR NR NR NR NR
+SURPASS  
+J-combo Tirzepatide 5 mg (n = 148) –2.57 –3.8 kg 93 87 37 44 20 7 NR NR NR NR NR NR NR NR
+Tirzepatide 10 mg (n = 147) –2.98 –7.5 kg 98 93 67 71 48 29 NR NR NR NR NR NR NR NR
+Tirzepatide 15 mg (n = 148) –3.02 –10.2 kg 97 92 71 84 64 41 NR NR NR NR NR NR NR NR
+SURMOUNT-1 Tirzepatide 5 mg (n = 630) NA –16.0% NA NA NA 89 73 50 NA –15.0% NA NA NA 85 69 48
+Tirzepatide 10 mg (n = 636) NA –21.4% NA NA NA 96 86 74 NA –19.5% NA NA NA 89 78 67
+Tirzepatide 15 mg (n = 630) NA –22.5% NA NA NA 96 90 78 NA –20.9% NA NA NA 91 84 71
+Placebo (n = 643) NA –2.4% NA NA NA 28 14 6 NA –3.1% NA NA NA 35 19 9
+HbA1c, glycosylated hemoglobin; WL, weight loss; NR, not reported; NA, not applicable. 
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 https://www.jomes.org | 33
+Figure 3.  (A) Change in glycosylated hemoglobin (HbA1c) with different doses of tirzepatide and comparators in SURPASS programme. (B) Change in weight with different 
+doses of tirzepatide and comparators in SURPASS programme and SURMOUNT-1 study. All data is presented as efficacy estimand. * P< 0.05 for the estimated treatment 
+difference with each dose of tirzepatide vs. placebo and/or active comparator. T2DM, type 2 diabetes mellitus; Met, metformin; SGLT2i, sodium-glucose co-transporter 2 
+inhibitor; SU, sulfonylurea; OAD, oral antidiabetic drug; Tirz, tirzepatide; Pbo, placebo; Sema, semaglutide; Degl, insulin degludec; Glar, insulin glargine; Dula, dulaglutide.
+A
+BJapanese trials
+Japanese trials Global trialsGlobal trials
+Global trials
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 34 | https://www.jomes.org
+dominal subcutaneous adipose tissue were decreased compared to 
+baseline with all tirzepatide doses. At week 52, LFC was reduced 
+by 29.78% to 47.11% with tirzepatide compared to baseline, 
+whereas it was reduced less (11.17%) with insulin. Notably, 67% to 
+81% of people treated with tirzepatide reached at least 30% relative 
+reduction in LFC, a degree of response associated with improve -
+ments in liver histology—these results suggest that tirzepatide may 
+be a treatment option for NAFLD.71CARDIOMETABOLIC RISK FACTORS
+Multiple cardiometabolic risk factors including waist circumfer -
+ence, blood pressure, and lipids improved with tirzepatide in the 
+SURPASS trials (T able 3). Waist circumference reduced by 3.8 to 
+10.9 cm with tirzepatide 5 to 15 mg at SURPASS studies—this re -
+duction was significant compared to placebo and active compara -
+tors.60-66,68 Systolic blood pressure was decreased with tirzepatide by 
+2.8 to 12.6 mmHg, and diastolic blood pressure was also reduced Table 3.  Change from baseline fasting plasma glucose and cardiometabolic risk factors in SURPASS programme and SURMOUNT-1 study
+Trial Treatment armChange from baseline % Change from baseline
+WC 
+(cm)FSG* 
+(mg/dL)SBP
+ (mmHg)DBP 
+(mmHg)Total 
+cholesterolLDL-C 
+(mg/dL)TriglyceridesHDL-C 
+(mg/dL)ALT AST
+SURPASS-1 Tirzepatide 5 mg –5.7 –43.6 –4.7†–2.9†–5.47 –6.66†–18.5 4.8 –29.1 –11.6
+Tirzepatide 10 mg –6.9 –45.9 –5.2 –3.1†–6.34 –7.58†–18.2 3.2 –25.7 –9.5†
+Tirzepatide 15 mg –7.2 –49.3 –4.7†–3.4†–8.43 –12.43 –21.0 7.5 –32.9 –13.9
+Placebo –2.0 12.9 –2.0 –1.4 –0.76 –1.64 4.7 –3.8 –10.2 –2.6
+SURPASS-2 Tirzepatide 5 mg –6.9 –56.0 –4.8 –1.9 –5.49†–7.68†–19.0 6.8 –22.4†–8.7†
+Tirzepatide 10 mg –9.6 –61.6 –5.3 –2.5 –5.96†–5.59†–24.1 7.9 –29.2 –13.7
+Tirzepatide 15 mg –9.9 –63.4 –6.5 –2.9 –6.26†–5.15†–24.8 7.1 –30.0 –14.1
+Semaglutide 1 mg –5.6 –48.6 –3.6 –1.0 –4.78 –6.39 –11.5 4.4 –21.6 –9.2
+SURPASS-3 Tirzepatide 5 mg –7.1 –48.2 –4.9 –2.0 –4.25†–6.01†–15.4†5.5 –22.3 –11.4
+Tirzepatide 10 mg –9.4 –54.8†–6.6 –2.5 –5.81†–5.70†–26.7 10.2 –27.4 –12.8
+Tirzepatide 15 mg –10.9 –59.2†–5.5 –1.9 –5.69†–6.55†–25.2 10.2 –30.7 –16.4
+Insulin degludec 0.7 –55.7 0.5 0.4 –2.92 –2.71 –12.2 1.0 –17 –5.8
+SURPASS-4 Tirzepatide 5 mg –8.0 –50.4†–2.8 –1.0 –5.1 –6.8 –16.3 6.7 NR NR
+Tirzepatide 10 mg –10.1 –54.9†–3.7 –0.8 –5.5 –8.3 –20.1 9.7 NR NR
+Tirzepatide 15 mg –8.9 –59.3 –4.8 –1.0 –5.6 –7.9 –22.5 10.8 NR NR
+Insulin lantus 2.3 –51.4 1.3 0.7 0 1.4 –6.4 2.9 NR NR
+SURPASS-5 Tirzepatide 5 mg –3.8 –61.4 –6.1 –2.0 –8.8 –8.9 –15.2 2.1†–19.4 –4.1†
+Tirzepatide 10 mg –7.4 –67.9 –8.3 –3.3 –10.3 –12.8 –19.3 1.8†–23.3 –8.6
+Tirzepatide 15 mg –8.9 –67.7 –12.6 –4.5 –12.9 –15.5 –24.9 0.9†–28.3 –14.1
+Placebo 1.0 –38.9 –1.7 –2.1 –0.4 2.8 –6.8 1.7 –7.5 0.0
+SURPASS  
+J-monoTirzepatide 5 mg –5.4 –57.9 –6.5 –3.2 –10.0 –12.0 –27.1 3.8 –26.2 –14.0
+Tirzepatide 10 mg –6.8 –64.4 –8.8 –4.0 –11.6 –12.8 –32.8 5.4 –30.7 –14.9
+Tirzepatide 15 mg –9.8 –67.6 –11.0 –5.6 –15.4 –19.3 –37.7 5.9 –32.4 –17.9
+Dulaglutide 0.75 mg 0.4 –31.9 –1.4 0.1 –3.8 –4.8 –8.2 0 –0.9 2.2
+SURPASS  
+J-comboTirzepatide 5 mg –3.3 –58.6 –5.1 –2.7 –11.1 –13.6 –21.9 0.9 –14.7 –4.7
+Tirzepatide 10 mg –7.2 –71.2 –10.2 –3.6 –13.4 –15.1 –31.1 2.4 –23.9 –13.8
+Tirzepatide 15 mg –9.0 –74.4 –8.7 –3.4 –14.6 –18.0 –37.4 5.1 –28.9 –12.2
+SURMOUNT-1 Tirzepatide 5 mg –14.6 NA –7.0 –5.2 –4.9 –5.3 –24.3 7.0 –25.7 –11.4
+Tirzepatide 10 mg –19.4 NA –8.2 –5.5 –5.6 –6.6 –27.0 8.6 –28.1 –12.1
+Tirzepatide 15 mg –19.9 NA –7.6 –4.6 –7.4 –8.6 –31.4 8.2 –30.3 –14.2
+Placebo –3.4 NA –1.2 –1.0 –1.1 –0.9 –6.3 0.2 –12.8 –6.6
+*Efficacy estimand; †No significant difference from comparator. 
+WC, waist circumference; FSG, fasting serum glucose; SBP , systolic blood pressure; DBP , diastolic blood pressure; LDL-C, low density lipoprotein cholesterol; HDL-C, high density li -
+poprotein cholesterol; ALT, alanine transaminase; AST, aspartate transaminase; NR, not reported; NA, not applicable.
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 https://www.jomes.org | 35
+by 1 to 5.6 mmHg across the programme. Pulse rate was found to 
+increase (0.7 to 8.3 beats/minute on average), a similar magnitude 
+to that seen with use of GLP-1 RAs.60-66,68 
+INITIAL EVIDENCE ON CARDIOVASCULAR 
+AND RENAL SAFETY
+SURPASS-4 assessed the safety and efficacy of tirzepatide vs in -
+sulin glargine in a high cardiovascular risk population with ad -
+vanced T2DM over a period of 2 years.62 Cardiovascular outcomes 
+were assessed (as secondary outcome) using a composite of 
+MACE-4 consisting of: cardiovascular death, myocardial infarction, 
+stroke, and hospitalisation for unstable angina. Adjudicated 
+MACE-4 events were not increased in tirzepatide groups com -
+pared to insulin glargine (hazard ratio [HR], 0.74; 95% confidence 
+interval [CI], 0.51 to 1.08).62
+A pre-specified cardiovascular meta-analysis included seven clini -
+cal trials with follow-up at least 26 weeks and compared the time to 
+first occurrence of MACE-4 between pooled tirzepatide (n = 4,887) 
+and control groups (n = 2,328).72 In a population with one-third 
+having established cardiovascular disease, there were 142 partici -
+pants who experienced at least one MACE-4 event after treatment 
+for just over a year. The HRs comparing tirzepatide versus controls 
+were 0.80 (95% CI, 0.57 to 1.11) for MACE-4; 0.90 (95% CI, 0.50 
+to 1.61) for cardiovascular death; and 0.80 (95% CI, 0.51 to 1.25) 
+for all-cause death.72 These results suggest that there is no excess 
+cardiovascular risk with tirzepatide use; however, the exact impact 
+of tirzepatide on cardiovascular outcomes in people with T2DM 
+and established cardiovascular disease will be addressed in the on -
+going A Study of Tirzepatide Compared With Dulaglutide on Ma -
+jor Cardiovascular Events in Participants With Type 2 Diabetes 
+(SURPASS-CVOT) study (NCT04255433).
+An exploratory post hoc  analysis of SURPASS-4 showed that tirz -
+epatide delayed the rate of estimated glomerular filtration rate 
+(eGFR) decline and reduced the urine albumin to creatinine ratio 
+(UACR) compared with insulin glargine in people with T2DM 
+and high cardiovascular risk.73 At baseline, participants had a mean 
+eGFR of 81 mL/min/1.73 m2 and a median UACR of 15 mg/g 
+(17% of participants had eGFR < 60 mL/min/1.73 m2, 28% had 
+microalbuminuria, and 8% had macroalbuminuria).73 The mean rate of eGFR decline was –1.4 mL/min/1.73 m2/year at the com -
+bined tirzepatide groups versus –3.6 mL/min/1.73 m2/year at the 
+insulin group. UACR increased from baseline with insulin glargine 
+(by 36.9%) but not with tirzepatide (–6.8%; between-group differ -
+ence –31.9%).73 Participants on tirzepatide had lower occurrence 
+of the composite kidney endpoint (time to first occurrence of eGFR 
+decline of at least 40% from baseline, end-stage kidney disease, death 
+due to kidney failure, or new-onset macroalbuminuria) compared 
+with those who received insulin glargine (HR, 0.58; 95% CI, 0.43 
+to 0.8) and this finding was mainly driven by a reduction in new-
+onset macroalbuminuria.73
+SAFETY AND TOLERABILITY
+Tirzepatide 5 to 15 mg was largely well tolerated and serious 
+adverse events during the SURPASS programme were reported by 
+1% to 8% of participants with early or established diabetes (SUR -
+PASS 1-3, SURPASS J-mono, and SURPASS J-combo) and by 6% 
+to 17% of people with advanced diabetes (SURPASS 4-5)—these 
+percentages were similar to the number of serious adverse events 
+reported in placebo and active comparator groups (T able 4). The 
+majority of adverse events were gastrointestinal in nature, and com -
+parisons with semaglutide and dulaglutide show that these are simi -
+lar to GLP-1 RAs. Most of the adverse events were mild-moderate 
+in severity, dose-dependent and occurring during dose-escalation 
+and reducing thereafter. There were very few cases of pancreatitis 
+or cholelithiasis, and injection site reactions were also rare.60-66,68
+Incidence of clinically important/serious hypoglycemia (blood 
+glucose < 54 mg/dL) was low at tirzepatide groups in SURPASS 
+1-3, SURPASS J-mono, and combo (0% to 2%) (T able 4).60,61,63,65,66 
+In SURPASS-4, a high proportion of participants were on sulfo -
+nylureas (54%); however, the incidence of serious hypoglycemia 
+in the tirzepatide groups (6% to 9%) was lower than that observed 
+with insulin glargine (19%).62 On the other hand, in SURPASS-5 
+where all the participants were on background insulin glargine, 
+the rates of serious hypoglycemia in the tirzepatide groups were 
+higher (14% to 19%) compared to the placebo group (13%).64 In 
+summary, treatment with tirzepatide does not appear to increase 
+the risk of hypoglycemia unless it is combined with insulin or sul -
+fonylurea.
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 36 | https://www.jomes.org
+TIRZEPATIDE AS TREATMENT FOR 
+OBESITY IN PEOPLE WITHOUT DIABETES
+At the recently published SURMOUNT-1 study, 2,539 partici -
+pants with obesity or overweight were randomised to tirzepatide 5, 
+10, or 15 mg or placebo along with a moderate intensity lifestyle 
+intervention.74 At 72 weeks, the mean WL was 16% to 22.5% in 
+tirzepatide 5 to 15 mg groups versus 2.4% WL in the placebo group 
+(T able 2). The 31.6% to 62.9% of participants treated with tirzepa -
+tide 5 to 15 mg achieved ≥ 20% WL and 16.5% to 39.7% achieved 
+≥ 25% WL compared to 1.3% and 0.3% with placebo, respectively.74 More than 95% of people with prediabetes converted to normogly -
+cemia (HbA1c < 5.7%) at 72 weeks, as compared to 62% of partic -
+ipants in the placebo group.74
+Cardiometabolic risk factors (waist circumference, blood pres -
+sure, and lipids), inflammatory markers, and the physical function 
+were all improved with tirzepatide compared to placebo in SUR -
+MOUNT-1 (T able 3).74
+The most reported adverse events were similar to those at SUR -
+PASS program (nausea, diarrhea, vomiting, and constipation) (T a -
+ble 4). Only 4.3% to 7.1% of participants taking tirzepatide discon -
+tinued the medication due to adverse events. In SURMOUNT-1, Table 4.  Adverse events in the SURPASS and SURMOUNT-1 studies
+Trial Treatment armAny AEs 
+(%)SAEs 
+(%)AEs leading 
+to trial product 
+discontinuation (%)Acute 
+pancreatitis 
+(%)Cholelithiasis 
+(%)Hypoglycemia 
+( < 54 mg/dL) 
+(%)Diarrhea 
+(%)Nausea 
+(%)Vomiting 
+(%)Constipation 
+(%)
+SURPASS-1 Tirzepatide 5 mg (n = 121) 69 4 3 0 1 0 12 12 3 6
+Tirzepatide 10 mg (n = 121) 67 2 5 0 0 0 14 13 2 5
+Tirzepatide 15 mg (n = 121) 64 1 7 0 0 0 12 18 6 7
+Placebo (n = 115) 66 3 3 0 0 1 8 6 2 1
+SURPASS-2 Tirzepatide 5 mg (n = 470) 64 7 5 0 0.2 0.6 13 17 6 7
+Tirzepatide 10 mg (n = 469) 69 5 8 0.4 0.4 0.2 16 19 9 5
+Tirzepatide 15 mg (n = 470) 69 6 8 0.4 0.4 2 14 22 10 5
+Semaglutide 1 mg (n = 469) 64 3 4 0.6 0 0.4 12 18 8 6
+SURPASS-3 Tirzepatide 5 mg (n = 358) 61 8 7 0 1 1 15 12 6 NR
+Tirzepatide 10 mg (n = 360) 69 6 10 0 <1 1 17 23 9 NR
+Tirzepatide 15 mg (n = 359) 73 7 11 0 <1 2 16 24 10 NR
+Insulin degludec (n = 360) 54 6 1 0 0 7 4 2 1 NR
+SURPASS-4 Tirzepatide 5 mg (n = 329) 71 15 11 <1 <1 9 13 12 5 5
+Tirzepatide 10 mg (n = 328) 74 17 9 <1 <1 6 20 16 8 4
+Tirzepatide 15 mg (n = 338) 77 12 11 <1 <1 8 22 23 9 4
+Insulin lantus (n = 1,000) 68 19 5 <1 <1 19 4 2 2 <1
+SURPASS-5 Tirzepatide 5 mg (n = 116) 73 8 6 0 0.9 16 12 13 7 6
+Tirzepatide 10 mg (n = 119) 68 11 8 0 0 19 13 18 8 7
+Tirzepatide 15 mg (n = 120) 78 8 11 0 0 14 21 18 13 7
+Placebo (n = 120) 68 8 3 0 0 13 10 3 3 2
+SURPASS  
+J-monoTirzepatide 5 mg (n = 159) 82 5 8 0 1 0 17 12 8 15
+Tirzepatide 10 mg (n = 158) 77 6 10 0 0 0 9 20 5 18
+Tirzepatide 15 mg (n = 160) 84 4 10 1 1 1 11 20 12 14
+Dulaglutide 0.75 mg (n = 159) 77 9 6 0 0 0 7 8 1 11
+SURPASS  
+J-comboTirzepatide 5 mg (n = 148) 74 1 5 0 1 1 7 9 3 8
+Tirzepatide 10 mg (n = 147) 74 7 5 0 1 1 14 14 7 14
+Tirzepatide 15 mg (n = 148) 84 7 11 0 1 2 14 27 10 15
+SURMOUNT-1 Tirzepatide 5 mg (n = 630) 81 6 1 0.2 1 1 19 25 8 17
+Tirzepatide 10 mg (n = 636) 82 7 3 0.2 1 2 21 33 11 17
+Tirzepatide 15 mg (n = 630) 79 5 3 0.2 0.6 2 23 31 12 12
+Placebo (n = 643) 72 7 <1 0.2 0.9 0.2 7 10 2 6
+AE, adverse event; SAE, serious adverse event; NR, not reported.
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 https://www.jomes.org | 37
+cholecystitis was reported more frequently with tirzepatide com -
+pared to placebo (overall incidence was still low < 0.6%), possibly 
+due to the considerable weight reduction with the medication.74
+DISCUSSION
+The WL (5.4 to 12.9 kg) and the improvement in glycemic con -
+trol (1.87% to 3.02% HbA1c reduction) achieved with tirzepatide 
+in SUPRASS programme suggests that we are entering a new era in 
+T2DM pharmacotherapy where ≥ 10% WL and even ≥ 15% WL 
+together with HbA1c ≤ 6.5% are feasible targets, independent of 
+background glucose-lowering agents and even in people with  
+> 10 years of T2DM duration. In all the clinical trials with active 
+comparators (basal insulins and once weekly GLP-1 RAs such as 
+dulaglutide up to 1.5 mg and semaglutide 1 mg), tirzepatide was 
+more efficacious not only in improving glycemia, but also in achiev -
+ing clinically significant WL and improving multiple cardiometa -
+bolic risk factors. Based on these findings, the latest ADA/EASD 
+2022 consensus guidelines for T2DM recommend tirzepatide as a 
+treatment with very high efficacy in helping people achieving both 
+the glycemic and WL targets; however, data on cardiovascular out -
+comes with tirzepatide is currently limited compared to other glu -
+cose-lowering medications with known cardio-protective actions 
+such as GLP-1 RAs and sodium-glucose co-transporter 2 (SGLT2) 
+inhibitors.7 The ongoing SURPASS-CVOT trial will provide defi -
+nite evidence on the effect of tirzepatide on cardiovascular outcomes 
+in people with T2DM and established cardiovascular disease, but 
+until then GLP-1 RAs and SGLT2 inhibitor with proven cardiovas -
+cular benefits remain the recommended glucose-lowering treatments 
+for people with T2DM and pre-existing atherosclerotic cardiovas -
+cular disease or very high cardiovascular risk.7
+In SURPASS-2, tirzepatide was compared to the GLP-1 RA sema -
+glutide 1 mg which is also considered a treatment with very high 
+efficacy for WL and glycemia improvement in people with T2DM. 
+A composite outcome of (1) an HbA1c ≤ 6.5% together with (2) 
+≥ 10% WL and (3) without episodes of severe or clinically signifi -
+cant hypoglycemia was achieved by 22% of participants at the sema -
+glutide 1 mg group, compared to 32% to 60% at the tirzepatide 5 to 
+15 mg groups after 40 weeks of treatment, demonstrating the po -
+tential of tirzepatide to improve further the current management of people with T2DM and obesity compared to the currently used 
+GLP-1 RAs.61 Mechanistic studies have shown significant improve -
+ments in insulin sensitivity, β-cell function as well as reduction in 
+glucagon secretion with tirzepatide 15 mg compared to semaglu -
+tide 1 mg in people with T2DM, which can explain the better effi -
+cacy of tirzepatide in improving glycemia.57 On the other hand, the 
+reduction in energy intake during an ad libitum lunch (buffet style) 
+with tirzepatide 15 mg (–348.4 kcal) was not significantly different 
+compared to semaglutide 1 mg (–284.1 kcal, P= 0.19) which may 
+suggest that mechanisms other than reduced food intake and appe -
+tite are contributed to the more WL observed with tirzepatide 15 mg 
+versus semaglutide 1 mg.59 An adjusted indirect treatment compari -
+son between semaglutide 2 mg (the highest approved semaglutide 
+dose for T2DM treatment) and tirzepatide 5 to 15 mg also showed 
+that tirzepatide 10 and 15 mg reduced the weight (by 3.15 to 5.15 kg) 
+and HbA1c (by 0.36% to 0.4%) significantly more compared to 
+semaglutide 2 mg.75 
+The exact molecular mechanisms behind the more powerful ther -
+apeutic effects of tirzepatide in glycemic control and WL versus 
+GLP-1 RA comparators are still under investigation.28 One hypothe -
+sis is that GLP-1 activity lowers glucose levels, facilitating the ef -
+fects of GIP on re-sensitised β-cells76; however, other GLP-1/GIP 
+dual agonists have not produced the same results as tirzepatide.77 
+Tirzepatide appears also to act as a biased agonist compared to 
+GLP-1, with little β-arrestin recruitment and receptor internaliza -
+tion, which may explain the superior activity on target cells.76 
+In studies where T2DM treatment was escalated to tirzepatide vs 
+initiation of basal insulin (SURPASS-3 and SURPASS-4), the esti -
+mated treatment difference regarding weight between the two groups 
+was between 9.0 and 15.3 kg. The better glycemic control com -
+pared to basal insulin seems to be mainly due to the reduction of 
+postprandial hyperglycemia.70 Moreover, in SURPASS-4, WL and 
+improvement in HbA1c was maintained for 2 years with tirzepatide, 
+providing some initial evidence for sustained improvements over 
+time.62,68
+In SURPASS-5, tirzepatide was added to background basal insu -
+lin and there was an increase in episodes of hypoglycemia compared 
+to placebo—clinicians may wish to consider reducing the dose of 
+basal insulin by at least 20% on initiation of tirzepatide for people 
+with HbA1c < 8% and adjusting the dose of sulfonylureas.64 The 
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 38 | https://www.jomes.org
+ongoing SURPASS-6 study will also assess the safety and efficacy 
+of adding tirzepatide versus prandial insulin lispro three times/day 
+in people with T2DM who are already on basal insulin (Fig. 4).
+SURPASS J trials showed that the Japanese population tended to 
+have greater HbA1c reductions with tirzepatide than the global 
+population (from similar baselines), which may be due to differenc -
+es in β-cell function and decreased insulin resistance in Asian popu -
+lations compared to White populations.65,68 
+Based on the pharmacokinetics of tirzepatide in people with im -
+paired kidney function, no dose adjustment is recommended for patients with renal impairment.78 However, there is very limited 
+data with tirzepatide in people with severe renal impairment as 
+SURPASS program (except from SURPASS-4 study) excluded 
+participants with eGFR < 30 mL/min/1.73 m2. An exploratory 
+analysis of SURPASS-4, demonstrated that tirzepatide may have 
+renoprotective actions compared to insulin glargine and these ben -
+efits were more pronounced in people with impaired kidney func -
+tion, supporting the design of future clinical trials with tirzepatide 
+in people with pre-existing kidney disease.73
+People with non-proliferative diabetic retinopathy requiring acute 
+Figure 4.  Selected ongoing clinical trials with tirzepatide (SURPASS program [green boxes], SURMOUNT program [red boxes], and other studies [blue boxes]). SUR -
+MOUNT-MMO, A Study of Tirzepatide on the Reduction on Morbidity and Mortality in Adults With Obesity; CV, cardiovascular; SURPASS-CVOT, A Study of Tirzepatide 
+Compared With Dulaglutide on Major Cardiovascular Events in Participants With Type 2 Diabetes; T2DM, type 2 diabetes mellitus; BMI, body mass index; SURPASS-
+SWITCH, A Study of Tirzepatide in Adult Participants With Type 2 Diabetes Switching From Dulaglutide; HbA1c, glycosylated hemoglobin; SYNERGY-NASH, A Study of 
+Tirzepatide (LY3298176) in Participants With Nonalcoholic Steatohepatitis (NASH); NASH, nonalcoholic steatohepatitis; SURMOUNT-OSA, Obstructive Sleep Apnea Mas -
+ter Protocol GPIF: A Study of Tirzepatide in Participants With Obstructive Sleep Apnea; SUMMIT, A Study of Tirzepatide in Participants With Heart Failure With Preserved 
+Ejection Fraction and Obesity; NYHA, New York Heart Association; LVEF, left ventricular ejection fraction; SURPASS-AP-Combo, A Study of Tirzepatide in Participants With 
+Type 2 Diabetes on Metformin With or Without Sulfonylurea; SURMOUNT-CN, A Study of Tirzepatide in Chinese Participants Without Type 2 Diabetes Who Have Obesity 
+or Overweight.
+
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 https://www.jomes.org | 39
+therapy, proliferative diabetic retinopathy and macular edema have 
+not been studied in the SURPASS program and for these patients 
+tirzepatide should be used with caution and appropriate monitor -
+ing. Similarly, tirzepatide should be used with caution for those with 
+a history of pancreatitis as this population has been excluded from 
+the SURPASS studies.
+Further research is also needed to establish the most appropriate 
+time points in the T2DM continuum to initiate tirzepatide in dif -
+ferent populations. For people with severe obesity (body mass in -
+dex ≥ 35 kg/m2) and T2DM, evidence from bariatric surgery sug -
+gests that the earlier after the T2DM diagnosis that significant WL 
+is achieved and maintained, the lower is the long-term risk for de -
+veloping micro- and macrovascular complications.79 However, wheth -
+er tirzepatide will lead to similar outcomes to bariatric surgery and 
+whether this will be a cost-effective approach requires further as -
+sessment.
+In people with obesity without T2DM, tirzepatide 10 and 15 mg 
+for 72 weeks resulted in 35.0% to 39.7% achieving ≥ 25% WL. 
+Though tirzepatide has not yet been approved for treatment of 
+obesity, these results suggest that it may be more efficacious than 
+semaglutide 2.4 mg once weekly (an approved treatment for obesi -
+ty) in people without diabetes, and it approaches the effectiveness 
+of sleeve gastrectomy.80 Lean muscle mass maintenance for people 
+who achieve large amounts of WL with tirzepatide may become a 
+challenge and the addition of exercise may help to improve body 
+composition and physical function. The ongoing SURMOUNT 
+program will assess the efficacy and safety of tirzepatide as treat -
+ment for chronic weight management in combination with differ -
+ent lifestyle interventions and in different populations. 
+FUTURE STUDIES WITH TIRZEPATIDE
+The safety and efficacy of tirzepatide in populations with T2DM 
+from the Asian-Pacific region will be evaluated at the A Study of 
+Tirzepatide in Participants With Type 2 Diabetes on Metformin 
+With or Without Sulfonylurea (SURPASS-AP-Combo). As dis -
+cussed before, the SURPASS-CVOT will assess the non-inferiority 
+and superiority of tirzepatide against dulaglutide 1.5 mg on cardio -
+vascular safety in people with T2DM and confirmed atherosclerotic 
+cardiovascular disease (Fig. 4).Looking at the SURMOUNT program, the efficacy of tirzepa -
+tide for weight management in people with overweight/obesity 
+and T2DM will be assessed in SURMOUNT-2. The ability of tirz -
+epatide to maintain or add to WL achieved after an intensive lifestyle 
+modification program will be investigated in SURMOUNT-3 when 
+the SURMOUNT-4 will assess the effect of continuing tirzepatide 
+vs switching to placebo on WL maintenance in adults with over -
+weight or obesity. The A Study of Tirzepatide in Chinese Partici -
+pants Without Type 2 Diabetes Who Have Obesity or Overweight 
+(SURMOUNT-CN) and the SURMOUNT-J studies will evaluate 
+tirzepatide as treatment for obesity in Chinese and Japanese popu -
+lations without diabetes. 
+The effect of tirzepatide on morbidity and mortality in a high 
+cardiovascular risk population living with obesity (without diabetes) 
+will be assessed at the A Study of Tirzepatide on the Reduction on 
+Morbidity and Mortality in Adults With Obesity (SURMOUNT-
+MMO) trial. Until today, no pharmacological intervention for chronic 
+weight management has demonstrated reduction in major cardio -
+vascular events in people living with obesity without diabetes; the 
+Semaglutide Effects on Heart Disease and Stroke in Patients With 
+Overweight or Obesity (SELECT) trial with semaglutide 2.4 mg 
+once weekly is also expected to be completed in September 2023.
+Apart from the SURPASS and SURMOUNT programs, the im -
+pact of tirzepatide in people with heart failure with preserved ejec -
+tion fraction and obesity and in people with nonalcoholic steato -
+hepatitis will be assessed at the SUMMIT and A Study of Tirzepa -
+tide (LY3298176) in Participants With Nonalcoholic Steatohepati -
+tis (NASH) (SYNERGY-NASH) trial, respectively.
+FURTHER POTENTIAL TREATMENTS FOR 
+OBESITY AND T2DM
+Beyond the GLP-1 and GIP co-agonism, multiple gut hormones 
+are undergoing early phase clinical trials in combination with GLP-
+1 (as dual or triple agonists) as potential treatments for obesity and 
+T2DM.81-84 
+Glucagon, a peptide secreted from pancreatic α-cells, which in -
+creases the blood glucose but also reduces energy intake and in -
+crease the energy expenditure could complement and enhance the 
+WL actions of GLP-1.85 Currently, dual agonists acting on both 
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 40 | https://www.jomes.org
+GLP-1 and glucagon receptors (BI 456906 and SAR428599) are 
+undergoing early phase clinical trials as treatments for T2DM and 
+obesity.86 
+The clinical success of dual GLP-1/GIP agonism with tirzepatide 
+on WL may also be surpassed by including glucagon receptor ago -
+nism. T riple agonists acting on GLP-1, GIP , and glucagon receptors 
+(such as LY3437943 and SAR441255) have shown encouraging 
+results in preclinical studies as well as in phase 1 clinical trials in 
+terms of safety, tolerability, WL, and glucose-lowering effect.87,88 
+Another promising combination of gut hormones which has pro -
+gressed to phase 3 trials (A Research Study to See How Well CagriSe -
+ma Helps People With Type 2 Diabetes and Excess Body Weight 
+Lose Weight [REDEFINE 2], NCT05394519) is the Cagri-Sema 
+(2.4 mg/2.4 mg), a combination of semaglutide 2.4 mg with a new 
+once weekly amylin analogue, cagrilintide 2.4 mg. Amylin agonism 
+reduces the appetite and food intake and has also glucose-lowering 
+actions by slowing the gastric emptying and suppressing glucagon 
+secretion.89 In a phase 1b study, cagrilintide 2.4 mg in combination 
+with semaglutide 2.4 mg led to 17.1% WL at 20 weeks compared 
+with 9.8% loss with semaglutide 2.4 mg plus placebo with good 
+tolerability.82
+In the near future, there is a real prospect for gut hormone com -
+binations to deliver improved outcomes over the currently available 
+treatments for T2DM and obesity.
+CONCLUSION
+The efficacy and safety of once weekly subcutaneous tirzepatide 
+in people with T2DM and/or obesity is supported by a growing 
+body of evidence through the SURPASS and SURMOUNT clini -
+cal trial programmes. Tirzepatide marks a new era in the pharma -
+cotherapy of T2DM and/or obesity where double digit WL and 
+maintenance together with excellent glycemic control and optimi -
+sation of multiple cardiometabolic risk factors is feasible through 
+combination of gut hormones. Additional research assessing long-
+term cardiovascular safety and effectiveness of tirzepatide as well  
+as its potential impact on other cardiometabolic complications is 
+awaited over the next years to help us understand better its posi -
+tion in the treatment algorithms for people with T2DM and/or 
+obesity. CONFLICTS OF INTEREST
+Dimitris Papamargaritis has acted as speaker for Novo Nordisk 
+and has received grants from Novo Nordisk, Novo Nordisk UK 
+Research Foundation, Academy of Medical Sciences/Diabetes UK 
+and Health Education East Midlands. Jack A. Sargeant has received 
+funding in the form of an investigator-initiated study grant from 
+AstraZeneca UK. Melanie J. Davies has acted as consultant, adviso -
+ry board member and speaker for Boehringer Ingelheim, Lilly, Novo 
+Nordisk, and Sanofi, an advisory board member and speaker for 
+AstraZeneca, an advisory board member for Janssen, Lexicon, Pfizer 
+and ShouTi Pharma Inc., a speaker for Napp Pharmaceuticals, No -
+vartis and T akeda Pharmaceuticals International Inc. and has received 
+grants in support of investigator and investigator-initiated trials from 
+Novo Nordisk, Sanofi-Aventis, Lilly, Boehringer Ingelheim, Astra -
+zeneca, and Janssen.
+ACKNOWLEDGMENTS
+This work was supported by the National Institute for Health 
+and Care Research (NIHR) Leicester Biomedical Research Centre.
+AUTHOR CONTRIBUTIONS
+Study concept and design: RS, DP , JAS, and MJD; drafting of 
+the manuscript: RS and DP; critical revision of the manuscript: 
+JAS and MJD; and study supervision: DP , JAS, and MJD.
+REFERENCES
+1. NCD Risk Factor Collaboration (NCD-RisC). T rends in adult 
+body-mass index in 200 countries from 1975 to 2014: a pooled 
+analysis of 1698 population-based measurement studies with 
+19.2 million participants. Lancet 2016;387:1377-96.
+2. Min T , Bain SC. The role of tirzepatide, dual GIP and GLP-1 
+receptor agonist, in the management of type 2 diabetes: the 
+SURPASS clinical trials. Diabetes Ther 2021;12:143-57.
+3. Leitner DR, Fruhbeck G, Yumuk V , Schindler K, Micic D, 
+Woodward E, et al. Obesity and type 2 diabetes: two diseases 
+with a need for combined treatment strategies: EASO can lead 
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 https://www.jomes.org | 41
+the way. Obes Facts 2017;10:483-92.
+4. Fried M, Yumuk V , Oppert JM, Scopinaro N, T orres A, Weiner 
+R, et al. Interdisciplinary European guidelines on metabolic 
+and bariatric surgery. Obes Surg 2014;24:42-55.
+5. Fruhbeck G, T oplak H, Woodward E, Yumuk V , Maislos M, 
+Oppert JM. Obesity: the gateway to ill health: an EASO posi -
+tion statement on a rising public health, clinical and scientific 
+challenge in Europe. Obes Facts 2013;6:117-20.
+6. Lingvay I, Sumithran P , Cohen RV , le Roux CW. Obesity 
+management as a primary treatment goal for type 2 diabetes: 
+time to reframe the conversation. Lancet 2022;399:394-405.
+7. Davies MJ, Aroda VR, Collins BS, Gabbay RA, Green J, 
+Maruthur NM, et al. Management of hyperglycaemia in type 
+2 diabetes, 2022: a consensus report by the American Diabe -
+tes Association (ADA) and the European Association for the 
+Study of Diabetes (EASD). Diabetologia 2022;65:1925-66.
+8. Cefalu WT , Bray GA, Home PD, Garvey WT , Klein S, Pi-Su -
+nyer FX, et al. Advances in the science, treatment, and pre -
+vention of the disease of obesity: reflections from a diabetes 
+care editors’ expert forum. Diabetes Care 2015;38:1567-82.
+9. Lean MEJ, Leslie WS, Barnes AC, Brosnahan N, Thom G, 
+McCombie L, et al. Durability of a primary care-led weight-
+management intervention for remission of type 2 diabetes: 
+2-year results of the DiRECT open-label, cluster-randomised 
+trial. Lancet Diabetes Endocrinol 2019;7:344-55.
+10. Look AHEAD Research Group. Association of the magni -
+tude of weight loss and changes in physical fitness with long-
+term cardiovascular disease outcomes in overweight or obese 
+people with type 2 diabetes: a post-hoc analysis of the Look 
+AHEAD randomised clinical trial. Lancet Diabetes Endocri -
+nol 2016;4:913-21.
+11. Look AHEAD Research Group. Cardiovascular effects of in -
+tensive lifestyle intervention in type 2 diabetes. N Engl J Med 
+2013;369:145-54.
+12. Look AHEAD Research Group. Eight-year weight losses with 
+an intensive lifestyle intervention: the look AHEAD study. 
+Obesity (Silver Spring) 2014;22:5-13.
+13. Hall KD, Kahan S. Maintenance of lost weight and long-term 
+management of obesity. Med Clin North Am 2018;102:183-97.
+14. Sjostrom L. Review of the key results from the Swedish Obese Subjects (SOS) trial: a prospective controlled intervention 
+study of bariatric surgery. J Intern Med 2013;273:219-34.
+15. Palmer SC, T endal B, Mustafa RA, Vandvik PO, Li S, Hao Q, 
+et al. Sodium-glucose cotransporter protein-2 (SGLT-2) in -
+hibitors and glucagon-like peptide-1 (GLP-1) receptor ago -
+nists for type 2 diabetes: systematic review and network me -
+ta-analysis of randomised controlled trials. BMJ 2021;372:  
+m4573.
+16. Sattar N, Lee MM, Kristensen SL, Branch KR, Del Prato S, 
+Khurmi NS, et al. Cardiovascular, mortality, and kidney out -
+comes with GLP-1 receptor agonists in patients with type 2 
+diabetes: a systematic review and meta-analysis of randomised 
+trials. Lancet Diabetes Endocrinol 2021;9:653-62.
+17. Pi-Sunyer X, Astrup A, Fujioka K, Greenway F, Halpern A, 
+Krempf M, et al. A randomized, controlled trial of 3.0 mg of 
+liraglutide in weight management. N Engl J Med 2015;373:  
+11-22.
+18. Wadden TA, Hollander P , Klein S, Niswender K, Woo V , Hale 
+PM, et al. Weight maintenance and additional weight loss with 
+liraglutide after low-calorie-diet-induced weight loss: the SCALE 
+maintenance randomized study. Int J Obes (Lond) 2013;37:  
+1443-51.
+19. Wilding JPH, Batterham RL, Calanna S, Davies M, Van Gaal 
+LF, Lingvay I, et al. Once-weekly semaglutide in adults with 
+overweight or obesity. N Engl J Med 2021;384:989-1002.
+20. Garvey WT , Birkenfeld AL, Dicker D, Mingrone G, Pedersen 
+SD, Satylganova A, et al. Efficacy and safety of liraglutide 3.0 mg 
+in individuals with overweight or obesity and type 2 diabetes 
+treated with basal insulin: the SCALE insulin randomized 
+controlled trial. Diabetes Care 2020;43:1085-93.
+21. Davies MJ, Bergenstal R, Bode B, Kushner RF, Lewin A, Sk -
+joth TV , et al. Efficacy of liraglutide for weight loss among 
+patients with type 2 diabetes: the SCALE diabetes random -
+ized clinical trial. JAMA 2015;314:687-99.
+22. Wadden TA, Bailey TS, Billings LK, Davies M, Frias JP , Ko -
+roleva A, et al. Effect of subcutaneous semaglutide vs placebo 
+as an adjunct to intensive behavioral therapy on body weight 
+in adults with overweight or obesity: the STEP 3 randomized 
+clinical trial. JAMA 2021;325:1403-13.
+23. Rubino D, Abrahamsson N, Davies M, Hesse D, Greenway 
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 42 | https://www.jomes.org
+FL, Jensen C, et al. Effect of continued weekly subcutaneous 
+semaglutide vs placebo on weight loss maintenance in adults 
+with overweight or obesity: the STEP 4 randomized clinical 
+trial. JAMA 2021;325:1414-25.
+24. Davies M, Færch L, Jeppesen OK, Pakseresht A, Pedersen SD, 
+Perreault L, et al. Semaglutide 2.4 mg once a week in adults 
+with overweight or obesity, and type 2 diabetes (STEP 2): a 
+randomised, double-blind, double-dummy, placebo-controlled, 
+phase 3 trial. Lancet 2021;397:971-84.
+25. Bettge K, Kahle M, Abd El Aziz MS, Meier JJ, Nauck MA. 
+Occurrence of nausea, vomiting and diarrhoea reported as 
+adverse events in clinical trials studying glucagon-like peptide-1 
+receptor agonists: a systematic analysis of published clinical 
+trials. Diabetes Obes Metab 2017;19:336-47.
+26. Khunti K, Ceriello A, Cos X, De Block C. Achievement of 
+guideline targets for blood pressure, lipid, and glycaemic con -
+trol in type 2 diabetes: a meta-analysis. Diabetes Res Clin Pract 
+2018;137:137-48.
+27. Alexiadou K, Anyiam O, T an T . Cracking the combination: 
+gut hormones for the treatment of obesity and diabetes. J 
+Neuroendocrinol 2019;31:e12664.
+28. Baggio LL, Drucker DJ. Glucagon-like peptide-1 receptor co-
+agonists for treating metabolic disease. Mol Metab 2021;46:  
+101090.
+29. Miras AD, le Roux CW. Can medical therapy mimic the clini -
+cal efficacy or physiological effects of bariatric surgery? Int J 
+Obes (Lond) 2014;38:325-33.
+30. Nauck MA, Meier JJ. The incretin effect in healthy individu -
+als and those with type 2 diabetes: physiology, pathophysiol -
+ogy, and response to therapeutic interventions. Lancet Diabe -
+tes Endocrinol 2016;4:525-36.
+31. Drucker DJ, Nauck MA. The incretin system: glucagon-like 
+peptide-1 receptor agonists and dipeptidyl peptidase-4 inhibi -
+tors in type 2 diabetes. Lancet 2006;368:1696-705.
+32. Muller TD, Finan B, Bloom SR, D’ Alessio D, Drucker DJ, 
+Flatt PR, et al. Glucagon-like peptide 1 (GLP-1). Mol Metab 
+2019;30:72-130.
+33. Holst JJ. The physiology of glucagon-like peptide 1. Physiol 
+Rev 2007;87:1409-39.
+34. Nauck MA, Heimesaat MM, Orskov C, Holst JJ, Ebert R, Creutzfeldt W. Preserved incretin activity of glucagon-like 
+peptide 1 [7-36 amide] but not of synthetic human gastric 
+inhibitory polypeptide in patients with type-2 diabetes melli -
+tus. J Clin Invest 1993;91:301-7.
+35. Flint A, Raben A, Astrup A, Holst JJ. Glucagon-like peptide 
+1 promotes satiety and suppresses energy intake in humans. J 
+Clin Invest 1998;101:515-20.
+36. Naslund E, Barkeling B, King N, Gutniak M, Blundell JE, Holst 
+JJ, et al. Energy intake and appetite are suppressed by gluca -
+gon-like peptide-1 (GLP-1) in obese men. Int J Obes Relat 
+Metab Disord 1999;23:304-11.
+37. Meier JJ, Gallwitz B, Siepmann N, Holst JJ, Deacon CF, Schmidt 
+WE, et al. Gastric inhibitory polypeptide (GIP) dose-depend -
+ently stimulates glucagon secretion in healthy human subjects 
+at euglycaemia. Diabetologia 2003;46:798-801.
+38. Khoo B, T an TM. Combination gut hormones: prospects 
+and questions for the future of obesity and diabetes therapy. J 
+Endocrinol 2020;246:R65-74.
+39. Christensen MB, Gasbjerg LS, Heimburger SM, Stensen S, 
+Vilsboll T , Knop FK. GIP’s involvement in the pathophysiol -
+ogy of type 2 diabetes. Peptides 2020;125:170178.
+40. Hojberg PV , Vilsboll T , Rabol R, Knop FK, Bache M, Krarup 
+T , et al. Four weeks of near-normalisation of blood glucose 
+improves the insulin response to glucagon-like peptide-1 and 
+glucose-dependent insulinotropic polypeptide in patients with 
+type 2 diabetes. Diabetologia 2009;52:199-207.
+41. Lund A, Vilsboll T , Bagger JI, Holst JJ, Knop FK. The separate 
+and combined impact of the intestinal hormones, GIP , GLP-
+1, and GLP-2, on glucagon secretion in type 2 diabetes. Am J 
+Physiol Endocrinol Metab 2011;300:E1038-46.
+42. Samms RJ, Coghlan MP , Sloop KW. How may GIP enhance 
+the therapeutic efficacy of GLP-1? T rends Endocrinol Metab 
+2020;31:410-21.
+43. Thondam SK, Daousi C, Wilding JP , Holst JJ, Ameen GI, Yang 
+C, et al. Glucose-dependent insulinotropic polypeptide pro -
+motes lipid deposition in subcutaneous adipocytes in obese 
+type 2 diabetes patients: a maladaptive response. Am J Physi -
+ol Endocrinol Metab 2017;312:E224-33.
+44. Christensen MB, Lund A, Calanna S, Jorgensen NR, Holst JJ, 
+Vilsboll T , et al. Glucose-dependent insulinotropic polypep -
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 https://www.jomes.org | 43
+tide (GIP) inhibits bone resorption independently of insulin 
+and glycemia. J Clin Endocrinol Metab 2018;103:288-94.
+45. Zhang Q, Delessa CT , Augustin R, Bakhti M, Collden G, 
+Drucker DJ, et al. The glucose-dependent insulinotropic 
+polypeptide (GIP) regulates body weight and food intake via 
+CNS-GIPR signaling. Cell Metab 2021;33:833-44.e5.
+46. Finan B, Ma T , Ottaway N, Muller TD, Habegger KM, Hep -
+pner KM, et al. Unimolecular dual incretins maximize meta -
+bolic benefits in rodents, monkeys, and humans. Sci T ransl 
+Med 2013;5:209ra151.
+47. Gault VA, Kerr BD, Harriott P , Flatt PR. Administration of 
+an acylated GLP-1 and GIP preparation provides added ben -
+eficial glucose-lowering and insulinotropic actions over single 
+incretins in mice with type 2 diabetes and obesity. Clin Sci 
+(Lond) 2011;121:107-17.
+48. Norregaard PK, Deryabina MA, T ofteng Shelton P , Fog JU, 
+Daugaard JR, Eriksson PO, et al. A novel GIP analogue, ZP4165, 
+enhances glucagon-like peptide-1-induced body weight loss 
+and improves glycaemic control in rodents. Diabetes Obes 
+Metab 2018;20:60-8.
+49. Bergmann NC, Lund A, Gasbjerg LS, Meessen EC, Andersen 
+MM, Bergmann S, et al. Effects of combined GIP and GLP-1 
+infusion on energy intake, appetite and energy expenditure in 
+overweight/obese individuals: a randomised, crossover study. 
+Diabetologia 2019;62:665-75.
+50. Bergmann NC, Gasbjerg LS, Heimburger SM, Krogh LS, Dela 
+F, Hartmann B, et al. No acute effects of exogenous glucose-
+dependent insulinotropic polypeptide on energy intake, ap -
+petite, or energy expenditure when added to treatment with a 
+long-acting glucagon-like peptide 1 receptor agonist in men 
+with type 2 diabetes. Diabetes Care 2020;43:588-96.
+51. Syed YY. Tirzepatide: first approval. Drugs 2022;82:1213-20.
+52. Willard FS, Douros JD, Gabe MB, Showalter AD, Wainscott 
+DB, Suter TM, et al. Tirzepatide is an imbalanced and biased 
+dual GIP and GLP-1 receptor agonist. JCI Insight 2020;5:  
+e140532.
+53. Coskun T , Sloop KW, Loghin C, Alsina-Fernandez J, Urva S, 
+Bokvist KB, et al. LY3298176, a novel dual GIP and GLP-1 
+receptor agonist for the treatment of type 2 diabetes mellitus: 
+from discovery to clinical proof of concept. Mol Metab 2018;  18:3-14.
+54. Furihata K, Mimura H, Urva S, Oura T , Ohwaki K, Imaoka T . 
+A phase 1 multiple-ascending dose study of tirzepatide in Jap -
+anese participants with type 2 diabetes. Diabetes Obes Metab 
+2022;24:239-46.
+55. Frias JP , Nauck MA, Van J, Kutner ME, Cui X, Benson C, et 
+al. Efficacy and safety of LY3298176, a novel dual GIP and 
+GLP-1 receptor agonist, in patients with type 2 diabetes: a 
+randomised, placebo-controlled and active comparator-con -
+trolled phase 2 trial. Lancet 2018;392:2180-93.
+56. Frias JP , Nauck MA, Van J, Benson C, Bray R, Cui X, et al. 
+Efficacy and tolerability of tirzepatide, a dual glucose-depen -
+dent insulinotropic peptide and glucagon-like peptide-1 re -
+ceptor agonist in patients with type 2 diabetes: a 12-week, 
+randomized, double-blind, placebo-controlled study to evalu -
+ate different dose-escalation regimens. Diabetes Obes Metab 
+2020;22:938-46.
+57. Heise T , Mari A, DeVries JH, Urva S, Li J, Pratt EJ, et al. Ef -
+fects of subcutaneous tirzepatide versus placebo or semaglu -
+tide on pancreatic islet function and insulin sensitivity in adults 
+with type 2 diabetes: a multicentre, randomised, double-blind, 
+parallel-arm, phase 1 clinical trial. Lancet Diabetes Endocrinol 
+2022;10:418-29.
+58. Urva S, Coskun T , Loghin C, Cui X, Beebe E, O’Farrell L, et 
+al. The novel dual glucose-dependent insulinotropic polypep -
+tide and glucagon-like peptide-1 (GLP-1) receptor agonist 
+tirzepatide transiently delays gastric emptying similarly to se -
+lective long-acting GLP-1 receptor agonists. Diabetes Obes 
+Metab 2020;22:1886-91.
+59. Coskun T , Heise T , DeVries J, Urva S, Li J, Pratt EJ, et al. 338-
+OR: Tirzepatide reduces appetite, energy intake, and fat mass 
+in people with T2D. Diabetes 2022;71(Supplement_1):338-
+OR.
+60. Rosenstock J, Wysham C, Frias JP , Kaneko S, Lee CJ, Fernan -
+dez Lando L, et al. Efficacy and safety of a novel dual GIP and 
+GLP-1 receptor agonist tirzepatide in patients with type 2 di -
+abetes (SURPASS-1): a double-blind, randomised, phase 3 
+trial. Lancet 2021;398:143-55.
+61. Frias JP , Davies MJ, Rosenstock J, Perez Manghi FC, Fernan -
+dez Lando L, Bergman BK, et al. Tirzepatide versus semaglu -
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 44 | https://www.jomes.org
+tide once weekly in patients with type 2 diabetes. N Engl J 
+Med 2021;385:503-15.
+62. Del Prato S, Kahn SE, Pavo I, Weerakkody GJ, Yang Z, Doupis 
+J, et al. Tirzepatide versus insulin glargine in type 2 diabetes 
+and increased cardiovascular risk (SURPASS-4): a randomised, 
+open-label, parallel-group, multicentre, phase 3 trial. Lancet 
+2021;398:1811-24.
+63. Ludvik B, Giorgino F, Jodar E, Frias JP , Fernandez Lando L, 
+Brown K, et al. Once-weekly tirzepatide versus once-daily in -
+sulin degludec as add-on to metformin with or without SGLT2 
+inhibitors in patients with type 2 diabetes (SURPASS-3): a 
+randomised, open-label, parallel-group, phase 3 trial. Lancet 
+2021;398:583-98.
+64. Dahl D, Onishi Y, Norwood P , Huh R, Bray R, Patel H, et al. 
+Effect of subcutaneous tirzepatide vs placebo added to titrat -
+ed insulin glargine on glycemic control in patients with type 
+2 diabetes: the SURPASS-5 randomized clinical trial. JAMA 
+2022;327:534-45.
+65. Inagaki N, T akeuchi M, Oura T , Imaoka T , Seino Y. Efficacy 
+and safety of tirzepatide monotherapy compared with dula -
+glutide in Japanese patients with type 2 diabetes (SURPASS 
+J-mono): a double-blind, multicentre, randomised, phase 3 
+trial. Lancet Diabetes Endocrinol 2022;10:623-33.
+66. Kadowaki T , Chin R, Ozeki A, Imaoka T , Ogawa Y. Safety 
+and efficacy of tirzepatide as an add-on to single oral antihy -
+perglycaemic medication in patients with type 2 diabetes in 
+Japan (SURPASS J-combo): a multicentre, randomised, open-
+label, parallel-group, phase 3 trial. Lancet Diabetes Endocrinol 
+2022;10:634-44.
+67. Frias JP . Tirzepatide: a glucose-dependent insulinotropic poly -
+peptide (GIP) and glucagon-like peptide-1 (GLP-1) dual ag -
+onist in development for the treatment of type 2 diabetes. 
+Expert Rev Endocrinol Metab 2020;15:379-94.
+68. De Block C, Bailey C, Wysham C, Hemmingway A, Allen 
+SE, Peleshok J. Tirzepatide for the treatment of adults with 
+type 2 diabetes: an endocrine perspective. Diabetes Obes 
+Metab 2023;25:3-17.
+69. Nauck MA, D’ Alessio DA. Tirzepatide, a dual GIP/GLP-1 
+receptor co-agonist for the treatment of type 2 diabetes with 
+unmatched effectiveness regrading glycaemic control and body weight reduction. Cardiovasc Diabetol 2022;21:169.
+70. Battelino T , Bergenstal RM, Rodriguez A, Fernandez Lando L, 
+Bray R, T ong Z, et al. Efficacy of once-weekly tirzepatide ver -
+sus once-daily insulin degludec on glycaemic control measured 
+by continuous glucose monitoring in adults with type 2 dia -
+betes (SURPASS-3 CGM): a substudy of the randomised, 
+open-label, parallel-group, phase 3 SURPASS-3 trial. Lancet 
+Diabetes Endocrinol 2022;10:407-17.
+71. Gastaldelli A, Cusi K, Fernandez Lando L, Bray R, Brouwers B, 
+Rodriguez A. Effect of tirzepatide versus insulin degludec on 
+liver fat content and abdominal adipose tissue in people with 
+type 2 diabetes (SURPASS-3 MRI): a substudy of the ran -
+domised, open-label, parallel-group, phase 3 SURPASS-3 tri -
+al. Lancet Diabetes Endocrinol 2022;10:393-406.
+72. Sattar N, McGuire DK, Pavo I, Weerakkody GJ, Nishiyama H, 
+Wiese RJ, et al. Tirzepatide cardiovascular event risk assess -
+ment: a pre-specified meta-analysis. Nat Med 2022;28:591-8.
+73. Heerspink HJ, Sattar N, Pavo I, Haupt A, Duffin KL, Yang Z, 
+et al. Effects of tirzepatide versus insulin glargine on kidney 
+outcomes in type 2 diabetes in the SURPASS-4 trial: post-hoc 
+analysis of an open-label, randomised, phase 3 trial. Lancet 
+Diabetes Endocrinol 2022;10:774-85.
+74. Jastreboff AM, Aronne LJ, Ahmad NN, Wharton S, Connery 
+L, Alves B, et al. Tirzepatide once weekly for the treatment of 
+obesity. N Engl J Med 2022;387:205-16.
+75. Vadher K, Patel H, Mody R, Levine JA, Hoog M, Cheng AY, 
+et al. Efficacy of tirzepatide 5, 10 and 15 mg versus semaglu -
+tide 2 mg in patients with type 2 diabetes: an adjusted indi -
+rect treatment comparison. Diabetes Obes Metab 2022;24:  
+1861-8.
+76. T an TM, Khoo B. Tirzepatide and the new era of twincretins 
+for diabetes. Lancet 2021;398:95-7.
+77. Holst JJ, Rosenkilde MM. GIP as a therapeutic target in dia -
+betes and obesity: insight from incretin co-agonists. J Clin 
+Endocrinol Metab 2020;105:e2710-6.
+78. Urva S, Quinlan T , Landry J, Martin J, Loghin C. Effects of 
+renal impairment on the pharmacokinetics of the dual GIP 
+and GLP-1 receptor agonist tirzepatide. Clin Pharmacokinet 
+2021;60:1049-59.
+79. Sjostrom L, Peltonen M, Jacobson P , Ahlin S, Andersson-As -
+Sinha R, et al. Tirzepatide for Type 2 Diabetes and ObesityJ Obes Metab Syndr 2023;32:25-45 https://www.jomes.org | 45
+sarsson J, Anveden A, et al. Association of bariatric surgery 
+with long-term remission of type 2 diabetes and with micro -
+vascular and macrovascular complications. JAMA 2014;311:  
+2297-304.
+80. Arterburn D, Wellman R, Emiliano A, Smith SR, Odegaard 
+AO, Murali S, et al. Comparative effectiveness and safety of 
+bariatric procedures for weight loss: a PCORnet cohort study. 
+Ann Intern Med 2018;169:741-50.
+81. Parker VE, Robertson D, Wang T , Hornigold DC, Petrone M, 
+Cooper AT , et al. Efficacy, safety, and mechanistic insights of 
+cotadutide, a dual receptor glucagon-like peptide-1 and gluca -
+gon agonist. J Clin Endocrinol Metab 2020;105:dgz047.
+82. Enebo LB, Berthelsen KK, Kankam M, Lund MT , Rubino 
+DM, Satylganova A, et al. Safety, tolerability, pharmacokinet -
+ics, and pharmacodynamics of concomitant administration of 
+multiple doses of cagrilintide with semaglutide 2.4 mg for 
+weight management: a randomised, controlled, phase 1b trial. 
+Lancet 2021;397:1736-48.
+83. Papamargaritis D, le Roux CW, Holst JJ, Davies MJ. New 
+therapies for obesity. Cardiovasc Res 2022 Nov 30 [Epub]. 
+https://doi.org/10.1093/cvr/cvac176 .84. Muller TD, Bluher M, T schop MH, DiMarchi RD. Anti-obe -
+sity drug discovery: advances and challenges. Nat Rev Drug 
+Discov 2022;21:201-23.
+85. Habegger KM, Heppner KM, Geary N, Bartness TJ, DiMar -
+chi R, T schop MH. The metabolic actions of glucagon revis -
+ited. Nat Rev Endocrinol 2010;6:689-97.
+86. Zimmermann T , Thomas L, Baader-Pagler T , Haebel P , Simon 
+E, Reindl W, et al. BI 456906: discovery and preclinical phar -
+macology of a novel GCGR/GLP-1R dual agonist with ro -
+bust anti-obesity efficacy. Mol Metab 2022;66:101633.
+87. Urva S, Coskun T , Loh MT , Du Y, Thomas MK, Gurbuz S, 
+et al. LY3437943, a novel triple GIP , GLP-1, and glucagon re -
+ceptor agonist in people with type 2 diabetes: a phase 1b, 
+multicentre, double-blind, placebo-controlled, randomised, 
+multiple-ascending dose trial. Lancet 2022;400:1869-81.
+88. Bossart M, Wagner M, Elvert R, Evers A, Hubschle T , Kloeck -
+ener T , et al. Effects on weight loss and glycemic control with 
+SAR441255, a potent unimolecular peptide GLP-1/GIP/GCG 
+receptor triagonist. Cell Metab 2022;34:59-74.e10.
+89. Dehestani B, Stratford NR, le Roux CW. Amylin as a future 
+obesity treatment. J Obes Metab Syndr 2021;30:320-5.
