@@ -9,7 +9,6 @@ from langchain_community.vectorstores import FAISS
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.chains import create_retrieval_chain
-from langchain.chains import create_history_aware_retriever
 from langchain_core.prompts import MessagesPlaceholder
 from langchain_core.messages import HumanMessage, AIMessage
 
@@ -89,7 +88,31 @@ def ask_question(question):
         HumanMessage(content=question),
         AIMessage(content=response["answer"])
     ])
+    return response["answer"]
 
+# Streamlit app
+st.title("Provider Copilot for Obesity Care")
 
-# ask_question("What are the two best drugs for obesity")
-# ask_question("Which should I use for a patient with diabetes")
+# Initialize chat history
+if "messages" not in st.session_state:
+    st.session_state.messages = []
+
+# Display chat messages from history on app rerun
+for message in st.session_state.messages:
+    with st.chat_message(message["role"]):
+        st.markdown(message["content"])
+
+# Accept user input
+if prompt := st.chat_input("What is your question?"):
+    # Add user message to chat history
+    st.session_state.messages.append({"role": "user", "content": prompt})
+    # Display user message in chat message container
+    with st.chat_message("user"):
+        st.markdown(prompt)
+    answer = ask_question(prompt)
+    # Add system message to chat history
+    st.session_state.messages.append({"role": "system", "content": answer})
+    # Display system message in chat message container
+    with st.chat_message("system"):
+        st.markdown(answer)
+    
