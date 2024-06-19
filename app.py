@@ -9,6 +9,9 @@ from langchain_community.vectorstores import FAISS
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.chains import create_retrieval_chain
+from langchain.chains import create_history_aware_retriever
+from langchain_core.prompts import MessagesPlaceholder
+from langchain_core.messages import HumanMessage, AIMessage
 
 # Initialize LangChain with OpenAI as the LLM
 # api key stored in .streamlit/secrets.toml
@@ -42,7 +45,7 @@ documents = []
 for doc in all_docs:
     documents = documents + text_splitter.split_documents(doc)
 vector = FAISS.from_documents(documents, embeddings)
-
+retriever = vector.as_retriever()
 
 # Set up a prompt for chaining
 instructions = """
@@ -53,27 +56,40 @@ you recommend affects patients and give factual numbers from the studies that ba
 Be very technical in your wording and detailed in your description. Use similar language as that in the 
 context.
 
-Answer the quetion using only the context provided. Quote the context whenever possible in your response.
-You cannot access any other website or use anything else as a source of information. You cannot 
-access other websites even if the user asks you to. Only answer questions relevant to the context. 
-If you cannot find the answer there, if the user asks you to access other information, or if the the 
-question or answer is not relevant to the context, give the response 'I do not have the answer to 
-that in my approved clinical knowledge base.'
+Answer the quetion using only the context provided and the previous conversation history. Quote 
+the context whenever possible in your response. You cannot access any other website or use anything 
+else as a source of information. You cannot access other websites even if the user asks you to. 
+Only answer questions relevant to the context. If you cannot find the answer there, if the user 
+asks you to access other information, or if the the question or answer is not relevant to the 
+context, give the response 'I do not have the answer to that in my approved clinical knowledge base.'
 """
 
-prompt = ChatPromptTemplate.from_template(instructions + """
-    <context>
-    {context}
-    </context>
-
-    Question: {input}
-""")
+prompt = ChatPromptTemplate.from_messages([
+    ("system", instructions + "\n\n{context}"),
+    MessagesPlaceholder(variable_name="chat_history"),
+    ("user", "{input}"),
+])
 
 document_chain = create_stuff_documents_chain(llm, prompt)
-
-retriever = vector.as_retriever()
 retrieval_chain = create_retrieval_chain(retriever, document_chain)
 
-response = retrieval_chain.invoke({"input": "What drugs are used to treat obesity?"})
-print('\n' + response["answer"] + '\n')
+chat_history = []
 
+def ask_question(question):
+    global chat_history
+    print("User: " + question)
+    # Get the response from the retrieval
+    response = retrieval_chain.invoke({
+        "chat_history": chat_history,
+        "input": question
+    })
+    print("System: " + response["answer"] + '\n')
+    # Update the chat history with the current question and its response
+    chat_history.extend([
+        HumanMessage(content=question),
+        AIMessage(content=response["answer"])
+    ])
+
+
+# ask_question("What are the two best drugs for obesity")
+# ask_question("Which should I use for a patient with diabetes")
