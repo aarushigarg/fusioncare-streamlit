@@ -14,19 +14,19 @@ from langchain_core.messages import HumanMessage, AIMessage
 
 # Initialize LangChain with OpenAI as the LLM
 # api key stored in .streamlit/secrets.toml
-llm = ChatOpenAI(api_key=st.secrets["OPENAI_API_KEY"], model="gpt-4")
-
+model_name = "gpt-3.5-turbo"
+llm = ChatOpenAI(api_key=st.secrets["OPENAI_API_KEY"], model=model_name)
 
 all_docs = []
 # Load information from websites
-urls = [
-    "https://medlineplus.gov/",
-    "https://www.mayoclinic.org/diseases-conditions",
-    "https://www.va.gov/WHOLEHEALTH/veteran-handouts/index.asp"
-]
-web_loader = WebBaseLoader(urls)
-doc = web_loader.load() 
-all_docs.append(doc)
+# urls = [
+#     "https://medlineplus.gov/",
+#     "https://www.mayoclinic.org/diseases-conditions",
+#     "https://www.va.gov/WHOLEHEALTH/veteran-handouts/index.asp"
+# ]
+# web_loader = WebBaseLoader(urls)
+# doc = web_loader.load() 
+# all_docs.append(doc)
 
 # Load information from text files
 text_files = os.listdir("information_txt")
@@ -47,24 +47,20 @@ vector = FAISS.from_documents(documents, embeddings)
 retriever = vector.as_retriever()
 
 # Set up a prompt for chaining
-instructions = """
-You are a copilot for an obesity care provider who can provide evidence based content from guidelines and 
-other validated materials uploaded through the context provided. Your goal will be to answer 
-questions for physicians, nurses, nutritionists, or other care team members. Describe how anything
-you recommend affects patients and give factual numbers from the studies that back up your claims.
-Be very technical in your wording and detailed in your description. Use similar language as that in the 
-context.
+provider__bot_instructions = """
+You are a copilot for an obesity care provider who can provide evidence based content from guidelines and other validated materials uploaded through the context provided. Your goal will be to answer questions for physicians, nurses, nutritionists, or other care team members. Describe how anything you recommend affects patients and give factual numbers from the studies that back up your claims. Be very technical in your wording and detailed in your description. Use similar language as that in the context.
 
-Answer the quetion using only the context provided and the previous conversation history. Quote 
-the context whenever possible in your response. You cannot access any other website or use anything 
-else as a source of information. You cannot access other websites even if the user asks you to. 
-Only answer questions relevant to the context. If you cannot find the answer there, if the user 
-asks you to access other information, or if the the question or answer is not relevant to the 
-context, give the response 'I do not have the answer to that in my approved clinical knowledge base.'
+Answer the question using only the context provided and the previous conversation history. Quote the context whenever possible in your response. Only answer questions relevant to the context. If you cannot find the answer there, if the user asks you to access other information, or if the question or answer is not relevant to the context, give the response 'I do not have the answer to that in my approved clinical knowledge base.'
+"""
+
+patient_bot_instructions = """
+Your goal is to assist patients with questions about obesity, nutrition, and body health. You will provide evidence based content from guidelines and other validated materials uploaded through the context. Respond as if explaining the answer to a 5th grader. Be very detailed in your information and provide context. Explain the benefits and consequences of any action you recommend.
+
+Answer the question using only the context provided and the previous conversation history. Quote the context whenever possible in your response. Only answer questions relevant to the context. If you cannot find the answer there, if the user asks you to access other information, or if the question or answer is not relevant to the context, give the response 'I do not have the answer to that in my approved clinical knowledge base.'
 """
 
 prompt = ChatPromptTemplate.from_messages([
-    ("system", instructions + "\n\n{context}"),
+    ("system", patient_bot_instructions + "\n\n{context}"),
     MessagesPlaceholder(variable_name="chat_history"),
     ("user", "{input}"),
 ])
@@ -76,13 +72,11 @@ chat_history = []
 
 def ask_question(question):
     global chat_history
-    print("User: " + question)
     # Get the response from the retrieval
     response = retrieval_chain.invoke({
         "chat_history": chat_history,
         "input": question
     })
-    print("System: " + response["answer"] + '\n')
     # Update the chat history with the current question and its response
     chat_history.extend([
         HumanMessage(content=question),
