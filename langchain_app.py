@@ -40,24 +40,34 @@ class Response:
         self.all_docs = []
         self.load_context()
         self.prompt = ChatPromptTemplate.from_messages([
-            ("system", self.instructions + "\n\n{context}"),
+            ("system", self.instructions),
             MessagesPlaceholder(variable_name="chat_history"),
             ("user", "{input}"),
+            ("system", "Given the conversation and context, respond to the most recent message:\n\n{context}")
         ])
         self.document_chain = create_stuff_documents_chain(self.llm, self.prompt)
         self.retrieval_chain = create_retrieval_chain(self.retriever, self.document_chain)
         self.chat_history = []
 
     def ask_question(self, question):
+        formatted_history = []
+        for message in self.chat_history:
+            if isinstance(message, HumanMessage):
+                formatted_history.append(("user", message.content))
+            elif isinstance(message, AIMessage):
+                formatted_history.append(("system", message.content))
+
         # Get the response from the retrieval
         response = self.retrieval_chain.invoke({
             "chat_history": self.chat_history,
             "input": question
         })
+
         # Update the chat history with the current question and its response
         self.chat_history.extend([
             HumanMessage(content=question),
             AIMessage(content=response["answer"])
         ])
+        
         return response["answer"]
     
