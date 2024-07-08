@@ -32,10 +32,10 @@ class Response:
         vector = FAISS.from_documents(documents, embeddings)
         self.retriever = vector.as_retriever()
 
-    def __init__(self, bot_name, instructions):
+    def __init__(self, bot_name, instructions, model_name):
         self.bot_name = bot_name
         self.instructions = instructions
-        self.model_name = "gpt-3.5-turbo"
+        self.model_name = model_name
         self.llm = ChatOpenAI(api_key=st.secrets["OPENAI_API_KEY"], model=self.model_name)
         self.all_docs = []
         self.load_context()
@@ -68,6 +68,6 @@ class Response:
             HumanMessage(content=question),
             AIMessage(content=response["answer"])
         ])
-        
+
         return response["answer"]
     

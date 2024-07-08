@@ -9,7 +9,7 @@ Answer the question using only the context provided and the previous conversatio
 
 bot_name = "Provider copilot for obesity"
 
-response = Response(bot_name, provider_bot_instructions)
+response = Response(bot_name, provider_bot_instructions, "gpt-3.5-turbo")
 
 # Streamlit app
 st.title(bot_name)
