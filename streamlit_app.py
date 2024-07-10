@@ -8,6 +8,7 @@ def handle_feedback():
         f.write(f"Question: {st.session_state.prompt}\n")
         f.write(f"Answer: {st.session_state.answer}\n")
         f.write(f"Feedback: {st.session_state.fb_k}\n\n")
+    st.session_state.messages.append({"role": "feedback", "content": st.session_state.fb_k})
 
 def streamlit_bot(bot_name, assistant_id):
     response = Response(assistant_id)
