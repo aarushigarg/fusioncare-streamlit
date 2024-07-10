@@ -1,7 +1,3 @@
 streamlit
-langchain
-PyPDF2
-langchain-openai
-langchain-community
-beautifulsoup4
-faiss-cpu
+openai
+streamlit-feedback
