@@ -1,5 +1,13 @@
 from assistant_app import Response
 import streamlit as st
+from streamlit_feedback import streamlit_feedback
+
+def handle_feedback():
+    # Put feedback in a file
+    with open("feedback.txt", "a") as f:
+        f.write(f"Question: {st.session_state.prompt}\n")
+        f.write(f"Answer: {st.session_state.answer}\n")
+        f.write(f"Feedback: {st.session_state.fb_k}\n\n")
 
 def streamlit_bot(bot_name, assistant_id):
     response = Response(assistant_id)
@@ -18,17 +26,24 @@ def streamlit_bot(bot_name, assistant_id):
 
     # Accept user input
     if prompt := st.chat_input("What is your question?"):
+        answer = response.ask_question(prompt)
         # Add user message to chat history
+        st.session_state.prompt = prompt
         st.session_state.messages.append({"role": "user", "content": prompt})
         # Display user message in chat message container
         with st.chat_message("user"):
             st.markdown(prompt)
-        answer = response.ask_question(prompt)
         # Add system message to chat history
+        st.session_state.answer = answer
         st.session_state.messages.append({"role": "assistant", "content": answer})
         # Display system message in chat message container
         with st.chat_message("assistant"):
             st.markdown(answer)
+
+        # Get feedback
+        with st.form('form'):
+            feedback = st.text_input("How is the response?", key="fb_k")
+            submitted_feedback = st.form_submit_button("Submit feedback", on_click=handle_feedback)
 
 
 def main():
