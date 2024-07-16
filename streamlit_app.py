@@ -13,11 +13,11 @@ from datetime import datetime
 #         f.write(f"Feedback: {st.session_state.fb_k}\n\n")
 #     st.session_state.messages.append({"role": "feedback", "content": st.session_state.fb_k})
 
-def handle_feedback(bot_name):
+def handle_feedback():
     connection_string = st.secrets["MONGODB_CONNECTION_STRING"]
     client = MongoClient(connection_string)
     db = client['bot_feedback']
-    collection = db[bot_name]
+    collection = db[st.session_state.bot_name]
     document = {
         "question": st.session_state.prompt,
         "answer": st.session_state.answer,
@@ -61,6 +61,7 @@ def streamlit_bot(bot_name, assistant_id):
         # Get feedback
         with st.form('form'):
             feedback = st.text_input("How is the response?", key="fb_k")
+            st.session_state.bot_name = bot_name
             submitted_feedback = st.form_submit_button("Submit feedback", on_click=handle_feedback)
 
 
