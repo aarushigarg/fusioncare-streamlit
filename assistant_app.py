@@ -34,7 +34,7 @@ class Response:
                 thread_id=self.thread.id,
                 run_id=run.id
             )
-        print("polling complete")
+        print("Polling complete")
 
         # Retrieve the messages from the thread
         messages = self.client.beta.threads.messages.list(

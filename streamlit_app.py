@@ -1,7 +1,10 @@
 from assistant_app import Response
 import streamlit as st
 from streamlit_feedback import streamlit_feedback
+from pymongo import MongoClient
+from datetime import datetime
 
+# 
 # def handle_feedback():
 #     # Put feedback in a file
 #     with open("feedback.txt", "a") as f:
@@ -9,6 +12,20 @@ from streamlit_feedback import streamlit_feedback
 #         f.write(f"Answer: {st.session_state.answer}\n")
 #         f.write(f"Feedback: {st.session_state.fb_k}\n\n")
 #     st.session_state.messages.append({"role": "feedback", "content": st.session_state.fb_k})
+
+def handle_feedback(bot_name):
+    connection_string = st.secrets["MONGODB_CONNECTION_STRING"]
+    client = MongoClient(connection_string)
+    db = client['bot_feedback']
+    collection = db[bot_name]
+    document = {
+        "question": st.session_state.prompt,
+        "answer": st.session_state.answer,
+        "feedback": st.session_state.fb_k,
+        "timestamp": datetime.now()
+    }
+    collection.insert_one(document)
+    st.session_state.messages.append({"role": "feedback", "content": st.session_state.fb_k})
 
 def streamlit_bot(bot_name, assistant_id):
     response = Response(assistant_id)
@@ -42,9 +59,9 @@ def streamlit_bot(bot_name, assistant_id):
             st.markdown(answer)
 
         # Get feedback
-        # with st.form('form'):
-        #     feedback = st.text_input("How is the response?", key="fb_k")
-        #     submitted_feedback = st.form_submit_button("Submit feedback", on_click=handle_feedback)
+        with st.form('form'):
+            feedback = st.text_input("How is the response?", key="fb_k")
+            submitted_feedback = st.form_submit_button("Submit feedback", on_click=handle_feedback)
 
 
 def main():
@@ -55,7 +72,7 @@ def main():
         st.session_state.current_bot = None
 
     # Get the user's choice of chatbot
-    choice = st.sidebar.radio("Select chatbot", ["Provider Copilot", "Patient Copilot"])
+    choice = st.sidebar.radio("Select chatbot", ["Provider Copilot", "Patient Assistant"])
 
     # Clear the chat history if the user switches chatbots
     if st.session_state.current_bot != choice:
@@ -65,7 +82,7 @@ def main():
     # Call the streamlit_bot function with the appropriate assistant ID
     if (choice == "Provider Copilot"):
         streamlit_bot("Provider Copilot For Obesity Care", st.secrets["PROVIDER_ASSISTANT_ID"])
-    if (choice == "Patient Copilot"):
+    if (choice == "Patient Assistant"):
         streamlit_bot("Patient Assistant For Obesity Care", st.secrets["PATIENT_ASSISTANT_ID"])
 
 
