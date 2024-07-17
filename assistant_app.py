@@ -1,6 +1,7 @@
 from openai import OpenAI
 import streamlit as st
 import time
+import re
 
 class Response:
     def __init__(self, assistant_id):
@@ -44,4 +45,5 @@ class Response:
         
         # Extract and return the assistant's response
         resp = messages.data[0].content[0].text.value
+        resp = re.sub(r'【.*?】', '', resp)
         return resp

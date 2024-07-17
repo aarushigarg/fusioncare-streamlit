@@ -112,7 +112,8 @@ def main():
         if choice == "1":
             vector_store.upload_all_files()
         elif choice == "2":
-            vector_store.upload_file()
+            file_name = input("Enter the file name: ")
+            vector_store.upload_file(file_name)
         elif choice == "3":
             vector_store.list_files()
         elif choice == "4":
