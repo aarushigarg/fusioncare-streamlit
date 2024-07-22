@@ -18,7 +18,12 @@ def handle_feedback():
         "timestamp": datetime.now()
     }
     collection.insert_one(document)
-    st.session_state.messages.append({"role": "feedback", "content": st.session_state.fb_k_faces['score'] + st.session_state.fb_k_text})
+    fdbk = ""
+    if st.session_state.fb_k_faces['score']:
+        fdbk += st.session_state.fb_k_faces['score']
+    if st.session_state.fb_k_text:
+        fdbk += st.session_state.fb_k_text
+    st.session_state.messages.append({"role": "feedback", "content": fdbk})
 
 def give_response(prompt, response):
     answer = response.ask_question(prompt)
