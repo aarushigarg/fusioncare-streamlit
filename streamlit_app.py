@@ -71,7 +71,21 @@ def streamlit_bot(bot_name, assistant_id):
         give_response(prompt, response)
     
     # Display buttons for common questions and handle response
-    common_questions = ["What is obesity?", "What is the best diet for weight loss?"]
+    provider_common_questions = [
+        "What are the main GLP-1 side effects (group these as common to rare)", 
+        "What is the best diet for weight loss?",
+        "What blood tests to monitor the patient when on GLP-1s?",
+        "What is the GLP-1 dosing schedule",
+        "Switching between obesity medications"
+    ]
+    patient_common_questions = [
+        "Am I eligible for GLP-1s?",
+        "What is the main side effect?",
+        "How much weight can I lose on Obesity meds?"
+        "Will I need to take the medications forever?"
+        "How do I need to change my diet and lifestyle?"
+    ]
+    common_questions = provider_common_questions if bot_name == "Provider Copilot For Obesity Care" else patient_common_questions
     clicked_question = None
     for question in common_questions:
         if st.button(question):
