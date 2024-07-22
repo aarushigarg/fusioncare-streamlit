@@ -13,11 +13,12 @@ def handle_feedback():
     document = {
         "question": st.session_state.prompt,
         "answer": st.session_state.answer,
-        "feedback": st.session_state.fb_k,
+        "feedback": st.session_state.fb_k_faces['score'],
+        "feedback information": st.session_state.fb_k_text,
         "timestamp": datetime.now()
     }
     collection.insert_one(document)
-    st.session_state.messages.append({"role": "feedback", "content": st.session_state.fb_k})
+    st.session_state.messages.append({"role": "feedback", "content": st.session_state.fb_k_faces['score'] + st.session_state.fb_k_text})
 
 def give_response(prompt, response):
     answer = response.ask_question(prompt)
@@ -35,8 +36,13 @@ def give_response(prompt, response):
         st.markdown(answer)
     
     # Get feedback
+    if 'fb_k_faces' not in st.session_state:
+        st.session_state.fb_k_faces = None
+    if 'fb_k_text' not in st.session_state:
+        st.session_state.fb_k_text = None
     with st.form('feedback form'):
-        feedback = st.text_input("How is the response?", key="fb_k")
+        streamlit_feedback(feedback_type="faces", key="fb_k_faces")
+        st.text_input("How is the response?", key="fb_k_text")
         submitted_feedback = st.form_submit_button("Submit feedback", on_click=handle_feedback)
 
 def streamlit_bot(bot_name, assistant_id):
@@ -55,11 +61,11 @@ def streamlit_bot(bot_name, assistant_id):
         with st.chat_message(message["role"]):
             st.markdown(message["content"])
 
-    # Accept user input
+    # Accept user input and handle response
     if prompt := st.chat_input("What is your question?"):
         give_response(prompt, response)
     
-    # Display buttons for common questions and handle responses
+    # Display buttons for common questions and handle response
     common_questions = ["What is obesity?", "What is the best diet for weight loss?"]
     clicked_question = None
     for question in common_questions:
