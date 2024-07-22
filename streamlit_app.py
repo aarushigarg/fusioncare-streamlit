@@ -19,12 +19,8 @@ def handle_feedback():
     collection.insert_one(document)
     st.session_state.messages.append({"role": "feedback", "content": st.session_state.fb_k})
 
-def answer_common_question(prompt):
-    common_question_answers = {
-        "What is obesity?": "Answer 1", 
-        "What is the best diet for weight loss?": "Answer 2"
-    }
-    answer = common_question_answers[prompt]
+def give_response(prompt, response):
+    answer = response.ask_question(prompt)
     # Add user message to chat history
     st.session_state.prompt = prompt
     st.session_state.messages.append({"role": "user", "content": prompt})
@@ -37,12 +33,18 @@ def answer_common_question(prompt):
     # Display system message in chat message container
     with st.chat_message("assistant"):
         st.markdown(answer)
+    
+    # Get feedback
+    with st.form('feedback form'):
+        feedback = st.text_input("How is the response?", key="fb_k")
+        submitted_feedback = st.form_submit_button("Submit feedback", on_click=handle_feedback)
 
 def streamlit_bot(bot_name, assistant_id):
     response = Response(assistant_id)
 
     # Streamlit app
     st.title(bot_name)
+    st.session_state.bot_name = bot_name
 
     # Initialize chat history
     if "messages" not in st.session_state:
@@ -55,35 +57,16 @@ def streamlit_bot(bot_name, assistant_id):
 
     # Accept user input
     if prompt := st.chat_input("What is your question?"):
-        answer = response.ask_question(prompt)
-        # Add user message to chat history
-        st.session_state.prompt = prompt
-        st.session_state.messages.append({"role": "user", "content": prompt})
-        # Display user message in chat message container
-        with st.chat_message("user"):
-            st.markdown(prompt)
-        # Add system message to chat history
-        st.session_state.answer = answer
-        st.session_state.messages.append({"role": "assistant", "content": answer})
-        # Display system message in chat message container
-        with st.chat_message("assistant"):
-            st.markdown(answer)
-
-        # Get feedback
-        with st.form('feedback form'):
-            feedback = st.text_input("How is the response?", key="fb_k")
-            st.session_state.bot_name = bot_name
-            submitted_feedback = st.form_submit_button("Submit feedback", on_click=handle_feedback)
+        give_response(prompt, response)
     
     # Display buttons for common questions and handle responses
     common_questions = ["What is obesity?", "What is the best diet for weight loss?"]
-
     clicked_question = None
     for question in common_questions:
         if st.button(question):
             clicked_question = question
     if clicked_question:
-        answer_common_question(clicked_question)
+        give_response(clicked_question, response)
 
 
 def main():
