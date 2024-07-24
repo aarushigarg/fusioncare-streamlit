@@ -80,10 +80,10 @@ def streamlit_bot(bot_name, assistant_id):
     ]
     patient_common_questions = [
         "Am I eligible for GLP-1s?",
-        "What is the main side effect?",
-        "How much weight can I lose on Obesity meds?",
+        "How much weight can I lose on obesity meds?",
         "Will I need to take the medications forever?",
-        "How do I need to change my diet and lifestyle?"
+        "How do I need to change my diet and lifestyle?",
+        "What is the main side effect?"
     ]
     common_questions = provider_common_questions if bot_name == "Provider Copilot For Obesity Care" else patient_common_questions
     clicked_question = None
