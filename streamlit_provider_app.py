@@ -75,7 +75,7 @@ def streamlit_bot(bot_name, assistant_id):
         "What are the main GLP-1 side effects? (group them as common to rare)", 
         "What is the best diet for weight loss?",
         "What blood tests to monitor the patient when on GLP-1s?",
-        "What is the GLP-1 dosing schedule",
+        "What is the GLP-1 dosing schedule?",
         "What to consider when switching between obesity medications?"
     ]
     clicked_question = None
